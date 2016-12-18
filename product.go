@@ -1,15 +1,8 @@
 package openfoodfacts
 
-import (
-	"encoding/json"
-	"errors"
-	"fmt"
-	"io/ioutil"
-	"net/http"
-)
+import "encoding/json"
 
 type Product struct {
-	_id                                         string         `json:"_id"`
 	Id                                          string         `json:"id"`
 	Code                                        string         `json:"code"`
 	Brands                                      string         `json:"brands"`
@@ -78,7 +71,7 @@ type Product struct {
 	EmbCodesTags                                []interface{}  `json:"emb_codes_tags"`
 	EntryDatesTags                              []string       `json:"entry_dates_tags"`
 	ExpirationDate                              string         `json:"expiration_date"`
-	FruitsVegetablesNuts100GEstimate            int            `json:"fruits-vegetables-nuts_100g_estimate"`
+	FruitsVegetablesNuts100GEstimate            json.Number    `json:"fruits-vegetables-nuts_100g_estimate"`
 	Ingredients                                 []Ingredient   `json:"ingredients"`
 	IngredientsDebug                            []interface{}  `json:"ingredients_debug"`
 	IngredientsFromOrThatMayBeFromPalmOilNumber int            `json:"ingredients_from_or_that_may_be_from_palm_oil_n"`
@@ -136,7 +129,7 @@ type Product struct {
 	Quantity                                    string         `json:"quantity"`
 	Rev                                         int            `json:"rev"`
 	ScansNumber                                 int            `json:"scans_n"`
-	ServingQuantity                             int            `json:"serving_quantity"`
+	ServingQuantity                             json.Number    `json:"serving_quantity"`
 	ServingSize                                 string         `json:"serving_size"`
 	SortKey                                     int            `json:"sortkey"`
 	States                                      string         `json:"states"`
