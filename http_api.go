@@ -8,6 +8,7 @@ import (
 	"net/http"
 )
 
+// HttpApi is a DataOperator that uses the official API for it's data source.
 type HttpApi struct {
 	locale   string
 	username string
@@ -15,13 +16,18 @@ type HttpApi struct {
 	live     bool
 }
 
-// NewHttpApiRetriever returns a DataOperator that is capable of talking to the official OpenFoodFacts database via
+// NewHttpApiOperator returns a DataOperator that is capable of talking to the official OpenFoodFacts database via
 // the HTTP API, or the dev server if live is false.
 //
-// locale should be one of "world" or the country level code for the locale you wish to use.
-// username and password should be set to your OpenFoodFacts credentials if you need WRITE access, else "".
+// The locale should be one of "world" or the country level code for the locale you wish to use.
 //
-// Call .Sandbox() on the returned operator if you are testing functionality via the sandbox environment.
+// The username and password should be set to your OpenFoodFacts credentials if you need WRITE access, else provide
+// them both as empty strings for anonymous access.
+//
+// Sandbox mode
+//
+// If you are testing your application, you should use the test server in order to use the sandbox environment instead
+// of the live servers. See the Sandbox() method for more detail and an example.
 func NewHttpApiOperator(locale, username, password string) DataOperator {
 	return &HttpApi{
 		locale:   locale,
@@ -31,13 +37,10 @@ func NewHttpApiOperator(locale, username, password string) DataOperator {
 	}
 }
 
-// A ProductRetrievalError is returned by FetchProduct when the resulting status is not 1.
-var ProductRetrievalError = errors.New("Product retrieval failure")
-
 // GetProduct returns a new Product for the given code, retrieved from the server.
 //
-// It will return an error on a failed retrieval, if the retrieval is successful but the status is not 1, then will
-// return ProductRetrievalError.
+// It will return an error on a failed retrieval, if the retrieval is successful but the API result status is not 1,
+// then will return a "ProductRetrievalError" error. This indicates the product is not available.
 func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	request := h.newRequest("GET", "/api/v0/product/%s.json", code)
 
@@ -92,7 +95,8 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	return productResult.Product, nil
 }
 
-// Configures this operator to use the sandbox server at world.openfoodfacts.net instead of the live server.
+// Sandbox configures this operator to use the sandbox server at http://world.openfoodfacts.net instead of the live
+// server. This is used for testing purposes instead of operating on the live server.
 func (h *HttpApi) Sandbox() {
 	h.live = false
 }
