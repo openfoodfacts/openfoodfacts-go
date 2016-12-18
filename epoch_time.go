@@ -7,6 +7,7 @@ import (
 	"time"
 )
 
+// EpochTime allows the proper un/marshaling of a seconds-since-epoch value from JSON.
 type EpochTime struct {
 	time.Time
 }
@@ -37,6 +38,7 @@ func (t *EpochTime) MarshalJSON() ([]byte, error) {
 
 var nilTime = (time.Time{}).UnixNano()
 
+// IsSet allows testing if the value was set. If it is empty, it will return false.
 func (t *EpochTime) IsSet() bool {
 	return t.UnixNano() != nilTime
 }

@@ -58,5 +58,9 @@ func TestProduct(t *testing.T) {
 		} else if strings.TrimLeft(product.Code, "0") != strings.TrimLeft(code, "0") {
 			t.Error("Wrong or different code in retrieved item, expected", code, "got", product.Code, "for item", code, "\n", fmt.Sprintf("%+v", product))
 		}
+
+		if testing.Short() {
+			return
+		}
 	}
 }

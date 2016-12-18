@@ -6,6 +6,7 @@ import (
 	"strings"
 )
 
+// UrlString allows URL to be properly un/marshaled from a JSON string.
 type UrlString struct {
 	url.URL
 }
