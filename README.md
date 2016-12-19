@@ -37,3 +37,6 @@ func main() {
 ~~~
 
 There are runnable examples in the `examples` subdirectory.
+
+## Authors
+Ken Allan
