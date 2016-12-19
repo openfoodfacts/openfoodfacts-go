@@ -1,3 +1,6 @@
+// Copyright © 2016 OpenFoodFacts. All rights reserved.
+// Use of this source code is governed by the MIT license which can be found in the LICENSE.txt file.
+
 // A simple application to demonstrate looking up a product from the OpenFoodFacts database using the EAN number
 // from a barcode.
 //
