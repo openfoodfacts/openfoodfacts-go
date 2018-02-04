@@ -52,6 +52,7 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	if err != nil {
 		return nil, err
 	}
+	defer resp.Body.Close()
 
 	body, err := ioutil.ReadAll(resp.Body)
 
