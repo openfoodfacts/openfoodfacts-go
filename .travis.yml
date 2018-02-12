@@ -1,3 +1,11 @@
 language: go
+go:
+  - 1.13.x
+  - 1.12.x
+  - master
+matrix:
+  fast_finish: true
+  allow_failures:
+    - go: master
 notifications:
   slack: openfoodfacts:3gbooVidxd5IApdjkCuFQU5j
