@@ -16,7 +16,7 @@ import (
 )
 
 var (
-	// ErrNoProduct is an error returned by Client.GetProduct when the product could not be
+	// ErrNoProduct is an error returned by Client.Product when the product could not be
 	// retrieved successfully.
 	// It is not a transient error, the product does not exist.
 	ErrNoProduct = errors.New("Product retrieval failure")
@@ -56,11 +56,11 @@ func NewClient(locale, username, password string) Client {
 	}
 }
 
-// GetProduct returns a new Product for the given code, retrieved from the server.
+// Product returns a new Product for the given code, retrieved from the server.
 //
 // It will return an error on a failed retrieval, if the retrieval is successful but the API result status is not 1,
 // then will return a "ProductRetrievalError" error. This indicates the product is not available.
-func (h *Client) GetProduct(code string) (*Product, error) {
+func (h *Client) Product(code string) (*Product, error) {
 	request := h.newRequest("GET", "/api/v0/product/%s.json", code)
 
 	resp, err := http.DefaultClient.Do(request)

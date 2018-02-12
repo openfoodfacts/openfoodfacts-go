@@ -52,7 +52,7 @@ func TestProduct(t *testing.T) {
 	api.Sandbox()
 
 	for _, code := range codes {
-		product, err := api.GetProduct(code)
+		product, err := api.Product(code)
 
 		if err != nil {
 			t.Error("Error during fetching of item", code, err)
