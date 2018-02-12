@@ -48,8 +48,8 @@ func TestProduct(t *testing.T) {
 		"3560070805259",
 	}
 
-	api := openfoodfacts.NewHttpApiOperator("world", "", "")
-	api.(*openfoodfacts.HttpApi).Sandbox()
+	api := openfoodfacts.NewClient("world", "", "")
+	api.Sandbox()
 
 	for _, code := range codes {
 		product, err := api.GetProduct(code)

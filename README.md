@@ -30,7 +30,7 @@ import (
 )
 
 func main() {
-	api := openfoodfacts.NewHttpApiOperator("world", "", "")
+	api := openfoodfacts.NewClient("world", "", "")
 	product, err := api.GetProduct("0737628064502")
 }
 
