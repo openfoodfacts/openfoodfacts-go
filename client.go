@@ -1,6 +1,10 @@
 // Copyright © 2019 OpenFoodFacts. All rights reserved.
 // Use of this source code is governed by the MIT license which can be found in the LICENSE.txt file.
 
+// This is a go library used to access the OpenFoodFacts.org database for food product, ingredients and
+// nutritional data from within your go application.
+//
+// The main method of using this library is to create a DataOperator and call methods on it.
 package openfoodfacts
 
 import (
@@ -9,6 +13,17 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+)
+
+var (
+	// ErrNoProduct is an error returned by Client.GetProduct when the product could not be
+	// retrieved successfully.
+	// It is not a transient error, the product does not exist.
+	ErrNoProduct = errors.New("Product retrieval failure")
+
+	// ErrUnauthorized is an error returned by Client methods that require a valid user account, but none
+	// was provided when the Client was instantiated.
+	ErrUnauthorized = errors.New("Action requires user account")
 )
 
 // Client is an OpenFoodFacts client.
@@ -94,7 +109,7 @@ func (h *Client) GetProduct(code string) (*Product, error) {
 	}
 
 	if productResult.Status != 1 {
-		return nil, ProductRetrievalError
+		return nil, ErrNoProduct
 	}
 
 	return productResult.Product, nil
