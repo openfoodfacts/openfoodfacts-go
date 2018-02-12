@@ -9,12 +9,12 @@ import (
 	"strings"
 )
 
-// UrlString allows URL to be properly un/marshaled from a JSON string.
-type UrlString struct {
+// URL allows URL to be properly un/marshaled from a JSON string.
+type URL struct {
 	url.URL
 }
 
-func (u *UrlString) UnmarshalJSON(b []byte) error {
+func (u *URL) UnmarshalJSON(b []byte) error {
 	s := strings.Trim(string(b), "\"")
 	if s == "null" {
 		return nil
@@ -29,6 +29,6 @@ func (u *UrlString) UnmarshalJSON(b []byte) error {
 	return nil
 }
 
-func (u *UrlString) MarshalJSON() ([]byte, error) {
+func (u *URL) MarshalJSON() ([]byte, error) {
 	return []byte(fmt.Sprintf("%q", u.URL.String())), nil
 }
