@@ -9,6 +9,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"github.com/google/go-querystring/query"
 )
 
 // HttpApi is a DataOperator that uses the official API for it's data source.
@@ -72,6 +73,37 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	}
 
 	return productResult.Product, nil
+}
+
+// SearchProduct returns a list of Product for the given search terms, retrieved from the server.
+//
+// It will return an error on a failed retrieval, if the retrieval is successful but the API result status is not 1,
+// then will return a "ProductRetrievalError" error. This indicates there is no results.
+func (h *HttpApi) SearchProducts(productSearch *ProductSearch) (*[]Product, error) {
+	queryString, _ := query.Values(productSearch)
+	request := h.newRequest("GET", "/cgi/search.pl?%s&json=1", queryString.Encode())
+
+	resp, err := http.DefaultClient.Do(request)
+
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+
+	body, err := ioutil.ReadAll(resp.Body)
+
+	if err != nil {
+		return nil, err
+	}
+
+	productResults := &ProductResults{}
+	err = json.Unmarshal(body, productResults)
+
+	if err != nil {
+		return nil, handleJsonError(err, body)
+	}
+
+	return productResults.Products, nil
 }
 
 // Sandbox configures this operator to use the sandbox server at http://world.openfoodfacts.net instead of the live
