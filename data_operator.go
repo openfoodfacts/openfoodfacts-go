@@ -17,6 +17,7 @@ import "errors"
 type DataOperator interface {
 	// GetProduct will return a pointer to a Product, given a item code.
 	GetProduct(code string) (*Product, error)
+	SearchProducts(productSearch *ProductSearch) (*[]Product, error)
 }
 
 var (

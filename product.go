@@ -81,7 +81,7 @@ type Product struct {
 	IngredientsFromPalmOilNumber                int            `json:"ingredients_from_palm_oil_n"`
 	IngredientsFromPalmOilTags                  []interface{}  `json:"ingredients_from_palm_oil_tags"`
 	IngredientsIdsDebug                         []string       `json:"ingredients_ids_debug"`
-	IngredientsN                                string         `json:"ingredients_n"`
+	IngredientsN                                json.Number    `json:"ingredients_n"`
 	IngredientsNTags                            []string       `json:"ingredients_n_tags"`
 	IngredientsTags                             []string       `json:"ingredients_tags"`
 	IngredientsText                             string         `json:"ingredients_text"`
@@ -106,7 +106,7 @@ type Product struct {
 	LanguagesHierarchy                          []string       `json:"languages_hierarchy"`
 	LanguagesTags                               []string       `json:"languages_tags"`
 	Locale                                      string         `json:"lc"`
-	MaxImgId                                    string         `json:"max_imgid"`
+	MaxImgId                                    json.Number    `json:"max_imgid"`
 	NewAdditivesNumber                          int            `json:"new_additives_n"`
 	NoNutritionData                             interface{}    `json:"no_nutrition_data"`
 	NutrientLevels                              NutrientLevel  `json:"nutrient_levels"`

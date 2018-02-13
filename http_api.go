@@ -9,6 +9,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"github.com/google/go-querystring/query"
 )
 
 // HttpApi is a DataOperator that uses the official API for it's data source.
@@ -64,32 +65,7 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	err = json.Unmarshal(body, productResult)
 
 	if err != nil {
-		offs := int64(-1)
-		if e, ok := err.(*json.UnmarshalTypeError); ok {
-			offs = e.Offset
-		} else if e, ok := err.(*json.SyntaxError); ok {
-			offs = e.Offset
-		}
-
-		if offs > -1 {
-			a := offs - 50
-			b := offs + 20
-			n := int64(len(body))
-			if a < 0 {
-				a = 0
-			}
-			if b > n {
-				b = n
-			}
-			err = errors.New(
-				fmt.Sprintf("%s at:\n  %s⚠️ %s",
-					string(err.Error()),
-					string(body[a:offs]), string(body[offs:b]),
-				),
-			)
-		}
-
-		return nil, err
+		return nil, handleJsonError(err, body)
 	}
 
 	if productResult.Status != 1 {
@@ -99,10 +75,71 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	return productResult.Product, nil
 }
 
+// SearchProduct returns a list of Product for the given search terms, retrieved from the server.
+//
+// It will return an error on a failed retrieval, if the retrieval is successful but the API result status is not 1,
+// then will return a "ProductRetrievalError" error. This indicates there is no results.
+func (h *HttpApi) SearchProducts(productSearch *ProductSearch) (*[]Product, error) {
+	queryString, _ := query.Values(productSearch)
+	request := h.newRequest("GET", "/cgi/search.pl?%s&json=1", queryString.Encode())
+
+	resp, err := http.DefaultClient.Do(request)
+
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+
+	body, err := ioutil.ReadAll(resp.Body)
+
+	if err != nil {
+		return nil, err
+	}
+
+	productResults := &ProductResults{}
+	err = json.Unmarshal(body, productResults)
+
+	if err != nil {
+		return nil, handleJsonError(err, body)
+	}
+
+	return productResults.Products, nil
+}
+
 // Sandbox configures this operator to use the sandbox server at http://world.openfoodfacts.net instead of the live
 // server. This is used for testing purposes instead of operating on the live server.
 func (h *HttpApi) Sandbox() {
 	h.live = false
+}
+
+// Handle json errors from Unmarshal
+func handleJsonError(err error, body []byte) error {
+	offs := int64(-1)
+	if e, ok := err.(*json.UnmarshalTypeError); ok {
+		offs = e.Offset
+	} else if e, ok := err.(*json.SyntaxError); ok {
+		offs = e.Offset
+	}
+
+	if offs > -1 {
+		a := offs - 50
+		b := offs + 20
+		n := int64(len(body))
+		if a < 0 {
+			a = 0
+		}
+		if b > n {
+			b = n
+		}
+		return errors.New(
+			fmt.Sprintf("%s at:\n  %s⚠️ %s",
+				string(err.Error()),
+				string(body[a:offs]), string(body[offs:b]),
+			),
+		)
+	}
+
+	return err
 }
 
 // newRequest is an internal function to setup the request based on the given locale/liveness of the given HttpApi.
