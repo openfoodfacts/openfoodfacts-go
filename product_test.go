@@ -11,7 +11,7 @@ import (
 	"github.com/openfoodfacts/openfoodfacts-go"
 )
 
-func TestProduct(t *testing.T) {
+func TestGetProduct(t *testing.T) {
 	codes := [...]string{
 		"5201051001076",
 		"9300650658615",
@@ -64,5 +64,24 @@ func TestProduct(t *testing.T) {
 		if testing.Short() {
 			return
 		}
+	}
+}
+
+func TestSearchProducts(t *testing.T) {
+	api := openfoodfacts.NewHttpApiOperator("world", "", "")
+	api.(*openfoodfacts.HttpApi).Sandbox()
+
+	var productSeach = openfoodfacts.ProductSearch{"test", 1, 20, "name"}
+
+	products, err := api.SearchProducts(&productSeach)
+
+	if err != nil {
+		t.Error("Error during search of item", err)
+	} else if len(*products) == 0 {
+		t.Error("Error no result found")
+	}
+
+	if testing.Short() {
+		return
 	}
 }
