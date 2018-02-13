@@ -64,32 +64,7 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	err = json.Unmarshal(body, productResult)
 
 	if err != nil {
-		offs := int64(-1)
-		if e, ok := err.(*json.UnmarshalTypeError); ok {
-			offs = e.Offset
-		} else if e, ok := err.(*json.SyntaxError); ok {
-			offs = e.Offset
-		}
-
-		if offs > -1 {
-			a := offs - 50
-			b := offs + 20
-			n := int64(len(body))
-			if a < 0 {
-				a = 0
-			}
-			if b > n {
-				b = n
-			}
-			err = errors.New(
-				fmt.Sprintf("%s at:\n  %s⚠️ %s",
-					string(err.Error()),
-					string(body[a:offs]), string(body[offs:b]),
-				),
-			)
-		}
-
-		return nil, err
+		return nil, handleJsonError(err, body)
 	}
 
 	if productResult.Status != 1 {
@@ -103,6 +78,36 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 // server. This is used for testing purposes instead of operating on the live server.
 func (h *HttpApi) Sandbox() {
 	h.live = false
+}
+
+// Handle json errors from Unmarshal
+func handleJsonError(err error, body []byte) error {
+	offs := int64(-1)
+	if e, ok := err.(*json.UnmarshalTypeError); ok {
+		offs = e.Offset
+	} else if e, ok := err.(*json.SyntaxError); ok {
+		offs = e.Offset
+	}
+
+	if offs > -1 {
+		a := offs - 50
+		b := offs + 20
+		n := int64(len(body))
+		if a < 0 {
+			a = 0
+		}
+		if b > n {
+			b = n
+		}
+		return errors.New(
+			fmt.Sprintf("%s at:\n  %s⚠️ %s",
+				string(err.Error()),
+				string(body[a:offs]), string(body[offs:b]),
+			),
+		)
+	}
+
+	return err
 }
 
 // newRequest is an internal function to setup the request based on the given locale/liveness of the given HttpApi.
