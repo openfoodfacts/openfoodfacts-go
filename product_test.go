@@ -5,10 +5,11 @@ package openfoodfacts_test
 
 import (
 	"fmt"
+	"log"
 	"strings"
 	"testing"
 
-	"github.com/openfoodfacts/openfoodfacts-go"
+	"github.com/areontar/openfoodfacts-go"
 )
 
 func TestProduct(t *testing.T) {
@@ -21,7 +22,7 @@ func TestProduct(t *testing.T) {
 		"3222473161867",
 		"3242272260059",
 		"0737628064502",
-		"57626339",
+		"57626339", //This product is not found
 		"5410228196693",
 		"5015821151720",
 		"5601077161035",
@@ -53,13 +54,14 @@ func TestProduct(t *testing.T) {
 	api.(*openfoodfacts.HttpApi).Sandbox()
 
 	for _, code := range codes {
+		log.Printf("testing with product %s", code)
 		product, err := api.GetProduct(code)
 
 		if err != nil {
 			t.Error("Error during fetching of item", code, err)
 		} else if strings.TrimLeft(product.Code, "0") != strings.TrimLeft(code, "0") {
 			t.Error("Wrong or different code in retrieved item, expected", code, "got", product.Code, "for item", code, "\n", fmt.Sprintf("%+v", product))
-		}
+		} //TODO add Product not found use case (create diffrent testcase for product not found)
 
 		if testing.Short() {
 			return
