@@ -1,15 +1,14 @@
-// Copyright © 2016 OpenFoodFacts. All rights reserved.
+// Copyright © 2019 OpenFoodFacts. All rights reserved.
 // Use of this source code is governed by the MIT license which can be found in the LICENSE.txt file.
 
 package openfoodfacts_test
 
 import (
 	"fmt"
-	"log"
 	"strings"
 	"testing"
 
-	"github.com/areontar/openfoodfacts-go"
+	"github.com/openfoodfacts/openfoodfacts-go"
 )
 
 func TestProduct(t *testing.T) {
@@ -53,7 +52,6 @@ func TestProduct(t *testing.T) {
 	api.(*openfoodfacts.HttpApi).Sandbox()
 
 	for _, code := range codes {
-		log.Printf("testing with product %s", code)
 		product, err := api.GetProduct(code)
 
 		if err != nil {
@@ -61,9 +59,9 @@ func TestProduct(t *testing.T) {
 		} else if strings.TrimLeft(product.Code, "0") != strings.TrimLeft(code, "0") {
 			t.Error("Wrong or different code in retrieved item, expected", code, "got", product.Code, "for item", code, "\n", fmt.Sprintf("%+v", product))
 		}
-	}
 
-	if testing.Short() {
-		return
+		if testing.Short() {
+			return
+		}
 	}
 }
