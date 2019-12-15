@@ -1,4 +1,4 @@
-// Copyright © 2016 OpenFoodFacts. All rights reserved.
+// Copyright © 2019 OpenFoodFacts. All rights reserved.
 // Use of this source code is governed by the MIT license which can be found in the LICENSE.txt file.
 
 package openfoodfacts_test
@@ -21,7 +21,6 @@ func TestProduct(t *testing.T) {
 		"3222473161867",
 		"3242272260059",
 		"0737628064502",
-		"57626339",
 		"5410228196693",
 		"5015821151720",
 		"5601077161035",

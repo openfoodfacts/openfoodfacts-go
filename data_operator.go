@@ -1,4 +1,4 @@
-// Copyright © 2016 OpenFoodFacts. All rights reserved.
+// Copyright © 2019 OpenFoodFacts. All rights reserved.
 // Use of this source code is governed by the MIT license which can be found in the LICENSE.txt file.
 
 // This is a go library used to access the OpenFoodFacts.org database for food product, ingredients and
