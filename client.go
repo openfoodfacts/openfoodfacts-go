@@ -1,6 +1,10 @@
 // Copyright © 2019 OpenFoodFacts. All rights reserved.
 // Use of this source code is governed by the MIT license which can be found in the LICENSE.txt file.
 
+// This is a go library used to access the OpenFoodFacts.org database for food product, ingredients and
+// nutritional data from within your go application.
+//
+// The main method of using this library is to create a DataOperator and call methods on it.
 package openfoodfacts
 
 import (
@@ -11,15 +15,27 @@ import (
 	"net/http"
 )
 
-// HttpApi is a DataOperator that uses the official API for it's data source.
-type HttpApi struct {
+var (
+	// ErrNoProduct is an error returned by Client.Product when the product could not be
+	// retrieved successfully.
+	// It is not a transient error, the product does not exist.
+	ErrNoProduct = errors.New("Product retrieval failure")
+
+	// ErrUnauthorized is an error returned by Client methods that require a valid user account, but none
+	// was provided when the Client was instantiated.
+	ErrUnauthorized = errors.New("Action requires user account")
+)
+
+// Client is an OpenFoodFacts client.
+// It uses the official API as data source.
+type Client struct {
 	locale   string
 	username string
 	password string
 	live     bool
 }
 
-// NewHttpApiOperator returns a DataOperator that is capable of talking to the official OpenFoodFacts database via
+// NewClient returns a Client that is capable of talking to the official OpenFoodFacts database via
 // the HTTP API, or the dev server if live is false.
 //
 // The locale should be one of "world" or the country level code for the locale you wish to use.
@@ -31,8 +47,8 @@ type HttpApi struct {
 //
 // If you are testing your application, you should use the test server in order to use the sandbox environment instead
 // of the live servers. See the Sandbox() method for more detail and an example.
-func NewHttpApiOperator(locale, username, password string) DataOperator {
-	return &HttpApi{
+func NewClient(locale, username, password string) Client {
+	return Client{
 		locale:   locale,
 		username: username,
 		password: password,
@@ -40,11 +56,11 @@ func NewHttpApiOperator(locale, username, password string) DataOperator {
 	}
 }
 
-// GetProduct returns a new Product for the given code, retrieved from the server.
+// Product returns a new Product for the given code, retrieved from the server.
 //
 // It will return an error on a failed retrieval, if the retrieval is successful but the API result status is not 1,
 // then will return a "ProductRetrievalError" error. This indicates the product is not available.
-func (h *HttpApi) GetProduct(code string) (*Product, error) {
+func (h *Client) Product(code string) (*Product, error) {
 	request := h.newRequest("GET", "/api/v0/product/%s.json", code)
 
 	resp, err := http.DefaultClient.Do(request)
@@ -93,7 +109,7 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 	}
 
 	if productResult.Status != 1 {
-		return nil, ProductRetrievalError
+		return nil, ErrNoProduct
 	}
 
 	return productResult.Product, nil
@@ -101,12 +117,13 @@ func (h *HttpApi) GetProduct(code string) (*Product, error) {
 
 // Sandbox configures this operator to use the sandbox server at http://world.openfoodfacts.net instead of the live
 // server. This is used for testing purposes instead of operating on the live server.
-func (h *HttpApi) Sandbox() {
+func (h *Client) Sandbox() {
 	h.live = false
 }
 
-// newRequest is an internal function to setup the request based on the given locale/liveness of the given HttpApi.
-func (h *HttpApi) newRequest(method, format string, args ...interface{}) *http.Request {
+// newRequest is an internal function to setup the request based on the given
+// locale/liveness of the given Client.
+func (h *Client) newRequest(method, format string, args ...interface{}) *http.Request {
 	path := fmt.Sprintf(format, args...)
 	scheme := "https"
 	sub := "ssl-api"

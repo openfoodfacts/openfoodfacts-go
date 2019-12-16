@@ -16,18 +16,18 @@ type Product struct {
 	LastImageTime                               EpochTime      `json:"last_image_t"`
 	LastModifiedTime                            EpochTime      `json:"last_modified_t"`
 	CompletedTime                               EpochTime      `json:"completed_t"`
-	ImageFrontSmallURL                          UrlString      `json:"image_front_smallURL"`
-	ImageFrontThumbURL                          UrlString      `json:"image_front_thumb_url"`
-	ImageFrontURL                               UrlString      `json:"image_front_url"`
-	ImageIngredientsSmallURL                    UrlString      `json:"image_ingredients_small_url"`
-	ImageIngredientsThumbURL                    UrlString      `json:"image_ingredients_thumb_url"`
-	ImageIngredientsURL                         UrlString      `json:"image_ingredients_url"`
-	ImageNutritionSmallURL                      UrlString      `json:"image_nutrition_small_url"`
-	ImageNutritionThumbURL                      UrlString      `json:"image_nutrition_thumb_url"`
-	ImageNutritionURL                           UrlString      `json:"image_nutrition_url"`
-	ImageSmallURL                               UrlString      `json:"image_small_url"`
-	ImageThumbURL                               UrlString      `json:"image_thumb_url"`
-	ImageURL                                    UrlString      `json:"image_url"`
+	ImageFrontSmallURL                          URL            `json:"image_front_smallURL"`
+	ImageFrontThumbURL                          URL            `json:"image_front_thumb_url"`
+	ImageFrontURL                               URL            `json:"image_front_url"`
+	ImageIngredientsSmallURL                    URL            `json:"image_ingredients_small_url"`
+	ImageIngredientsThumbURL                    URL            `json:"image_ingredients_thumb_url"`
+	ImageIngredientsURL                         URL            `json:"image_ingredients_url"`
+	ImageNutritionSmallURL                      URL            `json:"image_nutrition_small_url"`
+	ImageNutritionThumbURL                      URL            `json:"image_nutrition_thumb_url"`
+	ImageNutritionURL                           URL            `json:"image_nutrition_url"`
+	ImageSmallURL                               URL            `json:"image_small_url"`
+	ImageThumbURL                               URL            `json:"image_thumb_url"`
+	ImageURL                                    URL            `json:"image_url"`
 	Creator                                     string         `json:"creator"`
 	Checkers                                    []interface{}  `json:"checkers"`
 	CheckersTags                                []interface{}  `json:"checkers_tags"`
