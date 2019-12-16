@@ -33,7 +33,7 @@ func (t *EpochTime) UnmarshalJSON(b []byte) (err error) {
 }
 
 func (t *EpochTime) MarshalJSON() ([]byte, error) {
-	if !t.IsSet() {
+	if !t.isSet() {
 		return []byte("null"), nil
 	}
 	return []byte(fmt.Sprintf("%d", t.Time.UnixNano()/1000000)), nil
@@ -41,7 +41,7 @@ func (t *EpochTime) MarshalJSON() ([]byte, error) {
 
 var nilTime = (time.Time{}).UnixNano()
 
-// IsSet allows testing if the value was set. If it is empty, it will return false.
-func (t *EpochTime) IsSet() bool {
+// isSet allows testing if the value was set. If it is empty, it will return false.
+func (t *EpochTime) isSet() bool {
 	return t.UnixNano() != nilTime
 }
