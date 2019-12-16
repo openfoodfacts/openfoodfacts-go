@@ -23,9 +23,9 @@ func (t *EpochTime) UnmarshalJSON(b []byte) (err error) {
 	}
 
 	secs, err := strconv.ParseInt(string(b), 0, 64)
-	if err == nil {
+	if err != nil {
 		t.Time = time.Time{}
-		return nil
+		return err
 	}
 
 	t.Time = time.Unix(secs, 0)
