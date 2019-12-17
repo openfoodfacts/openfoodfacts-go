@@ -130,7 +130,7 @@ type Product struct {
 	PurchasePlaces                              string         `json:"purchase_places"`
 	PurchasePlacesTags                          []interface{}  `json:"purchase_places_tags"`
 	Quantity                                    string         `json:"quantity"`
-	Rev                                         int            `json:"rev"`
+	Rev                                         string         `json:"rev"`
 	ScansNumber                                 int            `json:"scans_n"`
 	ServingQuantity                             json.Number    `json:"serving_quantity"`
 	ServingSize                                 string         `json:"serving_size"`
