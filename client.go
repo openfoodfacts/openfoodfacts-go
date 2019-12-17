@@ -125,20 +125,16 @@ func (h *Client) Sandbox() {
 // locale/liveness of the given Client.
 func (h *Client) newRequest(method, format string, args ...interface{}) *http.Request {
 	path := fmt.Sprintf(format, args...)
-	scheme := "https"
+	const scheme string = "https"
 	sub := "ssl-api"
 	tld := "org"
 
 	if !h.live {
-		scheme = "http"
 		sub = "world"
 		tld = "net"
 	}
 
 	if h.locale != "world" {
-		// Currently there is no way to set the locale but by hitting the non-https locale specific sub-domain.
-		// See: https://github.com/openfoodfacts/openfoodfacts-server/issues/573
-		scheme = "http"
 		sub = h.locale
 	}
 
