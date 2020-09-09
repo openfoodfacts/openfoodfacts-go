@@ -81,7 +81,7 @@ type Product struct {
 	IngredientsFromPalmOilNumber                int            `json:"ingredients_from_palm_oil_n"`
 	IngredientsFromPalmOilTags                  []interface{}  `json:"ingredients_from_palm_oil_tags"`
 	IngredientsIdsDebug                         []string       `json:"ingredients_ids_debug"`
-	IngredientsN                                int            `json:"ingredients_n"`
+	IngredientsN                                int            `json:"ingredients_n,string"`
 	IngredientsNTags                            []string       `json:"ingredients_n_tags"`
 	IngredientsTags                             []string       `json:"ingredients_tags"`
 	IngredientsText                             string         `json:"ingredients_text"`
