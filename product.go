@@ -3,9 +3,7 @@
 
 package openfoodfacts
 
-import (
-	"encoding/json"
-)
+import "encoding/json"
 
 type Product struct {
 	Id                                          string         `json:"id"`
