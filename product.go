@@ -5,29 +5,7 @@ package openfoodfacts
 
 import (
 	"encoding/json"
-	"bytes"
 )
-
-// FIXME: API returns IngredientsN as a string for some products
-type StringInt int
-
-func (f StringInt) MarshalJSON() ([]byte, error) {
-	return json.Marshal(int(f))
-}
-
-func (f *StringInt) UnmarshalJSON(data []byte) error {
-	var v int
-	if len(data) >= 2 && data[0] == '"' && data[len(data)-1] == '"' {
-		// Remove single set of matching quotes
-		data = data[1 : len(data)-1]
-	}
-	// And, optionally if you also then want to remove any whitespace:
-	data = bytes.TrimSpace(data)
-
-	err := json.Unmarshal(data, &v)
-	*f = StringInt(v)
-	return err
-}
 
 type Product struct {
 	Id                                          string         `json:"id"`
@@ -105,7 +83,7 @@ type Product struct {
 	IngredientsFromPalmOilNumber                int            `json:"ingredients_from_palm_oil_n"`
 	IngredientsFromPalmOilTags                  []interface{}  `json:"ingredients_from_palm_oil_tags"`
 	IngredientsIdsDebug                         []string       `json:"ingredients_ids_debug"`
-	IngredientsN                                StringInt      `json:"ingredients_n"`
+	IngredientsN                                json.Number    `json:"ingredients_n"`
 	IngredientsNTags                            []string       `json:"ingredients_n_tags"`
 	IngredientsTags                             []string       `json:"ingredients_tags"`
 	IngredientsText                             string         `json:"ingredients_text"`
