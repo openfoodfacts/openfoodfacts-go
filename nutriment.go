@@ -60,6 +60,7 @@ type Nutriment struct {
 	ProteinsValue           float64 `json:"proteins_value"`
 	ProteinsUnit            string  `json:"proteins_unit"`
 	Proteins                float64 `json:"proteins"`
+	PolyunsaturatedFat100G  float64 `json:"polyunsaturated-fat_100g"`
 	Sodium                  float64 `json:"sodium"`
 	SodiumServing           float64 `json:"sodium_serving"`
 	SodiumValue             float64 `json:"sodium_value"`
@@ -75,6 +76,7 @@ type Nutriment struct {
 	AlcoholUnit             string  `json:"alcohol_unit"`
 	Alcohol100G             float64 `json:"alcohol_100g"`
 	Alcohol                 float64 `json:"alcohol"`
+	MonounsaturatedFat100G  float64 `json:"monounsaturated-fat_100g"`
 	NovaGroup               float64 `json:"nova-group"`
 	NovaGroupServing        float64 `json:"nova-group_serving"`
 	NovaGroup100G           float64 `json:"nova-group_100g"`
