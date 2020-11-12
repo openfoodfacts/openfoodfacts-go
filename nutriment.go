@@ -27,6 +27,7 @@ type Nutriment struct {
 	CalciumValue            float64 `json:"calcium_value"`
 	CalciumLabel            string  `json:"calcium_label"`
 	Calcium100G             float64 `json:"calcium_100g"`
+	Cholesterol100G         float64 `json:"cholesterol_100g"`
 	SaturatedFat100G        float64 `json:"saturated-fat_100g"`
 	SaturatedFatServing     float64 `json:"saturated-fat_serving"`
 	SaturatedFat            float64 `json:"saturated-fat"`
@@ -61,6 +62,7 @@ type Nutriment struct {
 	ProteinsUnit            string  `json:"proteins_unit"`
 	Proteins                float64 `json:"proteins"`
 	PolyunsaturatedFat100G  float64 `json:"polyunsaturated-fat_100g"`
+	Potassium100G           float64 `json:"potassium_100g"`
 	Sodium                  float64 `json:"sodium"`
 	SodiumServing           float64 `json:"sodium_serving"`
 	SodiumValue             float64 `json:"sodium_value"`
