@@ -13,6 +13,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"time"
 )
 
 var (
@@ -33,6 +34,7 @@ type Client struct {
 	username string
 	password string
 	live     bool
+	timeout  time.Duration
 }
 
 // NewClient returns a Client that is capable of talking to the official OpenFoodFacts database via
@@ -47,12 +49,17 @@ type Client struct {
 //
 // If you are testing your application, you should use the test server in order to use the sandbox environment instead
 // of the live servers. See the Sandbox() method for more detail and an example.
+//
+// Timeout
+//
+// By default the HTTP client doesn't sets a timeout. See the Timeout(time.Duration) method for more detail.
 func NewClient(locale, username, password string) Client {
 	return Client{
 		locale:   locale,
 		username: username,
 		password: password,
 		live:     true,
+		timeout:  0,
 	}
 }
 
@@ -63,7 +70,7 @@ func NewClient(locale, username, password string) Client {
 func (h *Client) Product(code string) (*Product, error) {
 	request := h.newRequest("GET", "/api/v0/product/%s.json", code)
 
-	resp, err := http.DefaultClient.Do(request)
+	resp, err := (&http.Client{Timeout: h.timeout}).Do(request)
 
 	if err != nil {
 		return nil, err
@@ -119,6 +126,11 @@ func (h *Client) Product(code string) (*Product, error) {
 // server. This is used for testing purposes instead of operating on the live server.
 func (h *Client) Sandbox() {
 	h.live = false
+}
+
+// Timeout configures the HTTP client timeout. As the net/http specifies a 0 timeout means no timeout.
+func (h *Client) Timeout(timeout time.Duration) {
+	h.timeout = timeout
 }
 
 // newRequest is an internal function to setup the request based on the given
