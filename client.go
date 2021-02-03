@@ -130,7 +130,7 @@ func (h *Client) Sandbox() {
 
 // Timeout configures the HTTP client timeout. As the net/http specifies a 0 timeout means no timeout.
 func (h *Client) Timeout(timeout time.Duration) {
-	h.client = &http.Client{Timeout: timeout}
+	h.client.Timeout = timeout
 }
 
 // newRequest is an internal function to setup the request based on the given
