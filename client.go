@@ -34,7 +34,7 @@ type Client struct {
 	username string
 	password string
 	live     bool
-	timeout  time.Duration
+	client   *http.Client
 }
 
 // NewClient returns a Client that is capable of talking to the official OpenFoodFacts database via
@@ -59,7 +59,7 @@ func NewClient(locale, username, password string) Client {
 		username: username,
 		password: password,
 		live:     true,
-		timeout:  0,
+		client:   http.DefaultClient,
 	}
 }
 
@@ -70,7 +70,7 @@ func NewClient(locale, username, password string) Client {
 func (h *Client) Product(code string) (*Product, error) {
 	request := h.newRequest("GET", "/api/v0/product/%s.json", code)
 
-	resp, err := (&http.Client{Timeout: h.timeout}).Do(request)
+	resp, err := h.client.Do(request)
 
 	if err != nil {
 		return nil, err
@@ -130,7 +130,7 @@ func (h *Client) Sandbox() {
 
 // Timeout configures the HTTP client timeout. As the net/http specifies a 0 timeout means no timeout.
 func (h *Client) Timeout(timeout time.Duration) {
-	h.timeout = timeout
+	h.client = &http.Client{Timeout: timeout}
 }
 
 // newRequest is an internal function to setup the request based on the given

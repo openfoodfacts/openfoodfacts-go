@@ -3,7 +3,10 @@
 
 package openfoodfacts
 
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
 // You can use the Client.Product method to retrieve a Product by barcode.
 func ExampleClient_Product() {
@@ -18,6 +21,12 @@ func ExampleClient_Product() {
 func ExampleClient_Sandbox() {
 	api := NewClient("world", "", "")
 	api.Sandbox() // Enable test mode
+}
+
+// This will set a timeout for the http client
+func ExampleClient_Timeout() {
+	api := NewClient("world", "", "")
+	api.Timeout(10 * time.Second) // Set http client timeout
 }
 
 // Create a Client to retrieve and modify database items.
