@@ -59,7 +59,7 @@ func NewClient(locale, username, password string) Client {
 		username: username,
 		password: password,
 		live:     true,
-		client:   http.DefaultClient,
+		client:   &http.Client{},
 	}
 }
 
