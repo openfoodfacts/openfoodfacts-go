@@ -16,6 +16,8 @@ import (
 	"time"
 )
 
+const defaultUserAgent = "OpenFoodFacts - Go - v0.0 - https://github.com/openfoodfacts/openfoodfacts-go"
+
 var (
 	// ErrNoProduct is an error returned by Client.Product when the product could not be
 	// retrieved successfully.
@@ -25,8 +27,6 @@ var (
 	// ErrUnauthorized is an error returned by Client methods that require a valid user account, but none
 	// was provided when the Client was instantiated.
 	ErrUnauthorized = errors.New("Action requires user account")
-
-	defaultUserAgent = "OpenFoodFacts - Go - v0.0 - https://github.com/openfoodfacts/openfoodfacts-go"
 )
 
 // Client is an OpenFoodFacts client.
