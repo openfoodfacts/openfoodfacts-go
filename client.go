@@ -16,6 +16,8 @@ import (
 	"time"
 )
 
+const defaultUserAgent = "OpenFoodFacts - Go - v0.0 - https://github.com/openfoodfacts/openfoodfacts-go"
+
 var (
 	// ErrNoProduct is an error returned by Client.Product when the product could not be
 	// retrieved successfully.
@@ -30,11 +32,12 @@ var (
 // Client is an OpenFoodFacts client.
 // It uses the official API as data source.
 type Client struct {
-	locale   string
-	username string
-	password string
-	live     bool
-	client   *http.Client
+	locale    string
+	username  string
+	password  string
+	live      bool
+	client    *http.Client
+	userAgent string
 }
 
 // NewClient returns a Client that is capable of talking to the official OpenFoodFacts database via
@@ -53,13 +56,20 @@ type Client struct {
 // Timeout
 //
 // By default the HTTP client doesn't sets a timeout. See the Timeout(time.Duration) method for more detail.
+//
+// UserAgent
+//
+// Please set a UserAgent HTTP Header with the name of the app/service querying, the version, system and a URL if
+// you have one, so that you are not blocked by mistake
+// (e.g. CoolFoodApp - Go - Version 1.0 - https://coolfoodapp.com)
 func NewClient(locale, username, password string) Client {
 	return Client{
-		locale:   locale,
-		username: username,
-		password: password,
-		live:     true,
-		client:   &http.Client{},
+		locale:    locale,
+		username:  username,
+		password:  password,
+		live:      true,
+		client:    &http.Client{},
+		userAgent: defaultUserAgent,
 	}
 }
 
@@ -133,6 +143,11 @@ func (h *Client) Timeout(timeout time.Duration) {
 	h.client.Timeout = timeout
 }
 
+// UserAgent configures the HTTP User-Agent Header.
+func (h *Client) UserAgent(ua string) {
+	h.userAgent = ua
+}
+
 // newRequest is an internal function to setup the request based on the given
 // locale/liveness of the given Client.
 func (h *Client) newRequest(method, format string, args ...interface{}) *http.Request {
@@ -158,6 +173,10 @@ func (h *Client) newRequest(method, format string, args ...interface{}) *http.Re
 
 	if !h.live {
 		request.SetBasicAuth("off", "off")
+	}
+
+	if h.userAgent != "" {
+		request.Header.Set("User-Agent", h.userAgent)
 	}
 
 	return request
