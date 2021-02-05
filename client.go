@@ -25,6 +25,8 @@ var (
 	// ErrUnauthorized is an error returned by Client methods that require a valid user account, but none
 	// was provided when the Client was instantiated.
 	ErrUnauthorized = errors.New("Action requires user account")
+
+	defaultUserAgent = "OpenFoodFacts - Go - v0.0 - https://github.com/openfoodfacts/openfoodfacts-go"
 )
 
 // Client is an OpenFoodFacts client.
@@ -62,11 +64,12 @@ type Client struct {
 // (e.g. CoolFoodApp - Go - Version 1.0 - https://coolfoodapp.com)
 func NewClient(locale, username, password string) Client {
 	return Client{
-		locale:   locale,
-		username: username,
-		password: password,
-		live:     true,
-		client:   &http.Client{},
+		locale:    locale,
+		username:  username,
+		password:  password,
+		live:      true,
+		client:    &http.Client{},
+		userAgent: defaultUserAgent,
 	}
 }
 
