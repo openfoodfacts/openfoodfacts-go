@@ -90,11 +90,11 @@ func TestProduct_Unmarshalling(t *testing.T) {
 	for _, tc := range cases {
 		t.Run(tc.name, func(t *testing.T) {
 			productFile, err := os.Open(tc.fixture)
-
 			if err != nil {
 				t.Error("Error when opening test file", tc.fixture)
 				return
 			}
+			defer productFile.Close()
 
 			byteProducts, err := ioutil.ReadAll(productFile)
 			if err != nil {
