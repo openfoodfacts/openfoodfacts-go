@@ -1,0 +1,779 @@
+{
+    "status": 1,
+    "code": "5050854517631",
+    "product": {
+        "lc": "en",
+        "traces_from_ingredients": "",
+        "category_properties": {
+            "ciqual_food_name:fr": "Miel",
+            "ciqual_food_name:en": "Honey"
+        },
+        "categories_tags": [
+            "en:spreads",
+            "en:breakfasts",
+            "en:bee-products",
+            "en:farming-products",
+            "en:sweet-spreads",
+            "en:sweeteners",
+            "en:honeys",
+            "en:acacia-honeys"
+        ],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [],
+        "origins_tags": [
+            "en:european-union",
+            "en:non-european-union"
+        ],
+        "generic_name": "",
+        "languages_hierarchy": [
+            "en:english"
+        ],
+        "last_image_t": 1419561939,
+        "additives_n": 0,
+        "emb_codes_20141016": "",
+        "pnns_groups_2_tags": [
+            "sweets",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "tacinte",
+            "roboto-app"
+        ],
+        "ingredients_text_with_allergens_en": "Acacia Honey",
+        "sortkey": 1575646733,
+        "categories_old": "Spreads, Breakfasts, Bee products, Farming products, Sweet spreads, Sweeteners, Honeys, Acacia honeys",
+        "completeness": 0.8,
+        "categories_properties": {
+            "ciqual_food_code:en": "31008",
+            "agribalyse_food_code:en": "31008"
+        },
+        "traces_from_user": "(en) ",
+        "labels_tags": [],
+        "nutrition_grades_tags": [
+            "not-applicable"
+        ],
+        "informers_tags": [
+            "tacinte"
+        ],
+        "vitamins_tags": [],
+        "lang": "en",
+        "origins_lc": "en",
+        "interface_version_modified": "20150316.jqm2",
+        "additives_tags": [],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/nutrition_en.7.400.jpg",
+        "unknown_nutrients_tags": [],
+        "generic_name_en": "",
+        "nova_group_debug": " -- categories/en:honeys : 2",
+        "countries_hierarchy": [
+            "en:united-kingdom"
+        ],
+        "traces_tags": [],
+        "packaging_tags": [
+            "bottle-plastic"
+        ],
+        "nova_groups": "2",
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.100.jpg",
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:non-vegan",
+            "en:vegetarian"
+        ],
+        "nutrient_levels": {
+            "sugars": "high",
+            "salt": "low",
+            "fat": "low",
+            "saturated-fat": "low"
+        },
+        "created_t": 1419561875,
+        "amino_acids_prev_tags": [],
+        "nova_group": 2,
+        "nucleotides_tags": [],
+        "images": {
+            "front_en": {
+                "rev": "5",
+                "white_magic": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 213
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 53
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 106
+                    },
+                    "full": {
+                        "h": 2353,
+                        "w": 1251
+                    }
+                },
+                "normalize": "checked",
+                "geometry": "1251x2353-401-64",
+                "imgid": "2"
+            },
+            "nutrition": {
+                "rev": "7",
+                "white_magic": null,
+                "geometry": "395x285-609-1296",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 285,
+                        "w": 395
+                    },
+                    "100": {
+                        "h": 72,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 285,
+                        "w": 395
+                    },
+                    "200": {
+                        "h": 144,
+                        "w": 200
+                    }
+                },
+                "imgid": "1"
+            },
+            "ingredients": {
+                "rev": "6",
+                "white_magic": null,
+                "geometry": "538x156-712-1049",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 116,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 29,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 58,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 156,
+                        "w": 538
+                    }
+                },
+                "imgid": "1"
+            },
+            "nutrition_en": {
+                "rev": "7",
+                "white_magic": null,
+                "geometry": "395x285-609-1296",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 285,
+                        "w": 395
+                    },
+                    "100": {
+                        "h": 72,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 285,
+                        "w": 395
+                    },
+                    "200": {
+                        "h": 144,
+                        "w": 200
+                    }
+                },
+                "imgid": "1"
+            },
+            "ingredients_en": {
+                "rev": "6",
+                "white_magic": null,
+                "geometry": "538x156-712-1049",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 116,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 29,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 58,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 156,
+                        "w": 538
+                    }
+                },
+                "imgid": "1"
+            },
+            "1": {
+                "uploaded_t": 1419561876,
+                "uploader": "tacinte",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2592,
+                        "w": 1944
+                    }
+                }
+            },
+            "front": {
+                "rev": "5",
+                "white_magic": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 213
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 53
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 106
+                    },
+                    "full": {
+                        "h": 2353,
+                        "w": 1251
+                    }
+                },
+                "normalize": "checked",
+                "geometry": "1251x2353-401-64",
+                "imgid": "2"
+            },
+            "2": {
+                "uploaded_t": 1419561939,
+                "uploader": "tacinte",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2592,
+                        "w": 1944
+                    }
+                }
+            }
+        },
+        "ingredients_n": 1,
+        "editors_tags": [
+            "roboto-app",
+            "tacinte"
+        ],
+        "countries_lc": "en",
+        "allergens_tags": [],
+        "update_key": "key_1618065313",
+        "nucleotides_prev_tags": [],
+        "completed_t": 1419563335,
+        "nova_groups_tags": [
+            "en:2-processed-culinary-ingredients"
+        ],
+        "manufacturing_places": "United Kingdom",
+        "code": "5050854517631",
+        "codes_tags": [
+            "code-13",
+            "5050854517xxx",
+            "505085451xxxx",
+            "50508545xxxxx",
+            "5050854xxxxxx",
+            "505085xxxxxxx",
+            "50508xxxxxxxx",
+            "5050xxxxxxxxx",
+            "505xxxxxxxxxx",
+            "50xxxxxxxxxxx",
+            "5xxxxxxxxxxxx"
+        ],
+        "labels": "",
+        "last_modified_by": "roboto-app",
+        "last_edit_dates_tags": [
+            "2019-12-06",
+            "2019-12",
+            "2019"
+        ],
+        "entry_dates_tags": [
+            "2014-12-26",
+            "2014-12",
+            "2014"
+        ],
+        "creator": "tacinte",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "sweetener",
+            "asda",
+            "and",
+            "spread",
+            "product",
+            "acacia",
+            "breakfast",
+            "miels-d-acacia",
+            "bee",
+            "non",
+            "pure",
+            "honey",
+            "eu",
+            "sweet",
+            "farming"
+        ],
+        "link": "",
+        "ingredients_debug": [
+            "Acacia Honey"
+        ],
+        "languages_codes": {
+            "en": 5
+        },
+        "labels_lc": "en",
+        "packaging": "bottle - plastic",
+        "ingredients_text_en": "Acacia Honey",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.400.jpg",
+        "last_image_dates_tags": [
+            "2014-12-26",
+            "2014-12",
+            "2014"
+        ],
+        "popularity_key": 0,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [],
+        "misc_tags": [
+            "en:nutriscore-not-computed",
+            "en:nutriscore-not-applicable",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "states_tags": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "ecoscore_score": 72,
+        "photographers_tags": [
+            "tacinte"
+        ],
+        "last_modified_t": 1575646733,
+        "ingredients": [
+            {
+                "percent_max": 100,
+                "id": "en:acacia-honey",
+                "percent_min": 100,
+                "percent_estimate": 100,
+                "text": "Acacia Honey",
+                "vegan": "no",
+                "vegetarian": "yes"
+            }
+        ],
+        "countries": "United Kingdom",
+        "stores": "Asda",
+        "cities_tags": [],
+        "ciqual_food_name_tags": [
+            "honey"
+        ],
+        "other_nutritional_substances_tags": [],
+        "brands": "Asda",
+        "categories": "Spreads, Breakfasts, Bee products, Farming products, Sweet spreads, Sweeteners, Honeys, Acacia honeys",
+        "ingredients_text_with_allergens": "Acacia Honey",
+        "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+        "nutrient_levels_tags": [
+            "en:fat-in-low-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-low-quantity"
+        ],
+        "known_ingredients_n": 2,
+        "minerals_prev_tags": [],
+        "ingredients_text": "Acacia Honey",
+        "product_name": "Pure Acacia Honey",
+        "origins": "EU and non EU",
+        "languages_tags": [
+            "en:english",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "allergens": "",
+        "categories_lc": "en",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/ingredients_en.6.100.jpg",
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "b",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "value_it": -5,
+                    "transportation_score_lu": 0,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_value": -5,
+                    "transportation_score_ch": 0,
+                    "value_ie": -5,
+                    "transportation_value_de": 0,
+                    "value_fr": -5,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "transportation_score_nl": 0,
+                    "value_lu": -5
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:bottle",
+                            "material": "en:plastic",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": "0"
+                        }
+                    ],
+                    "score": 0
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "b",
+            "score": 72,
+            "grade_de": "b",
+            "missing_data_warning": 1,
+            "grade_nl": "b",
+            "score_be": 67,
+            "agribalyse": {
+                "co2_transportation": "0.10682376",
+                "ef_distribution": "0.0033692282000000002",
+                "name_fr": "Miel",
+                "score": 82,
+                "agribalyse_food_code": "31008",
+                "ef_agriculture": "0.23224057",
+                "ef_consumption": "0",
+                "name_en": "Honey",
+                "co2_total": "1.1495103",
+                "ef_packaging": "0.020453713999999998",
+                "ef_processing": "0",
+                "is_beverage": 0,
+                "co2_processing": "0",
+                "dqr": "3.68",
+                "code": "31008",
+                "co2_consumption": "0",
+                "co2_distribution": "0.010649056",
+                "ef_total": "0.26433796000000004",
+                "co2_agriculture": "0.84338911",
+                "ef_transportation": "0.0082744467",
+                "co2_packaging": "0.18864842"
+            },
+            "grade_it": "b",
+            "score_nl": 67,
+            "grade_ie": "b",
+            "missing": {
+                "labels": 1,
+                "origins": 1
+            },
+            "score_ch": 67,
+            "score_de": 67,
+            "score_fr": 67,
+            "score_ie": 67,
+            "score_lu": 67,
+            "score_it": 67,
+            "score_es": 67,
+            "grade_ch": "b",
+            "grade_es": "b",
+            "grade": "b",
+            "grade_lu": "b"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/nutrition_en.7.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/nutrition_en.7.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/nutrition_en.7.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/ingredients_en.6.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/ingredients_en.6.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/ingredients_en.6.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.200.jpg"
+                }
+            }
+        },
+        "origins_old": "EU and non EU",
+        "rev": 9,
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "roboto-app",
+        "additives_prev_original_tags": [],
+        "ingredients_tags": [
+            "en:acacia-honey",
+            "en:honey"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/nutrition_en.7.100.jpg",
+        "labels_prev_tags": [],
+        "product_name_en": "Pure Acacia Honey",
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:spreads",
+            "en:breakfasts",
+            "en:bee-products",
+            "en:farming-products",
+            "en:sweet-spreads",
+            "en:sweeteners",
+            "en:honeys",
+            "en:acacia-honeys"
+        ],
+        "ecoscore_grade": "b",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "labels_prev_hierarchy": [],
+        "languages": {
+            "en:english": 5
+        },
+        "ingredients_percent_analysis": 1,
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-31008",
+            "agribalyse-food-code-known",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-31008",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-31008"
+        ],
+        "purchase_places": "Liverpool,United Kingdom",
+        "id": "5050854517631",
+        "no_nutrition_data": null,
+        "pnns_groups_1": "Sugary snacks",
+        "allergens_from_user": "(en) ",
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/ingredients_en.6.400.jpg",
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "additives_old_tags": [],
+        "labels_hierarchy": [],
+        "ecoscore_tags": [
+            "b"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "origins_hierarchy": [
+            "en:european-union",
+            "en:non-european-union"
+        ],
+        "complete": 1,
+        "nutrition_score_beverage": 0,
+        "pnns_groups_2": "Sweets",
+        "new_additives_n": 0,
+        "product_quantity": 250,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.100.jpg",
+        "ingredients_text_debug": "Acacia Honey",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.400.jpg",
+        "_id": "5050854517631",
+        "countries_tags": [
+            "en:united-kingdom"
+        ],
+        "ingredients_hierarchy": [
+            "en:acacia-honey",
+            "en:honey"
+        ],
+        "stores_tags": [
+            "asda"
+        ],
+        "additives_original_tags": [],
+        "compared_to_category": "fr:miels-d-acacia",
+        "states_hierarchy": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "1",
+            "1-10"
+        ],
+        "pnns_groups_1_tags": [
+            "sugary-snacks",
+            "known"
+        ],
+        "nutrition_score_debug": "no nutriscore for category en:honeys",
+        "additives_old_n": 0,
+        "packagings": [
+            {
+                "shape": "en:bottle",
+                "material": "en:plastic"
+            }
+        ],
+        "data_quality_errors_tags": [],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "brands_tags": [
+            "asda"
+        ],
+        "quantity": "250 g",
+        "ingredients_ids_debug": [
+            "acacia-honey"
+        ],
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "ingredients_original_tags": [
+            "en:acacia-honey"
+        ],
+        "unknown_ingredients_n": 0,
+        "manufacturing_places_tags": [
+            "united-kingdom"
+        ],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "emb_codes": "",
+        "max_imgid": "2",
+        "editors": [
+            "tacinte"
+        ],
+        "image_small_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/front_en.5.200.jpg",
+        "nutriments": {
+            "proteins": 0.1,
+            "energy_100g": 1450,
+            "carbohydrates_unit": "g",
+            "energy-kj_100g": 1450,
+            "sodium_100g": 0,
+            "sugars_100g": 82.1,
+            "sodium_value": 0,
+            "salt_100g": 0,
+            "nova-group_serving": 2,
+            "energy_unit": "kJ",
+            "salt_unit": "g",
+            "proteins_unit": "g",
+            "carbohydrates_value": 84.3,
+            "sugars_unit": "g",
+            "energy-kj_unit": "kJ",
+            "fat_unit": "g",
+            "salt": 0,
+            "salt_value": 0,
+            "proteins_value": 0.1,
+            "saturated-fat_100g": 0.2,
+            "fiber_100g": 0.1,
+            "saturated-fat": 0.2,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+            "fat_value": 0.4,
+            "nova-group": 2,
+            "energy": 1450,
+            "fiber": 0.1,
+            "saturated-fat_value": 0.2,
+            "nova-group_100g": 2,
+            "fat_100g": 0.4,
+            "saturated-fat_unit": "g",
+            "energy_value": 1450,
+            "energy-kj_value": 1450,
+            "fiber_value": 0.1,
+            "fiber_unit": "g",
+            "energy-kj": 1450,
+            "proteins_100g": 0.1,
+            "sugars_value": 82.1,
+            "sodium_unit": "g",
+            "carbohydrates_100g": 84.3,
+            "sodium": 0,
+            "sugars": 82.1,
+            "carbohydrates": 84.3,
+            "fat": 0.4
+        },
+        "purchase_places_tags": [
+            "liverpool",
+            "united-kingdom"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/ingredients_en.6.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/505/085/451/7631/nutrition_en.7.200.jpg",
+        "additives_tags_n": null
+    },
+    "status_verbose": "product found"
+}

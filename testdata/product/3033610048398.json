@@ -1,0 +1,808 @@
+{
+    "status": 1,
+    "code": "3033610048398",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {
+            "ciqual_food_name:fr": "Foie gras, canard, bloc -aliment moyen-",
+            "ciqual_food_name:en": "Foie gras, block -average-"
+        },
+        "traces_debug_tags": [],
+        "categories_tags": [
+            "en:canned-foods",
+            "en:fish-and-meat-and-eggs",
+            "en:foies-gras",
+            "en:foies-gras-from-ducks",
+            "en:whole-foies-gras"
+        ],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [],
+        "informers": [],
+        "origins_tags": [
+            "en:france",
+            "fr:sud-ouest"
+        ],
+        "product_name_fr": "Pure Tradition foie gras de canard entier du sud-ouest",
+        "generic_name": "foie gras entier",
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1356982732,
+        "additives_n": 0,
+        "emb_codes_20141016": "FR 40.261.001 CE",
+        "pnns_groups_2_tags": [
+            "salty-and-fatty-products",
+            "known"
+        ],
+        "emb_codes_tags": [
+            "fr-40-261-001-ec"
+        ],
+        "correctors_tags": [
+            "jeanbono",
+            "jeremy64",
+            "sebleouf",
+            "moon-rabbit",
+            "roboto-app"
+        ],
+        "sortkey": 1582745476,
+        "categories_old": "Conserves, Poissons et viandes et oeufs, Foies gras, Foies gras de canard, Foies gras entiers",
+        "categories_properties": {
+            "ciqual_food_code:en": "8331",
+            "agribalyse_proxy_food_code:en": "40120"
+        },
+        "completeness": 0.9,
+        "traces_from_user": "(fr) ",
+        "labels_tags": [
+            "en:no-preservatives",
+            "en:pgi",
+            "en:without-sodium-nitrite",
+            "fr:canard-a-foie-gras-du-sud-ouest"
+        ],
+        "nutrition_grades_tags": [
+            "unknown"
+        ],
+        "informers_tags": [
+            "stephane",
+            "nash",
+            "jeanbono",
+            "jeremy64",
+            "sebleouf",
+            "moon-rabbit"
+        ],
+        "lang": "fr",
+        "vitamins_tags": [],
+        "origins_lc": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "additives_tags": [],
+        "unknown_nutrients_tags": [],
+        "stores_debug_tags": [],
+        "nova_group_debug": " -- ingredients/en:sugar : 3",
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "traces_tags": [],
+        "packaging_tags": [
+            "conserve",
+            "bocal",
+            "verre"
+        ],
+        "nova_groups": "3",
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.100.jpg",
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:non-vegan",
+            "en:non-vegetarian"
+        ],
+        "nutrient_levels": {},
+        "created_t": 1356982680,
+        "nova_group": 3,
+        "amino_acids_prev_tags": [],
+        "nucleotides_tags": [],
+        "purchase_places_debug_tags": [],
+        "images": {
+            "1": {
+                "uploaded_t": 1356982681,
+                "uploader": "stephane",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                }
+            },
+            "front": {
+                "rev": "5",
+                "white_magic": null,
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 308,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 77,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2285,
+                        "w": 2963
+                    },
+                    "200": {
+                        "h": 154,
+                        "w": 200
+                    }
+                },
+                "geometry": "2963x2285-301-97",
+                "imgid": "2"
+            },
+            "ingredients": {
+                "rev": "7",
+                "white_magic": null,
+                "normalize": null,
+                "sizes": {
+                    "400": {
+                        "h": 120,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 30,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 604,
+                        "w": 2007
+                    },
+                    "200": {
+                        "h": 60,
+                        "w": 200
+                    }
+                },
+                "geometry": "2007x604-106-399",
+                "imgid": "3"
+            },
+            "front_fr": {
+                "rev": "5",
+                "white_magic": null,
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 308,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 77,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2285,
+                        "w": 2963
+                    },
+                    "200": {
+                        "h": 154,
+                        "w": 200
+                    }
+                },
+                "geometry": "2963x2285-301-97",
+                "imgid": "2"
+            },
+            "2": {
+                "uploaded_t": 1356982698,
+                "uploader": "stephane",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": 1356982732,
+                "uploader": "stephane",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2448,
+                        "w": 3264
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "rev": "7",
+                "white_magic": null,
+                "normalize": null,
+                "sizes": {
+                    "400": {
+                        "h": 120,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 30,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 604,
+                        "w": 2007
+                    },
+                    "200": {
+                        "h": 60,
+                        "w": 200
+                    }
+                },
+                "geometry": "2007x604-106-399",
+                "imgid": "3"
+            }
+        },
+        "ingredients_text_with_allergens_fr": "Foie Gras de Canard du Sud-Ouest, sel, poivre, sucre.",
+        "ingredients_n": 4,
+        "manufacturing_places_debug_tags": [],
+        "editors_tags": [
+            "roboto-app",
+            "sebleouf",
+            "jeremy64",
+            "nash",
+            "moon-rabbit",
+            "stephane",
+            "jeanbono"
+        ],
+        "allergens_tags": [],
+        "countries_lc": "fr",
+        "update_key": "key_1618065313",
+        "nucleotides_prev_tags": [],
+        "completed_t": 1392235138,
+        "nova_groups_tags": [
+            "en:3-processed-foods"
+        ],
+        "emb_codes_debug_tags": [],
+        "code": "3033610048398",
+        "manufacturing_places": "France",
+        "codes_tags": [
+            "code-13",
+            "3033610048xxx",
+            "303361004xxxx",
+            "30336100xxxxx",
+            "3033610xxxxxx",
+            "303361xxxxxxx",
+            "30336xxxxxxxx",
+            "3033xxxxxxxxx",
+            "303xxxxxxxxxx",
+            "30xxxxxxxxxxx",
+            "3xxxxxxxxxxxx"
+        ],
+        "labels": "PGI, Without sodium nitrite, fr:Canard à foie gras du Sud Ouest\n\n\n, en:no-preservatives",
+        "last_modified_by": "roboto-app",
+        "last_edit_dates_tags": [
+            "2020-02-26",
+            "2020-02",
+            "2020"
+        ],
+        "entry_dates_tags": [
+            "2012-12-31",
+            "2012-12",
+            "2012"
+        ],
+        "creator": "stephane",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "canard",
+            "de",
+            "no-preservative",
+            "sud-ouest",
+            "conserve",
+            "ouest",
+            "labeyrie",
+            "without",
+            "poisson",
+            "sud",
+            "nitrite",
+            "france",
+            "du",
+            "pure",
+            "pgi",
+            "et",
+            "foie",
+            "entier",
+            "viande",
+            "sodium",
+            "oeuf",
+            "gra",
+            "tradition"
+        ],
+        "amino_acids_tags": [],
+        "link": "",
+        "ingredients_debug": [
+            "Foie Gras de Canard du Sud-Ouest",
+            ",",
+            null,
+            null,
+            null,
+            " sel",
+            ",",
+            null,
+            null,
+            null,
+            " poivre",
+            ",",
+            null,
+            null,
+            null,
+            " sucre."
+        ],
+        "languages_codes": {
+            "fr": 5
+        },
+        "labels_lc": "en",
+        "packaging": "Conserve,Bocal,Verre",
+        "packaging_debug_tags": [],
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.400.jpg",
+        "last_image_dates_tags": [
+            "2012-12-31",
+            "2012-12",
+            "2012"
+        ],
+        "popularity_key": 0,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [],
+        "misc_tags": [
+            "en:nutriscore-not-computed",
+            "en:nutrition-not-enough-data-to-compute-nutrition-score",
+            "en:nutrition-no-saturated-fat",
+            "en:nutriscore-missing-nutrition-data",
+            "en:nutriscore-missing-nutrition-data-energy",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "states_tags": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "generic_name_fr_debug_tags": [],
+        "ecoscore_score": 79,
+        "debug_param_sorted_langs": [
+            "fr"
+        ],
+        "photographers_tags": [
+            "stephane"
+        ],
+        "product_name_fr_debug_tags": [],
+        "last_modified_t": 1582745476,
+        "ingredients": [
+            {
+                "percent_max": 100,
+                "id": "fr:foie-gras-de-canard-du-sud-ouest",
+                "percent_min": 25,
+                "percent_estimate": 62.5,
+                "text": "Foie Gras de Canard du Sud-Ouest",
+                "vegan": "no",
+                "vegetarian": "no"
+            },
+            {
+                "percent_max": 50,
+                "id": "en:salt",
+                "text": "sel",
+                "percent_estimate": 18.75,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 33.3333333333333,
+                "id": "en:pepper",
+                "percent_estimate": 9.375,
+                "percent_min": 0,
+                "text": "poivre",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 25,
+                "id": "en:sugar",
+                "text": "sucre",
+                "percent_estimate": 9.375,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            }
+        ],
+        "stores": "",
+        "countries": "France",
+        "cities_tags": [
+            "saint-geours-de-maremne-landes-france"
+        ],
+        "other_nutritional_substances_tags": [],
+        "ciqual_food_name_tags": [
+            "foie-gras-block-average"
+        ],
+        "brands": "Labeyrie",
+        "categories": "Conserves, Poissons et viandes et oeufs, Foies gras, Foies gras de canard, Foies gras entiers",
+        "ingredients_text_with_allergens": "Foie Gras de Canard du Sud-Ouest, sel, poivre, sucre.",
+        "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+        "nutrient_levels_tags": [],
+        "known_ingredients_n": 9,
+        "minerals_prev_tags": [],
+        "ingredients_text": "Foie Gras de Canard du Sud-Ouest, sel, poivre, sucre.",
+        "serving_size_debug_tags": [],
+        "product_name": "Pure Tradition foie gras de canard entier du sud-ouest",
+        "origins": "Sud-Ouest,France",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Foie Gras de Canard du Sud-Ouest, sel, poivre, sucre.",
+        "lang_debug_tags": [],
+        "categories_lc": "fr",
+        "allergens": "",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/ingredients_fr.7.100.jpg",
+        "photographers": [
+            "stephane"
+        ],
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "a",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 15,
+                    "transportation_value_es": 6,
+                    "transportation_value_be": 13,
+                    "transportation_value_ch": 10,
+                    "transportation_score_be": 85,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:france",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_score": 93,
+                    "epi_value": 4,
+                    "transportation_score_ch": 69,
+                    "transportation_score_ie": 47,
+                    "value_nl": 16,
+                    "value_ie": 11,
+                    "value_fr": 19,
+                    "transportation_value_de": 9,
+                    "value_be": 17,
+                    "value_es": 10,
+                    "transportation_value_ie": 7,
+                    "transportation_score_it": 47,
+                    "transportation_score_de": 61,
+                    "origins_from_origins_field": [
+                        "en:france"
+                    ],
+                    "transportation_score_fr": 100,
+                    "transportation_value_nl": 12,
+                    "transportation_value_lu": 12,
+                    "value_ch": 14,
+                    "transportation_score_es": 37,
+                    "transportation_value_it": 7,
+                    "value_de": 13,
+                    "value_it": 11,
+                    "transportation_score_lu": 82,
+                    "transportation_score_nl": 77,
+                    "value_lu": 16
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 0,
+                    "packagings": [
+                        {
+                            "shape": "en:food-can",
+                            "material": "en:glass",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": "81"
+                        },
+                        {
+                            "shape": "en:jar",
+                            "material": "en:unknown",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "score": -19,
+                    "warning": "unscored_shape"
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "a",
+            "score": 79,
+            "grade_de": "a",
+            "missing_data_warning": 1,
+            "grade_nl": "a",
+            "score_be": 96,
+            "agribalyse": {
+                "co2_transportation": "0.19674011",
+                "ef_distribution": "0.0089437534",
+                "name_fr": "Foie, oie, cru",
+                "score": 89,
+                "ef_agriculture": "0.14660258999999998",
+                "ef_consumption": "0.0024293397",
+                "name_en": "Liver, goose, raw",
+                "co2_total": "1.563809",
+                "ef_packaging": "0.01768459",
+                "ef_processing": "0.016664930999999997",
+                "is_beverage": 0,
+                "dqr": "3.05",
+                "co2_processing": "0.23800367",
+                "agribalyse_proxy_food_code": "40120",
+                "code": "40120",
+                "co2_consumption": "0.0047993021",
+                "co2_distribution": "0.030308663",
+                "ef_total": "0.20736134",
+                "co2_agriculture": "0.80551469",
+                "ef_transportation": "0.015034638000000001",
+                "co2_packaging": "0.28844568"
+            },
+            "grade_it": "a",
+            "score_nl": 95,
+            "grade_ie": "a",
+            "missing": {
+                "packagings": 1,
+                "labels": 1
+            },
+            "score_ch": 93,
+            "score_de": 92,
+            "score_fr": 98,
+            "score_ie": 90,
+            "score_lu": 95,
+            "score_it": 90,
+            "score_es": 89,
+            "grade_ch": "a",
+            "grade_es": "a",
+            "grade": "b",
+            "grade_lu": "a"
+        },
+        "selected_images": {
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/303/361/004/8398/ingredients_fr.7.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/303/361/004/8398/ingredients_fr.7.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/303/361/004/8398/ingredients_fr.7.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.200.jpg"
+                }
+            }
+        },
+        "rev": 12,
+        "origins_old": "Sud-Ouest,France",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "roboto-app",
+        "additives_prev_original_tags": [],
+        "ingredients_tags": [
+            "fr:foie-gras-de-canard-du-sud-ouest",
+            "en:poultry",
+            "en:duck",
+            "en:duck-liver",
+            "en:duck-foie-gras",
+            "en:salt",
+            "en:pepper",
+            "en:seed",
+            "en:sugar"
+        ],
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:canned-foods",
+            "en:fish-and-meat-and-eggs",
+            "en:foies-gras",
+            "en:foies-gras-from-ducks",
+            "en:whole-foies-gras"
+        ],
+        "ecoscore_grade": "b",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ingredients_percent_analysis": 1,
+        "languages": {
+            "en:french": 5
+        },
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-40120",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-8331",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-40120"
+        ],
+        "purchase_places": "",
+        "id": "3033610048398",
+        "no_nutrition_data": "on",
+        "pnns_groups_1": "Salty snacks",
+        "allergens_from_user": "(fr) ",
+        "checkers": [],
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/ingredients_fr.7.400.jpg",
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:no-nutrition-data"
+        ],
+        "additives_old_tags": [],
+        "ingredients_from_palm_oil_n": 0,
+        "ecoscore_tags": [
+            "b"
+        ],
+        "labels_hierarchy": [
+            "en:no-preservatives",
+            "en:pgi",
+            "en:without-sodium-nitrite",
+            "fr:Canard à foie gras du Sud Ouest"
+        ],
+        "origins_hierarchy": [
+            "en:france",
+            "fr:Sud-Ouest"
+        ],
+        "ingredients_text_fr_debug_tags": [],
+        "complete": 1,
+        "pnns_groups_2": "Salty and fatty products",
+        "nutrition_score_beverage": 0,
+        "new_additives_n": 0,
+        "product_quantity": 270,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.100.jpg",
+        "ingredients_text_debug": "Foie Gras de Canard du Sud-Ouest, sel, poivre, sucre.",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.400.jpg",
+        "_id": "3033610048398",
+        "countries_tags": [
+            "en:france"
+        ],
+        "ingredients_hierarchy": [
+            "fr:foie-gras-de-canard-du-sud-ouest",
+            "en:poultry",
+            "en:duck",
+            "en:duck-liver",
+            "en:duck-foie-gras",
+            "en:salt",
+            "en:pepper",
+            "en:seed",
+            "en:sugar"
+        ],
+        "stores_tags": [],
+        "additives_original_tags": [],
+        "compared_to_category": "en:whole-foies-gras",
+        "states_hierarchy": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "correctors": [],
+        "expiration_date_debug_tags": [],
+        "ingredients_n_tags": [
+            "4",
+            "1-10"
+        ],
+        "pnns_groups_1_tags": [
+            "salty-snacks",
+            "known"
+        ],
+        "nutrition_score_debug": "missing energy",
+        "additives_old_n": 0,
+        "packagings": [
+            {
+                "shape": "en:food-can",
+                "material": "en:glass"
+            },
+            {
+                "shape": "en:jar"
+            }
+        ],
+        "brands_tags": [
+            "labeyrie"
+        ],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:no-nutrition-data"
+        ],
+        "data_quality_errors_tags": [],
+        "quantity": "270 g",
+        "link_debug_tags": [],
+        "ingredients_ids_debug": [
+            "foie-gras-de-canard-du-sud-ouest",
+            "sel",
+            "poivre",
+            "sucre"
+        ],
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "ingredients_original_tags": [
+            "fr:foie-gras-de-canard-du-sud-ouest",
+            "en:salt",
+            "en:pepper",
+            "en:sugar"
+        ],
+        "unknown_ingredients_n": 0,
+        "manufacturing_places_tags": [
+            "france"
+        ],
+        "quantity_debug_tags": [],
+        "emb_codes_orig": "FR 40.261.001 EC",
+        "checkers_tags": [],
+        "emb_codes": "FR 40.261.001 EC",
+        "max_imgid": "3",
+        "editors": [
+            "jeanbono",
+            "nash",
+            "jeremy64",
+            "stephane"
+        ],
+        "nutrition_data_per_debug_tags": [],
+        "image_small_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/front_fr.5.200.jpg",
+        "brands_debug_tags": [],
+        "generic_name_fr": "foie gras entier",
+        "nutriments": {
+            "nova-group_serving": 3,
+            "nova-group": 3,
+            "nova-group_100g": 3,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0
+        },
+        "purchase_places_tags": [],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/303/361/004/8398/ingredients_fr.7.200.jpg"
+    },
+    "status_verbose": "product found"
+}

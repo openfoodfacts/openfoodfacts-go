@@ -1,0 +1,1600 @@
+{
+    "status": 1,
+    "code": "3245412470929",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {
+            "ciqual_food_name:fr": "Gratin de pâtes",
+            "ciqual_food_name:en": "Pasta au gratin -oven grilled-"
+        },
+        "traces_debug_tags": [],
+        "categories_tags": [
+            "en:meals",
+            "en:pasta-dishes",
+            "en:gratins",
+            "en:meals-with-fish",
+            "en:microwave-meals",
+            "en:meals-with-tuna",
+            "en:pasta-gratin",
+            "fr:macaroni-prepares"
+        ],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [
+            "en:fish",
+            "en:gluten",
+            "en:milk"
+        ],
+        "origins_tags": [],
+        "product_name_fr": "Gratin de macaroni aux légumes et au thon A l'emmental râpé",
+        "generic_name": "",
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1450535827,
+        "additives_n": 2,
+        "emb_codes_20141016": "EMB 84007W,FR 84.007.020 CE",
+        "carbon_footprint_from_known_ingredients_debug": "en:chopped-tomatoes 23% x 0.5 = 11.5 g - en:tuna 15% x 4 = 60 g - en:pre-fried-onions 3.4% x 0.6 = 2.04 g - en:onion 3.2% x 0.6 = 1.92 g - en:grilled-aubergines 2% x 6.2 = 12.4 g - en:grilled-courgette 2% x 0.7 = 1.4 g - en:extra-virgin-olive-oil 2% x 2.6 = 5.2 g - en:garlic-paste 1.6% x 0.3 = 0.48 g - en:crushed-peeled-tomato 18% x 1.4 = 25.2 g - ",
+        "pnns_groups_2_tags": [
+            "one-dish-meals",
+            "known"
+        ],
+        "emb_codes_tags": [
+            "emb-84007w",
+            "fr-84-007-020-ec"
+        ],
+        "correctors_tags": [
+            "segundo",
+            "phoenix",
+            "moon-rabbit",
+            "roboto-app"
+        ],
+        "sortkey": 1582759842,
+        "categories_old": "Plats préparés, Plats à base de pâtes, Gratins, Plats préparés au poisson, Plats préparés à réchauffer au micro-ondes, Plats au thon, Gratins de pâtes, Macaroni préparés",
+        "categories_properties": {
+            "ciqual_food_code:en": "25122",
+            "agribalyse_food_code:en": "25122"
+        },
+        "completeness": 1,
+        "traces_from_user": "(fr) ",
+        "labels_tags": [
+            "en:no-artificial-flavors",
+            "en:green-dot",
+            "en:made-in-france",
+            "en:no-artificial-colors",
+            "en:no-colorings",
+            "en:no-flavour-enhancer"
+        ],
+        "nutrition_grades_tags": [
+            "b"
+        ],
+        "informers_tags": [
+            "phoenix",
+            "segundo",
+            "moon-rabbit"
+        ],
+        "lang": "fr",
+        "vitamins_tags": [],
+        "origins_lc": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "additives_tags": [
+            "en:e160c",
+            "en:e415"
+        ],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/nutrition_fr.9.400.jpg",
+        "unknown_nutrients_tags": [],
+        "stores_debug_tags": [],
+        "nova_group_debug": " -- categories/en:meals : 3 -- additives/en:e160c : 4",
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "traces_tags": [],
+        "packaging_tags": [
+            "barquette",
+            "film",
+            "plastique",
+            "etui",
+            "carton"
+        ],
+        "nova_groups": "4",
+        "allergens_from_ingredients": "blé, thon, emmental, blé, thon",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.100.jpg",
+        "ingredients_analysis_tags": [
+            "en:palm-oil-content-unknown",
+            "en:non-vegan",
+            "en:non-vegetarian"
+        ],
+        "nutrient_levels": {
+            "salt": "moderate",
+            "sugars": "low",
+            "saturated-fat": "low",
+            "fat": "moderate"
+        },
+        "nutriscore_data": {
+            "proteins": 7.2,
+            "negative_points": 6,
+            "sugars_points": 0,
+            "sodium_value": 396,
+            "score": 1,
+            "positive_points": 5,
+            "saturated_fat_value": 1.2,
+            "is_water": 0,
+            "proteins_points": 4,
+            "saturated_fat_points": 1,
+            "saturated_fat_ratio": 24.4897959183673,
+            "proteins_value": 7.2,
+            "saturated_fat_ratio_points": 3,
+            "fiber_points": 1,
+            "grade": "b",
+            "is_cheese": 0,
+            "energy": 557,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 39.2,
+            "fiber": 1.3,
+            "energy_points": 1,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 4,
+            "is_fat": 0,
+            "energy_value": 557,
+            "is_beverage": 0,
+            "fiber_value": 1.3,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 39.2,
+            "saturated_fat_ratio_value": 24.5,
+            "sugars_value": 2.7,
+            "saturated_fat": 1.2,
+            "sodium": 396,
+            "sugars": 2.7
+        },
+        "created_t": 1450535773,
+        "nova_group": 4,
+        "amino_acids_prev_tags": [],
+        "nutrition_grade_fr": "b",
+        "nucleotides_tags": [],
+        "purchase_places_debug_tags": [],
+        "images": {
+            "nutrition": {
+                "rev": "9",
+                "white_magic": "false",
+                "geometry": "1145x645-154-160",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 113,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 645,
+                        "w": 1145
+                    }
+                },
+                "imgid": "4"
+            },
+            "nutrition_fr": {
+                "rev": "9",
+                "white_magic": "false",
+                "geometry": "1145x645-154-160",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 113,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 645,
+                        "w": 1145
+                    }
+                },
+                "imgid": "4"
+            },
+            "ingredients": {
+                "rev": "8",
+                "white_magic": "false",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 116,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 29,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 520,
+                        "w": 1790
+                    },
+                    "200": {
+                        "h": 58,
+                        "w": 200
+                    }
+                },
+                "geometry": "1790x520-59-292",
+                "imgid": "3"
+            },
+            "front_fr": {
+                "rev": "7",
+                "white_magic": "false",
+                "geometry": "1778x2444-12-185",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 291
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 73
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 145
+                    },
+                    "full": {
+                        "h": 2444,
+                        "w": 1778
+                    }
+                },
+                "imgid": "1"
+            },
+            "3": {
+                "uploaded_t": "1450535806",
+                "uploader": "phoenix",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            },
+            "1": {
+                "uploaded_t": "1450535773",
+                "uploader": "phoenix",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "full": {
+                        "h": 3555,
+                        "w": 2000
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": "1450535827",
+                "uploader": "phoenix",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            },
+            "front": {
+                "rev": "7",
+                "white_magic": "false",
+                "geometry": "1778x2444-12-185",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 291
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 73
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 145
+                    },
+                    "full": {
+                        "h": 2444,
+                        "w": 1778
+                    }
+                },
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": "1450535788",
+                "uploader": "phoenix",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "rev": "8",
+                "white_magic": "false",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 116,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 29,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 520,
+                        "w": 1790
+                    },
+                    "200": {
+                        "h": 58,
+                        "w": 200
+                    }
+                },
+                "geometry": "1790x520-59-292",
+                "imgid": "3"
+            }
+        },
+        "ingredients_text_with_allergens_fr": "Pâtes alimentaires de qualité supérieure cuites 32% (semoule de <span class=\"allergen\">blé</span> dur de qualité supérieure, eau), tomate concassées 23% (tomate pelée concassée 18%, purée de tomate), <span class=\"allergen\">thon</span> 15% (<span class=\"allergen\">thon</span>, eau, sel), oignon préfrit 3,4% (oignon, huile de tournesol), <span class=\"allergen\">emmental</span> râpé 3,3%, oignon 3,2%, double concentré de tomate, vin blanc, aubergine grillée 2%, courgette grillées 2%, huile d'olive vierge extra 2%, pulpe d'ail 1,6%, sucre, sel, huile de tournesol, extrait de paprika 0,8%, farine de <span class=\"allergen\">blé</span>, basilic 0,4%, gingembre, persil 0,4%, épaississant : gomme xanthane, herbes de Provence 0,04% (romarin, thym, basilic, marjolaine), poivre. Pourcentages exprimés sur l'ensemble du produit.",
+        "ingredients_n": 37,
+        "manufacturing_places_debug_tags": [],
+        "editors_tags": [
+            "moon-rabbit",
+            "segundo",
+            "roboto-app",
+            "phoenix"
+        ],
+        "allergens_tags": [
+            "en:fish",
+            "en:gluten",
+            "en:milk"
+        ],
+        "countries_lc": "fr",
+        "update_key": "key_1618065313",
+        "nucleotides_prev_tags": [],
+        "completed_t": 1450542271,
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "emb_codes_debug_tags": [],
+        "code": "3245412470929",
+        "manufacturing_places": "France",
+        "codes_tags": [
+            "code-13",
+            "3245412470xxx",
+            "324541247xxxx",
+            "32454124xxxxx",
+            "3245412xxxxxx",
+            "324541xxxxxxx",
+            "32454xxxxxxxx",
+            "3245xxxxxxxxx",
+            "324xxxxxxxxxx",
+            "32xxxxxxxxxxx",
+            "3xxxxxxxxxxxx"
+        ],
+        "labels": "No artificial flavors, Green Dot, No artificial colors, No colorings, No flavour enhancer, en:made-in-france",
+        "last_modified_by": "roboto-app",
+        "last_edit_dates_tags": [
+            "2020-02-27",
+            "2020-02",
+            "2020"
+        ],
+        "entry_dates_tags": [
+            "2015-12-19",
+            "2015-12",
+            "2015"
+        ],
+        "creator": "phoenix",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "macaroni",
+            "rape",
+            "thon",
+            "green",
+            "flavor",
+            "plat",
+            "dot",
+            "micro-onde",
+            "aux",
+            "gratin",
+            "base",
+            "coloring",
+            "au",
+            "legume",
+            "de",
+            "artificial",
+            "enhancer",
+            "carrefour",
+            "color",
+            "poisson",
+            "prepare",
+            "flavour",
+            "rechauffer",
+            "no",
+            "emmental",
+            "made-in-france",
+            "et",
+            "pate"
+        ],
+        "amino_acids_tags": [],
+        "link": "",
+        "ingredients_debug": [
+            "Pâtes alimentaires de qualité supérieure cuites 32% ",
+            "(",
+            "(",
+            null,
+            null,
+            "semoule de _blé_ dur de qualité supérieure",
+            ",",
+            null,
+            null,
+            null,
+            " eau)",
+            ",",
+            null,
+            null,
+            null,
+            " tomate concassées 23% ",
+            "(",
+            "(",
+            null,
+            null,
+            "tomate pelée concassée 18%",
+            ",",
+            null,
+            null,
+            null,
+            " purée de tomate)",
+            ",",
+            null,
+            null,
+            null,
+            " _thon_ 15% ",
+            "(",
+            "(",
+            null,
+            null,
+            "thon",
+            ",",
+            null,
+            null,
+            null,
+            " eau",
+            ",",
+            null,
+            null,
+            null,
+            " sel)",
+            ",",
+            null,
+            null,
+            null,
+            " oignon préfrit 3",
+            ",",
+            null,
+            null,
+            null,
+            "4% ",
+            "(",
+            "(",
+            null,
+            null,
+            "oignon",
+            ",",
+            null,
+            null,
+            null,
+            " huile de tournesol)",
+            ",",
+            null,
+            null,
+            null,
+            " _emmental_ râpé 3",
+            ",",
+            null,
+            null,
+            null,
+            "3%",
+            ",",
+            null,
+            null,
+            null,
+            " oignon 3",
+            ",",
+            null,
+            null,
+            null,
+            "2%",
+            ",",
+            null,
+            null,
+            null,
+            " double concentré de tomate",
+            ",",
+            null,
+            null,
+            null,
+            " vin blanc",
+            ",",
+            null,
+            null,
+            null,
+            " aubergine grillée 2%",
+            ",",
+            null,
+            null,
+            null,
+            " courgette grillées 2%",
+            ",",
+            null,
+            null,
+            null,
+            " huile d'olive vierge extra 2%",
+            ",",
+            null,
+            null,
+            null,
+            " pulpe d'ail 1",
+            ",",
+            null,
+            null,
+            null,
+            "6%",
+            ",",
+            null,
+            null,
+            null,
+            " sucre",
+            ",",
+            null,
+            null,
+            null,
+            " sel",
+            ",",
+            null,
+            null,
+            null,
+            " huile de tournesol",
+            ",",
+            null,
+            null,
+            null,
+            " extrait de paprika 0",
+            ",",
+            null,
+            null,
+            null,
+            "8%",
+            ",",
+            null,
+            null,
+            null,
+            " farine de _blé_",
+            ",",
+            null,
+            null,
+            null,
+            " basilic 0",
+            ",",
+            null,
+            null,
+            null,
+            "4%",
+            ",",
+            null,
+            null,
+            null,
+            " gingembre",
+            ",",
+            null,
+            null,
+            null,
+            " persil 0",
+            ",",
+            null,
+            null,
+            null,
+            "4%",
+            ",",
+            null,
+            null,
+            null,
+            " épaississant ",
+            ":",
+            ":",
+            null,
+            null,
+            "  gomme xanthane",
+            ",",
+            null,
+            null,
+            null,
+            " herbes de Provence 0",
+            ",",
+            null,
+            null,
+            null,
+            "04% ",
+            "(",
+            "(",
+            null,
+            null,
+            "romarin",
+            ",",
+            null,
+            null,
+            null,
+            " thym",
+            ",",
+            null,
+            null,
+            null,
+            " basilic",
+            ",",
+            null,
+            null,
+            null,
+            " marjolaine)",
+            ",",
+            null,
+            null,
+            null,
+            " poivre",
+            ". ",
+            null,
+            null,
+            null,
+            "Pourcentages exprimés sur l'ensemble du produit."
+        ],
+        "languages_codes": {
+            "fr": 5
+        },
+        "labels_lc": "en",
+        "packaging": "Barquette,Film,Plastique,Etui,Carton",
+        "packaging_debug_tags": [],
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.400.jpg",
+        "last_image_dates_tags": [
+            "2015-12-19",
+            "2015-12",
+            "2015"
+        ],
+        "popularity_key": 0,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.200.jpg",
+        "expiration_date": "01/01/2016",
+        "data_quality_warnings_tags": [],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "states_tags": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "generic_name_fr_debug_tags": [],
+        "debug_param_sorted_langs": [
+            "fr"
+        ],
+        "ecoscore_score": 59,
+        "photographers_tags": [
+            "phoenix"
+        ],
+        "product_name_fr_debug_tags": [],
+        "last_modified_t": 1582759842,
+        "ingredients": [
+            {
+                "percent_max": "32",
+                "id": "fr:Pâtes alimentaires de qualité supérieure cuites",
+                "text": "Pâtes alimentaires de qualité supérieure cuites",
+                "percent_estimate": "32",
+                "percent_min": "32",
+                "percent": "32"
+            },
+            {
+                "percent_min": "23",
+                "percent_estimate": "23",
+                "percent": "23",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "23",
+                "id": "en:chopped-tomatoes",
+                "text": "tomate concassées"
+            },
+            {
+                "percent_min": "15",
+                "percent_estimate": "15",
+                "percent": "15",
+                "vegan": "no",
+                "vegetarian": "no",
+                "percent_max": "15",
+                "id": "en:tuna",
+                "text": "_thon_"
+            },
+            {
+                "percent": "3.4",
+                "percent_min": "3.4",
+                "percent_estimate": "3.4",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "3.4",
+                "id": "en:pre-fried-onions",
+                "text": "oignon préfrit"
+            },
+            {
+                "percent_estimate": "3.3",
+                "percent_min": "3.3",
+                "percent": "3.3",
+                "vegan": "no",
+                "vegetarian": "maybe",
+                "percent_max": "3.3",
+                "id": "en:grated-emmental-cheese",
+                "text": "_emmental_ râpé"
+            },
+            {
+                "percent_estimate": "3.2",
+                "percent_min": "3.2",
+                "percent": "3.2",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "3.2",
+                "id": "en:onion",
+                "text": "oignon"
+            },
+            {
+                "percent_max": "3.2",
+                "id": "en:double-concentrated-tomato",
+                "text": "double concentré de tomate",
+                "percent_min": "2",
+                "percent_estimate": 2.6,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "3.2",
+                "id": "en:white-wine",
+                "percent_estimate": 2.6,
+                "percent_min": "2",
+                "text": "vin blanc",
+                "vegan": "maybe",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_estimate": "2",
+                "percent_min": "2",
+                "percent": "2",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "2",
+                "id": "en:grilled-aubergines",
+                "text": "aubergine grillée"
+            },
+            {
+                "percent_estimate": "2",
+                "percent_min": "2",
+                "percent": "2",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "2",
+                "id": "en:grilled-courgette",
+                "text": "courgette grillées"
+            },
+            {
+                "percent": "2",
+                "percent_estimate": "2",
+                "percent_min": "2",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": "2",
+                "id": "en:extra-virgin-olive-oil",
+                "text": "huile d'olive vierge extra"
+            },
+            {
+                "percent": "1.6",
+                "percent_min": "1.6",
+                "percent_estimate": "1.6",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "1.6",
+                "id": "en:garlic-paste",
+                "text": "pulpe d'ail"
+            },
+            {
+                "percent_max": "1.6",
+                "id": "en:sugar",
+                "text": "sucre",
+                "percent_min": "0.8",
+                "percent_estimate": 1.2,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "1.6",
+                "id": "en:salt",
+                "text": "sel",
+                "percent_estimate": 1.2,
+                "percent_min": "0.8",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_min": "0.8",
+                "percent_estimate": 1.2,
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": "1.6",
+                "id": "en:sunflower-oil",
+                "text": "huile de tournesol"
+            },
+            {
+                "percent": "0.8",
+                "percent_min": "0.8",
+                "percent_estimate": "0.8",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "0.8",
+                "id": "en:e160c",
+                "text": "extrait de paprika"
+            },
+            {
+                "percent_max": "0.8",
+                "id": "en:wheat-flour",
+                "text": "farine de _blé_",
+                "percent_min": "0.4",
+                "percent_estimate": 0.6,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent": "0.4",
+                "percent_min": "0.4",
+                "percent_estimate": "0.4",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "0.4",
+                "id": "en:basil",
+                "text": "basilic"
+            },
+            {
+                "percent_max": "0.4",
+                "id": "en:ginger",
+                "text": "gingembre",
+                "percent_estimate": 0.4,
+                "percent_min": "0.4",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent": "0.4",
+                "percent_estimate": "0.4",
+                "percent_min": "0.4",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "0.4",
+                "id": "en:parsley",
+                "text": "persil"
+            },
+            {
+                "percent_max": "0.4",
+                "id": "en:thickener",
+                "text": "épaississant",
+                "percent_min": "0.04",
+                "percent_estimate": 0.22
+            },
+            {
+                "percent_estimate": "0.04",
+                "percent_min": "0.04",
+                "percent": "0.04",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "0.04",
+                "id": "en:herbes-de-provence",
+                "text": "herbes de Provence"
+            },
+            {
+                "percent_max": "0.04",
+                "id": "en:pepper",
+                "percent_min": 0,
+                "percent_estimate": 0.839999999999989,
+                "text": "poivre",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            }
+        ],
+        "nutriscore_grade": "b",
+        "stores": "Carrefour",
+        "countries": "France",
+        "cities_tags": [
+            "avignon-vaucluse-france",
+            "avignon-vaucluse-france"
+        ],
+        "other_nutritional_substances_tags": [],
+        "ciqual_food_name_tags": [
+            "pasta-au-gratin-oven-grilled"
+        ],
+        "brands": "Carrefour",
+        "categories": "Plats préparés, Plats à base de pâtes, Gratins, Plats préparés au poisson, Plats préparés à réchauffer au micro-ondes, Plats au thon, Gratins de pâtes, Macaroni préparés",
+        "ingredients_text_with_allergens": "Pâtes alimentaires de qualité supérieure cuites 32% (semoule de <span class=\"allergen\">blé</span> dur de qualité supérieure, eau), tomate concassées 23% (tomate pelée concassée 18%, purée de tomate), <span class=\"allergen\">thon</span> 15% (<span class=\"allergen\">thon</span>, eau, sel), oignon préfrit 3,4% (oignon, huile de tournesol), <span class=\"allergen\">emmental</span> râpé 3,3%, oignon 3,2%, double concentré de tomate, vin blanc, aubergine grillée 2%, courgette grillées 2%, huile d'olive vierge extra 2%, pulpe d'ail 1,6%, sucre, sel, huile de tournesol, extrait de paprika 0,8%, farine de <span class=\"allergen\">blé</span>, basilic 0,4%, gingembre, persil 0,4%, épaississant : gomme xanthane, herbes de Provence 0,04% (romarin, thym, basilic, marjolaine), poivre. Pourcentages exprimés sur l'ensemble du produit.",
+        "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+        "nutrition_grades": "b",
+        "nutrient_levels_tags": [
+            "en:fat-in-moderate-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-low-quantity",
+            "en:salt-in-moderate-quantity"
+        ],
+        "known_ingredients_n": 57,
+        "minerals_prev_tags": [],
+        "ingredients_text": "Pâtes alimentaires de qualité supérieure cuites 32% (semoule de _blé_ dur de qualité supérieure, eau), tomate concassées 23% (tomate pelée concassée 18%, purée de tomate), _thon_ 15% (thon, eau, sel), oignon préfrit 3,4% (oignon, huile de tournesol), _emmental_ râpé 3,3%, oignon 3,2%, double concentré de tomate, vin blanc, aubergine grillée 2%, courgette grillées 2%, huile d'olive vierge extra 2%, pulpe d'ail 1,6%, sucre, sel, huile de tournesol, extrait de paprika 0,8%, farine de _blé_, basilic 0,4%, gingembre, persil 0,4%, épaississant : gomme xanthane, herbes de Provence 0,04% (romarin, thym, basilic, marjolaine), poivre. Pourcentages exprimés sur l'ensemble du produit.",
+        "serving_size_debug_tags": [],
+        "product_name": "Gratin de macaroni aux légumes et au thon A l'emmental râpé",
+        "origins": "",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Pâtes alimentaires de qualité supérieure cuites 32% (semoule de _blé_ dur de qualité supérieure, eau), tomate concassées 23% (tomate pelée concassée 18%, purée de tomate), _thon_ 15% (thon, eau, sel), oignon préfrit 3,4% (oignon, huile de tournesol), _emmental_ râpé 3,3%, oignon 3,2%, double concentré de tomate, vin blanc, aubergine grillée 2%, courgette grillées 2%, huile d'olive vierge extra 2%, pulpe d'ail 1,6%, sucre, sel, huile de tournesol, extrait de paprika 0,8%, farine de _blé_, basilic 0,4%, gingembre, persil 0,4%, épaississant : gomme xanthane, herbes de Provence 0,04% (romarin, thym, basilic, marjolaine), poivre. Pourcentages exprimés sur l'ensemble du produit.",
+        "lang_debug_tags": [],
+        "categories_lc": "fr",
+        "serving_quantity": 300,
+        "allergens": "en:fish,en:gluten,en:milk",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/ingredients_fr.8.100.jpg",
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "c",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "value_it": -5,
+                    "transportation_score_lu": 0,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_value": -5,
+                    "transportation_score_ch": 0,
+                    "value_ie": -5,
+                    "transportation_value_de": 0,
+                    "value_fr": -5,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "value_lu": -5,
+                    "transportation_score_nl": 0
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:tray",
+                            "material": "en:plastic",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": "0"
+                        },
+                        {
+                            "shape": "en:film",
+                            "material": "en:cardboard",
+                            "ecoscore_shape_ratio": "0.1",
+                            "ecoscore_material_score": "92"
+                        },
+                        {
+                            "shape": "en:sleeve",
+                            "material": "en:unknown",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "score": -100.8,
+                    "warning": "unspecified_material"
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "c",
+            "score": 59,
+            "grade_de": "c",
+            "missing_data_warning": 1,
+            "grade_nl": "c",
+            "score_be": 54,
+            "agribalyse": {
+                "co2_transportation": "0.21867549",
+                "ef_distribution": "0.0089786658",
+                "name_fr": "Gratin de pâtes",
+                "agribalyse_food_code": "25122",
+                "score": 69,
+                "ef_consumption": "0.0064417627",
+                "ef_agriculture": "0.23022299999999998",
+                "name_en": "Pasta au gratin (oven grilled)",
+                "ef_packaging": "0.016118590000000002",
+                "co2_total": "2.7189743",
+                "ef_processing": "0.077355142",
+                "is_beverage": 0,
+                "code": "25122",
+                "co2_processing": "0.57302961",
+                "dqr": "2.29",
+                "co2_consumption": "0.012726077",
+                "ef_total": "0.35609135000000003",
+                "co2_distribution": "0.030685111",
+                "co2_agriculture": "1.6712366",
+                "ef_transportation": "0.01695515",
+                "co2_packaging": "0.21221738"
+            },
+            "grade_it": "c",
+            "score_nl": 54,
+            "grade_ie": "c",
+            "missing": {
+                "packagings": 1,
+                "labels": 1,
+                "origins": 1
+            },
+            "score_ch": 54,
+            "score_de": 54,
+            "score_fr": 54,
+            "score_ie": 54,
+            "score_lu": 54,
+            "score_it": 54,
+            "score_es": 54,
+            "grade_ch": "c",
+            "grade_es": "c",
+            "grade": "c",
+            "grade_lu": "c"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/nutrition_fr.9.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/nutrition_fr.9.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/nutrition_fr.9.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/ingredients_fr.8.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/ingredients_fr.8.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/ingredients_fr.8.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.200.jpg"
+                }
+            }
+        },
+        "rev": 15,
+        "origins_old": "",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "roboto-app",
+        "additives_prev_original_tags": [
+            "en:e160c",
+            "en:e415"
+        ],
+        "ingredients_tags": [
+            "fr:pates-alimentaires-de-qualite-superieure-cuites",
+            "en:chopped-tomatoes",
+            "en:vegetable",
+            "en:tomato",
+            "en:tuna",
+            "en:fish",
+            "en:pre-fried-onions",
+            "en:root-vegetable",
+            "en:onion",
+            "en:grated-emmental-cheese",
+            "en:dairy",
+            "en:cheese",
+            "en:double-concentrated-tomato",
+            "en:tomato-concentrate",
+            "en:white-wine",
+            "en:alcohol",
+            "en:wine",
+            "en:grilled-aubergines",
+            "en:aubergine",
+            "en:grilled-courgette",
+            "en:courgette",
+            "en:extra-virgin-olive-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:vegetable-oil",
+            "en:olive-oil",
+            "en:virgin-olive-oil",
+            "en:garlic-paste",
+            "en:garlic",
+            "en:sugar",
+            "en:salt",
+            "en:sunflower-oil",
+            "en:e160c",
+            "en:wheat-flour",
+            "en:cereal",
+            "en:flour",
+            "en:wheat",
+            "en:cereal-flour",
+            "en:basil",
+            "en:herb",
+            "en:ginger",
+            "en:spice",
+            "en:parsley",
+            "en:thickener",
+            "en:herbes-de-provence",
+            "en:pepper",
+            "en:seed",
+            "en:superior-quality-durum-wheat-semolina",
+            "en:durum-wheat",
+            "en:semolina",
+            "en:durum-wheat-semolina",
+            "en:water",
+            "en:crushed-peeled-tomato",
+            "en:crushed-tomato",
+            "en:e415",
+            "en:rosemary",
+            "en:thyme",
+            "en:marjoram"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/nutrition_fr.9.100.jpg",
+        "ingredients_from_palm_oil_tags": [],
+        "carbon_footprint_percent_of_known_ingredients": 70.2,
+        "nutrition_data_prepared_per_debug_tags": [],
+        "categories_hierarchy": [
+            "en:meals",
+            "en:pasta-dishes",
+            "en:gratins",
+            "en:meals-with-fish",
+            "en:microwave-meals",
+            "en:meals-with-tuna",
+            "en:pasta-gratin",
+            "fr:Macaroni préparés"
+        ],
+        "ecoscore_grade": "c",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ingredients_percent_analysis": 1,
+        "nutrition_data": "on",
+        "languages": {
+            "en:french": 5
+        },
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-25122",
+            "agribalyse-food-code-known",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-25122",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-25122"
+        ],
+        "purchase_places": "Rennes,France",
+        "id": "3245412470929",
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Composite foods",
+        "allergens_from_user": "(fr) en:fish,en:gluten,en:milk",
+        "nutrition_data_prepared": "",
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/ingredients_fr.8.400.jpg",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+        ],
+        "additives_old_tags": [
+            "en:e160c",
+            "en:e1403",
+            "en:e415"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "ecoscore_tags": [
+            "c"
+        ],
+        "labels_hierarchy": [
+            "en:no-artificial-flavors",
+            "en:green-dot",
+            "en:made-in-france",
+            "en:no-artificial-colors",
+            "en:no-colorings",
+            "en:no-flavour-enhancer"
+        ],
+        "origins_hierarchy": [],
+        "complete": 1,
+        "ingredients_text_fr_debug_tags": [],
+        "pnns_groups_2": "One-dish meals",
+        "nutrition_score_beverage": 0,
+        "product_quantity": 300,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.100.jpg",
+        "ingredients_text_debug": "Pâtes alimentaires de qualité supérieure cuites 32% (semoule de _blé_ dur de qualité supérieure, eau), tomate concassées 23% (tomate pelée concassée 18%, purée de tomate), _thon_ 15% (thon, eau, sel), oignon préfrit 3,4% (oignon, huile de tournesol), _emmental_ râpé 3,3%, oignon 3,2%, double concentré de tomate, vin blanc, aubergine grillée 2%, courgette grillées 2%, huile d'olive vierge extra 2%, pulpe d'ail 1,6%, sucre, sel, huile de tournesol, extrait de paprika 0,8%, farine de _blé_, basilic 0,4%, gingembre, persil 0,4%, épaississant :  gomme xanthane, herbes de Provence 0,04% (romarin, thym, basilic, marjolaine), poivre. Pourcentages exprimés sur l'ensemble du produit.",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.400.jpg",
+        "_id": "3245412470929",
+        "countries_tags": [
+            "en:france"
+        ],
+        "ingredients_hierarchy": [
+            "fr:Pâtes alimentaires de qualité supérieure cuites",
+            "en:chopped-tomatoes",
+            "en:vegetable",
+            "en:tomato",
+            "en:tuna",
+            "en:fish",
+            "en:pre-fried-onions",
+            "en:root-vegetable",
+            "en:onion",
+            "en:grated-emmental-cheese",
+            "en:dairy",
+            "en:cheese",
+            "en:double-concentrated-tomato",
+            "en:tomato-concentrate",
+            "en:white-wine",
+            "en:alcohol",
+            "en:wine",
+            "en:grilled-aubergines",
+            "en:aubergine",
+            "en:grilled-courgette",
+            "en:courgette",
+            "en:extra-virgin-olive-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:vegetable-oil",
+            "en:olive-oil",
+            "en:virgin-olive-oil",
+            "en:garlic-paste",
+            "en:garlic",
+            "en:sugar",
+            "en:salt",
+            "en:sunflower-oil",
+            "en:e160c",
+            "en:wheat-flour",
+            "en:cereal",
+            "en:flour",
+            "en:wheat",
+            "en:cereal-flour",
+            "en:basil",
+            "en:herb",
+            "en:ginger",
+            "en:spice",
+            "en:parsley",
+            "en:thickener",
+            "en:herbes-de-provence",
+            "en:pepper",
+            "en:seed",
+            "en:superior-quality-durum-wheat-semolina",
+            "en:durum-wheat",
+            "en:semolina",
+            "en:durum-wheat-semolina",
+            "en:water",
+            "en:crushed-peeled-tomato",
+            "en:crushed-tomato",
+            "en:e415",
+            "en:rosemary",
+            "en:thyme",
+            "en:marjoram"
+        ],
+        "serving_size": "300 g - 1 Barquette",
+        "stores_tags": [
+            "carrefour"
+        ],
+        "additives_original_tags": [
+            "en:e160c",
+            "en:e415"
+        ],
+        "nutriscore_score": 1,
+        "compared_to_category": "en:pasta-gratin",
+        "states_hierarchy": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "expiration_date_debug_tags": [],
+        "ingredients_n_tags": [
+            "37",
+            "31-40"
+        ],
+        "pnns_groups_1_tags": [
+            "composite-foods",
+            "known"
+        ],
+        "additives_old_n": 3,
+        "packagings": [
+            {
+                "shape": "en:tray",
+                "material": "en:plastic"
+            },
+            {
+                "shape": "en:film",
+                "material": "en:cardboard"
+            },
+            {
+                "shape": "en:sleeve"
+            }
+        ],
+        "brands_tags": [
+            "carrefour"
+        ],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+        ],
+        "data_quality_errors_tags": [],
+        "quantity": "300 g",
+        "link_debug_tags": [],
+        "ingredients_ids_debug": [
+            "pates-alimentaires-de-qualite-superieure-cuites-32",
+            "semoule-de-ble-dur-de-qualite-superieure",
+            "eau",
+            "tomate-concassees-23",
+            "tomate-pelee-concassee-18",
+            "puree-de-tomate",
+            "thon-15",
+            "thon",
+            "eau",
+            "sel",
+            "oignon-prefrit-3",
+            "4",
+            "oignon",
+            "huile-de-tournesol",
+            "emmental-rape-3",
+            "3",
+            "oignon-3",
+            "2",
+            "double-concentre-de-tomate",
+            "vin-blanc",
+            "aubergine-grillee-2",
+            "courgette-grillees-2",
+            "huile-d-olive-vierge-extra-2",
+            "pulpe-d-ail-1",
+            "6",
+            "sucre",
+            "sel",
+            "huile-de-tournesol",
+            "extrait-de-paprika-0",
+            "8",
+            "farine-de-ble",
+            "basilic-0",
+            "4",
+            "gingembre",
+            "persil-0",
+            "4",
+            "epaississant",
+            "gomme-xanthane",
+            "herbes-de-provence-0",
+            "04",
+            "romarin",
+            "thym",
+            "basilic",
+            "marjolaine",
+            "poivre",
+            "pourcentages-exprimes-sur-l-ensemble-du-produit"
+        ],
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 39.2,
+        "ingredients_original_tags": [
+            "fr:Pâtes alimentaires de qualité supérieure cuites",
+            "en:chopped-tomatoes",
+            "en:tuna",
+            "en:pre-fried-onions",
+            "en:grated-emmental-cheese",
+            "en:onion",
+            "en:double-concentrated-tomato",
+            "en:white-wine",
+            "en:grilled-aubergines",
+            "en:grilled-courgette",
+            "en:extra-virgin-olive-oil",
+            "en:garlic-paste",
+            "en:sugar",
+            "en:salt",
+            "en:sunflower-oil",
+            "en:e160c",
+            "en:wheat-flour",
+            "en:basil",
+            "en:ginger",
+            "en:parsley",
+            "en:thickener",
+            "en:herbes-de-provence",
+            "en:pepper",
+            "en:superior-quality-durum-wheat-semolina",
+            "en:water",
+            "en:crushed-peeled-tomato",
+            "en:crushed-tomato",
+            "en:tuna",
+            "en:water",
+            "en:salt",
+            "en:onion",
+            "en:sunflower-oil",
+            "en:e415",
+            "en:rosemary",
+            "en:thyme",
+            "en:basil",
+            "en:marjoram"
+        ],
+        "unknown_ingredients_n": 1,
+        "manufacturing_places_tags": [
+            "france"
+        ],
+        "quantity_debug_tags": [],
+        "emb_codes_orig": "EMB 84007W,FR 84.007.020 CE",
+        "checkers_tags": [],
+        "emb_codes": "EMB 84007W,FR 84.007.020 EC",
+        "max_imgid": "4",
+        "nutrition_data_per_debug_tags": [],
+        "allergens_debug_tags": [],
+        "nutriscore_score_opposite": -1,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/front_fr.7.200.jpg",
+        "brands_debug_tags": [],
+        "generic_name_fr": "",
+        "nutriments": {
+            "proteins": 7.2,
+            "salt_serving": 2.97,
+            "energy_100g": 557,
+            "carbohydrates_unit": "g",
+            "saturated-fat_serving": 3.6,
+            "energy-kj_100g": 557,
+            "sodium_100g": 0.396,
+            "sugars_100g": 2.7,
+            "sodium_value": 0.396,
+            "proteins_serving": 21.6,
+            "salt_100g": 0.99,
+            "nova-group_serving": 4,
+            "nutrition-score-fr_100g": 1,
+            "energy_unit": "kJ",
+            "energy-kj_serving": 1670,
+            "salt_unit": "g",
+            "proteins_unit": "g",
+            "carbohydrates_value": 14,
+            "sugars_unit": "g",
+            "sugars_serving": 8.1,
+            "energy-kj_unit": "kJ",
+            "fat_unit": "g",
+            "salt_value": 0.99,
+            "salt": 0.99,
+            "fiber_serving": 3.9,
+            "proteins_value": 7.2,
+            "saturated-fat_100g": 1.2,
+            "fat_serving": 14.7,
+            "fiber_100g": 1.3,
+            "saturated-fat": 1.2,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 39.2,
+            "fat_value": 4.9,
+            "carbon-footprint-from-known-ingredients_100g": 120.14,
+            "energy": 557,
+            "nova-group": 4,
+            "fiber": 1.3,
+            "saturated-fat_value": 1.2,
+            "nova-group_100g": 4,
+            "fat_100g": 4.9,
+            "energy_serving": 1670,
+            "saturated-fat_unit": "g",
+            "energy_value": 557,
+            "sodium_serving": 1.19,
+            "carbon-footprint-from-known-ingredients_serving": 360,
+            "energy-kj_value": 557,
+            "fiber_value": 1.3,
+            "fiber_unit": "g",
+            "energy-kj": 557,
+            "carbon-footprint-from-known-ingredients_product": 360,
+            "proteins_100g": 7.2,
+            "sugars_value": 2.7,
+            "carbohydrates_serving": 42,
+            "sodium_unit": "g",
+            "nutrition-score-fr": 1,
+            "sodium": 0.396,
+            "carbohydrates_100g": 14,
+            "sugars": 2.7,
+            "carbohydrates": 14,
+            "fat": 4.9
+        },
+        "purchase_places_tags": [
+            "rennes",
+            "france"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/ingredients_fr.8.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/324/541/247/0929/nutrition_fr.9.200.jpg"
+    },
+    "status_verbose": "product found"
+}

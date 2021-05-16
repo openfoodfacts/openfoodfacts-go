@@ -1,0 +1,478 @@
+{
+    "status": 1,
+    "code": "8992696419766",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "popularity_tags": [
+            "bottom-25-percent-scans-2020",
+            "bottom-20-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-10000-gb-scans-2020",
+            "top-50000-gb-scans-2020",
+            "top-100000-gb-scans-2020",
+            "top-country-gb-scans-2020"
+        ],
+        "categories_tags": [],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [],
+        "product_name_fr": "Sweetened Condensed Milk",
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1366045401,
+        "emb_codes_20141016": "",
+        "pnns_groups_2_tags": [
+            "unknown",
+            "missing-category"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [],
+        "sortkey": 1572644333,
+        "completeness": 0.366666666666667,
+        "categories_properties": {},
+        "traces_from_user": "(fr) ",
+        "labels_tags": [],
+        "nutrition_grades_tags": [
+            "unknown"
+        ],
+        "informers_tags": [
+            "openfoodfacts-contributors",
+            "fix-missing-lang-bot"
+        ],
+        "vitamins_tags": [],
+        "lang": "fr",
+        "interface_version_modified": "20130323.jqm",
+        "unique_scans_n": 1,
+        "additives_tags": [],
+        "categories_prev_tags": [],
+        "unknown_nutrients_tags": [],
+        "countries_hierarchy": [
+            "en:taiwan"
+        ],
+        "nova_group_debug": "no nova group when the product does not have ingredients",
+        "traces_tags": [],
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.100.jpg",
+        "nutrient_levels": {},
+        "nova_group_tags": [
+            "not-applicable"
+        ],
+        "created_t": 1366045297,
+        "amino_acids_prev_tags": [],
+        "nucleotides_tags": [],
+        "scans_n": 1,
+        "images": {
+            "1": {
+                "uploaded_t": 1366045298,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": 1366045401,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                }
+            },
+            "front": {
+                "rev": "3",
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    }
+                },
+                "normalize": null,
+                "geometry": "0x0--8--8",
+                "imgid": "1"
+            },
+            "front_fr": {
+                "rev": "3",
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    }
+                },
+                "normalize": null,
+                "geometry": "0x0--8--8",
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": 1366045351,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": 1366045375,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                }
+            }
+        },
+        "editors_tags": [
+            "openfoodfacts-contributors",
+            "fix-missing-lang-bot"
+        ],
+        "countries_lc": "fr",
+        "allergens_tags": [],
+        "update_key": "key_1618065313",
+        "nucleotides_prev_tags": [],
+        "code": "8992696419766",
+        "codes_tags": [
+            "code-13",
+            "8992696419xxx",
+            "899269641xxxx",
+            "89926964xxxxx",
+            "8992696xxxxxx",
+            "899269xxxxxxx",
+            "89926xxxxxxxx",
+            "8992xxxxxxxxx",
+            "899xxxxxxxxxx",
+            "89xxxxxxxxxxx",
+            "8xxxxxxxxxxxx"
+        ],
+        "last_modified_by": "fix-missing-lang-bot",
+        "last_edit_dates_tags": [
+            "2019-11-01",
+            "2019-11",
+            "2019"
+        ],
+        "entry_dates_tags": [
+            "2013-04-15",
+            "2013-04",
+            "2013"
+        ],
+        "creator": "openfoodfacts-contributors",
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "nestle",
+            "condensed",
+            "milk",
+            "sweetened"
+        ],
+        "ingredients_debug": [],
+        "languages_codes": {
+            "fr": 2
+        },
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.400.jpg",
+        "popularity_key": 1,
+        "last_image_dates_tags": [
+            "2013-04-15",
+            "2013-04",
+            "2013"
+        ],
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.200.jpg",
+        "data_quality_warnings_tags": [],
+        "labels_debug_tags": [],
+        "misc_tags": [
+            "en:nutriscore-not-computed",
+            "en:nutriscore-missing-category",
+            "en:ecoscore-not-computed"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-to-be-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:categories-to-be-completed",
+            "en:brands-completed",
+            "en:packaging-to-be-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "openfoodfacts-contributors"
+        ],
+        "last_modified_t": 1572644333,
+        "ingredients": [],
+        "countries": "Taiwan",
+        "cities_tags": [],
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "other_nutritional_substances_tags": [],
+        "brands": "Nestlé",
+        "states": "en:to-be-completed, en:nutrition-facts-to-be-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-to-be-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+        "nutrient_levels_tags": [],
+        "minerals_prev_tags": [],
+        "product_name": "Sweetened Condensed Milk",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "allergens": "",
+        "ecoscore_data": {
+            "agribalyse": {
+                "warning": "missing_agribalyse_match"
+            },
+            "status": "unknown",
+            "missing_agribalyse_match_warning": 1,
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:unknown",
+                            "material": "en:unknown",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "warning": "unscored_shape",
+                    "score": 0
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "value_it": -5,
+                    "transportation_score_lu": 0,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_value": -5,
+                    "transportation_score_ch": 0,
+                    "value_ie": -5,
+                    "transportation_value_de": 0,
+                    "value_fr": -5,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "transportation_score_nl": 0,
+                    "value_lu": -5
+                },
+                "threatened_species": {
+                    "warning": "ingredients_missing"
+                }
+            },
+            "missing": {
+                "packagings": 1,
+                "categories": 1,
+                "ingredients": 1,
+                "labels": 1,
+                "origins": 1
+            }
+        },
+        "selected_images": {
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.200.jpg"
+                }
+            }
+        },
+        "rev": 8,
+        "last_editor": "fix-missing-lang-bot",
+        "additives_prev_original_tags": [],
+        "ingredients_tags": [],
+        "labels_prev_tags": [],
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [],
+        "ecoscore_grade": "unknown",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "labels_prev_hierarchy": [],
+        "languages": {
+            "en:french": 2
+        },
+        "categories_properties_tags": [
+            "all-products",
+            "categories-unknown",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-unknown",
+            "agribalyse-unknown"
+        ],
+        "id": "8992696419766",
+        "pnns_groups_1": "unknown",
+        "allergens_from_user": "(fr) ",
+        "additives_debug_tags": [],
+        "data_quality_tags": [],
+        "additives_old_tags": [],
+        "labels_hierarchy": [],
+        "ecoscore_tags": [
+            "unknown"
+        ],
+        "complete": 0,
+        "nutrition_score_beverage": 0,
+        "pnns_groups_2": "unknown",
+        "categories_debug_tags": [],
+        "product_quantity": 397,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.100.jpg",
+        "ingredients_text_debug": null,
+        "image_front_url": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.400.jpg",
+        "_id": "8992696419766",
+        "countries_tags": [
+            "en:taiwan"
+        ],
+        "ingredients_hierarchy": [],
+        "additives_original_tags": [],
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-to-be-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:categories-to-be-completed",
+            "en:brands-completed",
+            "en:packaging-to-be-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "pnns_groups_1_tags": [
+            "unknown",
+            "missing-category"
+        ],
+        "nutrition_score_debug": "no score when the product does not have a category",
+        "packagings": [
+            {
+                "shape": "en:unknown",
+                "material": "en:unknown"
+            }
+        ],
+        "data_quality_errors_tags": [],
+        "data_quality_info_tags": [],
+        "brands_tags": [
+            "nestle"
+        ],
+        "quantity": "397g",
+        "ingredients_ids_debug": [],
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "ingredients_original_tags": [],
+        "unknown_ingredients_n": 0,
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "emb_codes": "",
+        "max_imgid": "4",
+        "editors": [
+            ""
+        ],
+        "categories_prev_hierarchy": [],
+        "image_small_url": "https://static.openfoodfacts.net/images/products/899/269/641/9766/front_fr.3.200.jpg",
+        "nutriments": {}
+    },
+    "status_verbose": "product found"
+}

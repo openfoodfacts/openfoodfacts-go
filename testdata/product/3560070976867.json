@@ -1,0 +1,1915 @@
+{
+    "status": 1,
+    "code": "3560070976867",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "fruits à coque",
+        "conservation_conditions_nl": "Ten minste houdbaar tot / Lotnr.: zie zijkant verpakking.\nDroog bewaren op kamertemperatuur.\n\nSUR LE SACHET individuel: \nTen minste houdbaar tot / Lotnr.: zie zijkant kartonnen verpakking.\nDroog bewaren op kamertemperatuur.",
+        "category_properties": {
+            "ciqual_food_name:fr": "Gâteau -aliment moyen-",
+            "ciqual_food_name:en": "Chocolate cake"
+        },
+        "traces_debug_tags": [],
+        "popularity_tags": [
+            "top-100000-scans-2019",
+            "at-least-5-scans-2019",
+            "top-75-percent-scans-2019",
+            "top-80-percent-scans-2019",
+            "top-85-percent-scans-2019",
+            "top-90-percent-scans-2019",
+            "top-100000-fr-scans-2019",
+            "top-country-fr-scans-2019",
+            "at-least-5-fr-scans-2019",
+            "top-100000-scans-2020",
+            "at-least-5-scans-2020",
+            "top-75-percent-scans-2020",
+            "top-80-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-100000-fr-scans-2020",
+            "top-country-fr-scans-2020",
+            "at-least-5-fr-scans-2020"
+        ],
+        "conservation_conditions_fr": "A consommer de préférence avant le / n° de lot : voir sur le côté de l'emballage.\nA conserver à température ambiante et à l'abri de l'humidité.\n\nSUR LE SACHET individuel: \nA consommer de préférence avant le / n° de lot : voir sur le côté de l'emballage cartonné\nA conserver à température ambiante et à l'abri de l'humidité.",
+        "customer_service": "Interdis - TSA 91431 - 91343 MASSY Cedex - France",
+        "categories_tags": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:cakes",
+            "en:chocolate-cakes",
+            "en:brownies"
+        ],
+        "traces_hierarchy": [
+            "en:nuts"
+        ],
+        "ingredients_text_with_allergens_nl": "<span class=\"allergen\">Eieren</span>, suiker, koolzaadolie,<span class=\"allergen\"> _melk</span>_chocolade 8,7% (suiker, volle_<span class=\"allergen\">melk</span>_poeder, cacaoboter, cacaomassa, <span class=\"allergen\">lactose</span>, emulgator: zonnebloemlecithinen, natuurlijk vanillearoma), chocoladestukjes 8,7% (cacaomassa, suiker, cacaoboter), rijstbloem 5,5%, aardappelzetmeel 5,5%, bevochtigingsmiddel: glycerol, magerecacaopoeder, glucosestroop, invertsuikerstroop, rijstzetmeel, rijsmiddelen: difosfaten en natriumcarbonaten, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, stabilisator: xanthaangom.\nKan sporen bevatten van<span class=\"allergen\"> noten</span>.",
+        "allergens_hierarchy": [
+            "en:eggs",
+            "en:milk"
+        ],
+        "generic_name": "Petits gâteaux au chocolat et aux pépites de chocolat sans gluten à base de farine de riz et amidon de pomme de terre.",
+        "product_name_fr": "Brownies No Gluten !*",
+        "origins_tags": [],
+        "languages_hierarchy": [
+            "en:french",
+            "en:dutch"
+        ],
+        "stores_imported": "Carrefour",
+        "last_image_t": 1616957146,
+        "additives_n": 7,
+        "carbon_footprint_from_known_ingredients_debug": "en:milk-chocolate 8.7% x 5.9 = 51.33 g - en:chocolate-pieces 8.7% x 4.9 = 42.63 g - en:rice-flour 5.5% x 1.2 = 6.6 g - ",
+        "producer_fr": "Fabriqué en Belgique par EMB B-8940 pour Interdis.",
+        "pnns_groups_2_tags": [
+            "biscuits-and-cakes",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "segundo",
+            "yuka.R0s0WURxQWx2OE0zZ3ZReHdSbmxvTjk1bjdpVlZrS1ZkK3d6SUE9PQ",
+            "openfoodfacts-contributors",
+            "yuka.YUlraUdZWURqTkpRaDhNNDRDdUlvUFJvM2MrbVkzdXpHZFJCSVE9PQ",
+            "carrefour",
+            "roboto-app",
+            "autorotate-bot",
+            "org-carrefour"
+        ],
+        "customer_service_nl": "Carrefour Product info\n PB 2000 Evere 3 - 1140 BRUSSELS\n Tél: 0800/9.10.11",
+        "sortkey": 1602570058,
+        "categories_old": "Snacks, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Gâteaux au chocolat, Brownies",
+        "generic_name_nl_imported": "Glutenvrije chocoladecakejes met stukjes chocolade op basis van rijstbloem en aardappelzetmeel.",
+        "completeness": 0.6875,
+        "categories_properties": {
+            "ciqual_food_code:en": "23032",
+            "agribalyse_food_code:en": "23032"
+        },
+        "labels_tags": [
+            "en:no-gluten",
+            "en:made-in-belgium",
+            "fr:afdiag"
+        ],
+        "traces_from_user": "(fr) en:nuts",
+        "informers_tags": [
+            "openfoodfacts-contributors",
+            "segundo",
+            "yuka.YUlraUdZWURqTkpRaDhNNDRDdUlvUFJvM2MrbVkzdXpHZFJCSVE9PQ",
+            "teolemon",
+            "carrefour",
+            "roboto-app",
+            "autorotate-bot",
+            "omerfedj",
+            "org-carrefour"
+        ],
+        "nutrition_grades_tags": [
+            "d"
+        ],
+        "brands_imported": "Carrefour",
+        "vitamins_tags": [],
+        "lang": "fr",
+        "origins_lc": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "customer_service_fr_imported": "Interdis - TSA 91431 - 91343 MASSY Cedex - France",
+        "unique_scans_n": 5,
+        "additives_tags": [
+            "en:e202",
+            "en:e322",
+            "en:e322i",
+            "en:e330",
+            "en:e415",
+            "en:e422",
+            "en:e450",
+            "en:e450i",
+            "en:e500"
+        ],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/nutrition_fr.5.400.jpg",
+        "stores_debug_tags": [],
+        "unknown_nutrients_tags": [],
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "nova_group_debug": " -- additives/en:e202 : 3 -- additives/en:e415 : 4",
+        "traces_tags": [
+            "en:nuts"
+        ],
+        "generic_name_nl": "Glutenvrije chocoladecakejes met stukjes chocolade op basis van rijstbloem en aardappelzetmeel.",
+        "nova_groups": "4",
+        "packaging_tags": [],
+        "allergens_from_ingredients": "Œufs, lait, lait, lactose",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.100.jpg",
+        "nutrient_levels": {
+            "sugars": "high",
+            "salt": "moderate",
+            "fat": "high",
+            "saturated-fat": "high"
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:non-vegan",
+            "en:vegetarian"
+        ],
+        "nova_group_tags": [
+            "not-applicable"
+        ],
+        "created_t": 1479798954,
+        "nutriscore_data": {
+            "proteins": 5.5,
+            "negative_points": 19,
+            "sugars_points": 7,
+            "sodium_value": 196,
+            "score": 15,
+            "positive_points": 4,
+            "is_water": 0,
+            "saturated_fat_value": 5.3,
+            "proteins_points": 3,
+            "saturated_fat_points": 5,
+            "saturated_fat_ratio": 23.0434782608696,
+            "proteins_value": 5.5,
+            "saturated_fat_ratio_points": 3,
+            "fiber_points": 4,
+            "grade": "d",
+            "is_cheese": 0,
+            "energy": 1804,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 8.7,
+            "fiber": 3.8,
+            "energy_points": 5,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 2,
+            "is_fat": 0,
+            "energy_value": 1804,
+            "is_beverage": 0,
+            "fiber_value": 3.8,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 8.7,
+            "saturated_fat_ratio_value": 23,
+            "sugars_value": 32,
+            "saturated_fat": 5.3,
+            "sodium": 196,
+            "sugars": 32
+        },
+        "amino_acids_prev_tags": [],
+        "nova_group": 4,
+        "nutrition_grade_fr": "d",
+        "data_sources_imported": "Producer - Carrefour, Producers",
+        "scans_n": 6,
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "<span class=\"allergen\">Œufs</span>, sucre, huile de colza, chocolat au <span class=\"allergen\">lait</span> 8,7% (sucre, poudre de <span class=\"allergen\">lait</span> entier, beurre de cacao, pâte de cacao, <span class=\"allergen\">lactose</span>, émulsifiant : lécithines de tournesol, arôme naturel de vanille), pépites de chocolat 8,7% (pâte de cacao, sucre, beurre de cacao), farine de riz 5,5%, amidon de pomme de terre 5,5%, humectant : glycérol, cacao maigre en poudre, sirop de glucose, sirop de sucre inverti, amidon de riz, poudres à lever : diphosphates et carbonates de sodium, acidifiant : acide citrique, conservateur : sorbate de potassium, stabilisant : gomme xanthane. \n Peut contenir des traces de <span class=\"allergen\">fruits à coque</span>.",
+        "images": {
+            "18": {
+                "uploaded_t": 1616957146,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 130,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 32,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 768,
+                        "w": 2365
+                    }
+                }
+            },
+            "nutrition_fr": {
+                "y1": "63.44999694824219",
+                "rev": "5",
+                "y2": "208.4499969482422",
+                "x2": "256.75",
+                "ocr": 1,
+                "x1": "-4.25",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 226,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 57,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 113,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 725,
+                        "w": 1283
+                    }
+                },
+                "angle": "0",
+                "orientation": "0",
+                "normalize": "false",
+                "geometry": "1304x725--21-317",
+                "imgid": "2"
+            },
+            "11": {
+                "uploaded_t": 1553930252,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 210,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 53,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1146,
+                        "w": 2178
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": "1520974278",
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 901
+                    }
+                }
+            },
+            "15": {
+                "uploaded_t": 1616957144,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 173,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 43,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1020,
+                        "w": 2365
+                    }
+                }
+            },
+            "6": {
+                "uploaded_t": 1553930250,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 180,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 45,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1120,
+                        "w": 2495
+                    }
+                }
+            },
+            "19": {
+                "uploaded_t": 1616957146,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 129,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 32,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 763,
+                        "w": 2365
+                    }
+                }
+            },
+            "9": {
+                "uploaded_t": 1553930251,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 192,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 48,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1194,
+                        "w": 2491
+                    }
+                }
+            },
+            "17": {
+                "uploaded_t": 1616957145,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 210,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 52,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1241,
+                        "w": 2365
+                    }
+                }
+            },
+            "2": {
+                "uploaded_t": "1481380685",
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2000,
+                        "w": 1500
+                    }
+                }
+            },
+            "14": {
+                "uploaded_t": 1616957143,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 196,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 49,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1161,
+                        "w": 2365
+                    }
+                }
+            },
+            "front_fr": {
+                "y1": "-1",
+                "y2": "-1",
+                "rev": "36",
+                "x2": "-1",
+                "white_magic": "false",
+                "x1": "-1",
+                "sizes": {
+                    "400": {
+                        "h": 211,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 53,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1249,
+                        "w": 2365
+                    },
+                    "200": {
+                        "h": 106,
+                        "w": 200
+                    }
+                },
+                "coordinates_image_size": "400",
+                "angle": 0,
+                "geometry": "0x0--5--5",
+                "normalize": "false",
+                "imgid": "13"
+            },
+            "12": {
+                "uploaded_t": 1599758733,
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 901
+                    }
+                }
+            },
+            "7": {
+                "uploaded_t": 1553930250,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 128,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 32,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 797,
+                        "w": 2493
+                    }
+                }
+            },
+            "10": {
+                "uploaded_t": 1553930252,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 131,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 33,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 814,
+                        "w": 2492
+                    }
+                }
+            },
+            "16": {
+                "uploaded_t": 1616957145,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 129,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 32,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 761,
+                        "w": 2365
+                    }
+                }
+            },
+            "13": {
+                "uploaded_t": 1616957142,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 211,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 53,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1249,
+                        "w": 2365
+                    }
+                }
+            },
+            "1": {
+                "uploaded_t": "1481380635",
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2000,
+                        "w": 1500
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": "1520974282",
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 81
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 20
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 242
+                    }
+                }
+            },
+            "8": {
+                "uploaded_t": 1553930251,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 206,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 52,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1289,
+                        "w": 2497
+                    }
+                }
+            },
+            "5": {
+                "uploaded_t": 1553930249,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 186,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 47,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1031,
+                        "w": 2214
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "y1": "-1",
+                "y2": "-1",
+                "rev": "26",
+                "x2": "-1",
+                "white_magic": null,
+                "x1": "-1",
+                "sizes": {
+                    "400": {
+                        "h": 81,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 20,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 242,
+                        "w": 1200
+                    },
+                    "200": {
+                        "h": 40,
+                        "w": 200
+                    }
+                },
+                "angle": -270,
+                "geometry": "0x0--3--2",
+                "normalize": null,
+                "imgid": "4"
+            }
+        },
+        "owner_fields": {
+            "proteins": 1616937029,
+            "lc": 1616937029,
+            "conservation_conditions_nl": 1616937029,
+            "energy-kcal": 1616937029,
+            "conservation_conditions_fr": 1616937029,
+            "ingredients_text_fr": 1616937029,
+            "product_name_fr": 1616937029,
+            "allergens": 1616937029,
+            "product_name_nl": 1616937029,
+            "customer_service_fr": 1616937029,
+            "labels": 1616937029,
+            "salt": 1616937029,
+            "quantity": 1616937029,
+            "producer_fr": 1616937029,
+            "nutrition_data_prepared_per": 1616937029,
+            "traces": 1616937029,
+            "data_sources": 1616937029,
+            "customer_service_nl": 1616937029,
+            "producer_nl": 1616937029,
+            "saturated-fat": 1616937029,
+            "energy": 1616937029,
+            "fiber": 1616937029,
+            "lang": 1616937029,
+            "nutrition_data_per": 1616937029,
+            "producer_product_id": 1616937029,
+            "generic_name_fr": 1616937029,
+            "generic_name_nl": 1616937029,
+            "energy-kj": 1616937029,
+            "ingredients_text_nl": 1616937029,
+            "countries": 1616937029,
+            "stores": 1616937029,
+            "brands": 1616937029,
+            "obsolete": 1616937029,
+            "sugars": 1616937029,
+            "carbohydrates": 1616937029,
+            "fat": 1616937029
+        },
+        "ingredients_n": 33,
+        "editors_tags": [
+            "yuka.YUlraUdZWURqTkpRaDhNNDRDdUlvUFJvM2MrbVkzdXpHZFJCSVE9PQ",
+            "yuka.R0s0WURxQWx2OE0zZ3ZReHdSbmxvTjk1bjdpVlZrS1ZkK3d6SUE9PQ",
+            "carrefour",
+            "kiliweb",
+            "autorotate-bot",
+            "roboto-app",
+            "openfoodfacts-contributors",
+            "teolemon",
+            "segundo",
+            "org-carrefour",
+            "omerfedj"
+        ],
+        "manufacturing_places_debug_tags": [],
+        "countries_lc": "fr",
+        "allergens_tags": [
+            "en:eggs",
+            "en:milk"
+        ],
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "manufacturing_places": "Belgique",
+        "code": "3560070976867",
+        "codes_tags": [
+            "code-13",
+            "3560070976xxx",
+            "356007097xxxx",
+            "35600709xxxxx",
+            "3560070xxxxxx",
+            "356007xxxxxxx",
+            "35600xxxxxxxx",
+            "3560xxxxxxxxx",
+            "356xxxxxxxxxx",
+            "35xxxxxxxxxxx",
+            "3xxxxxxxxxxxx"
+        ],
+        "customer_service_fr": "Interdis - TSA 91431 - 91343 MASSY Cedex - France",
+        "last_modified_by": "org-carrefour",
+        "labels": "Gluten-free, fr:Afdiag, en:made-in-belgium, en:no-gluten",
+        "entry_dates_tags": [
+            "2016-11-22",
+            "2016-11",
+            "2016"
+        ],
+        "last_edit_dates_tags": [
+            "2021-03-28",
+            "2021-03",
+            "2021"
+        ],
+        "creator": "openfoodfacts-contributors",
+        "conservation_conditions_nl_imported": "Ten minste houdbaar tot / Lotnr.: zie zijkant verpakking.\nDroog bewaren op kamertemperatuur.\n\nSUR LE SACHET individuel: \nTen minste houdbaar tot / Lotnr.: zie zijkant kartonnen verpakking.\nDroog bewaren op kamertemperatuur.",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "et",
+            "biscuit",
+            "au",
+            "terre",
+            "snack",
+            "gluten-free",
+            "carrefour",
+            "base",
+            "petit",
+            "farine",
+            "gateaux",
+            "de",
+            "no",
+            "brownie",
+            "riz",
+            "san",
+            "gluten",
+            "pepite",
+            "sucre",
+            "pomme",
+            "no-gluten",
+            "amidon",
+            "aux",
+            "afdiag",
+            "chocolat",
+            "made-in-belgium"
+        ],
+        "link": "",
+        "countries_imported": "France",
+        "ingredients_debug": [
+            "Œufs",
+            ",",
+            null,
+            null,
+            null,
+            " sucre",
+            ",",
+            null,
+            null,
+            null,
+            " huile de colza",
+            ",",
+            null,
+            null,
+            null,
+            " chocolat au lait 8",
+            ",",
+            null,
+            null,
+            null,
+            "7% ",
+            "(",
+            "(",
+            null,
+            null,
+            "sucre",
+            ",",
+            null,
+            null,
+            null,
+            " poudre de lait entier",
+            ",",
+            null,
+            null,
+            null,
+            " beurre de cacao",
+            ",",
+            null,
+            null,
+            null,
+            " pâte de cacao",
+            ",",
+            null,
+            null,
+            null,
+            " lactose",
+            ",",
+            null,
+            null,
+            null,
+            " émulsifiant ",
+            ":",
+            ":",
+            null,
+            null,
+            "  lécithines de tournesol",
+            ",",
+            null,
+            null,
+            null,
+            " arôme naturel de vanille)",
+            ",",
+            null,
+            null,
+            null,
+            " pépites de chocolat 8",
+            ",",
+            null,
+            null,
+            null,
+            "7% ",
+            "(",
+            "(",
+            null,
+            null,
+            "pâte de cacao",
+            ",",
+            null,
+            null,
+            null,
+            " sucre",
+            ",",
+            null,
+            null,
+            null,
+            " beurre de cacao)",
+            ",",
+            null,
+            null,
+            null,
+            " farine de riz 5",
+            ",",
+            null,
+            null,
+            null,
+            "5%",
+            ",",
+            null,
+            null,
+            null,
+            " amidon de pomme de terre 5",
+            ",",
+            null,
+            null,
+            null,
+            "5%",
+            ",",
+            null,
+            null,
+            null,
+            " humectant ",
+            ":",
+            ":",
+            null,
+            null,
+            "  glycérol",
+            ",",
+            null,
+            null,
+            null,
+            " cacao maigre en poudre",
+            ",",
+            null,
+            null,
+            null,
+            " sirop de glucose",
+            ",",
+            null,
+            null,
+            null,
+            " sirop de sucre inverti",
+            ",",
+            null,
+            null,
+            null,
+            " amidon de riz",
+            ",",
+            null,
+            null,
+            null,
+            " poudres à lever ",
+            ":",
+            ":",
+            null,
+            null,
+            "  diphosphates de sodium",
+            ",",
+            null,
+            null,
+            null,
+            "carbonates de sodium",
+            ",",
+            null,
+            null,
+            null,
+            " acidifiant ",
+            ":",
+            ":",
+            null,
+            null,
+            "  acide citrique",
+            ",",
+            null,
+            null,
+            null,
+            " conservateur ",
+            ":",
+            ":",
+            null,
+            null,
+            "  sorbate de potassium",
+            ",",
+            null,
+            null,
+            null,
+            " stabilisant ",
+            ":",
+            ":",
+            null,
+            null,
+            "  gomme xanthane",
+            ". ",
+            null,
+            null,
+            null,
+            "\n Peut contenir des traces de fruits à coque."
+        ],
+        "labels_lc": "fr",
+        "languages_codes": {
+            "fr": 10,
+            "nl": 7
+        },
+        "packaging": "",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.400.jpg",
+        "popularity_key": 19900000017,
+        "last_image_dates_tags": [
+            "2021-03-28",
+            "2021-03",
+            "2021"
+        ],
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [
+            "en:ecoscore-origins-of-ingredients-origins-are-100-percent-unknown",
+            "en:ecoscore-packaging-packaging-data-missing",
+            "en:ecoscore-production-system-no-label"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-to-be-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed",
+            "en:forest-footprint-computed",
+            "en:forest-footprint-a"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "countries_debug_tags": [],
+        "interface_version_created": "20150316.jqm2",
+        "nutrition_data_per": "100g",
+        "generic_name_fr_debug_tags": [],
+        "product_name_fr_debug_tags": [],
+        "photographers_tags": [
+            "openfoodfacts-contributors",
+            "kiliweb",
+            "carrefour",
+            "org-carrefour"
+        ],
+        "ecoscore_score": 27,
+        "debug_param_sorted_langs": [
+            "fr"
+        ],
+        "other_information_nl": "240g e\nIndividuele zakjes\nPicto GDA\nOntdek het No Gluten gamma van Carrefour!\nOntdek deze glutenvrije brownies. Ideaal als vieruurtje of voor een kleine zoete pauze, dankzij hun vershoudzakjes zijn ze handig mee te nemen. Speciaal bereid voor personen met een glutenintolerantie.\n\nStamp qualité carrefour et logo AFDIAG FR-060-004\n*Glutenvrij\n8 x (picto du sachet)\nLogo AFDIAG",
+        "last_modified_t": 1616957146,
+        "ingredients": [
+            {
+                "percent_max": 54.2,
+                "id": "en:egg",
+                "percent_estimate": 31.45,
+                "percent_min": "8.7",
+                "text": "_Œufs_",
+                "vegan": "no",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 31.45,
+                "id": "en:sugar",
+                "text": "sucre",
+                "percent_min": "8.7",
+                "percent_estimate": 20.075,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_min": "8.7",
+                "percent_estimate": 16.2833333333333,
+                "vegan": "yes",
+                "from_palm_oil": "no",
+                "vegetarian": "yes",
+                "percent_max": 23.8666666666667,
+                "id": "en:colza-oil",
+                "text": "huile de colza"
+            },
+            {
+                "percent": "8.7",
+                "percent_min": "8.7",
+                "percent_estimate": "8.7",
+                "vegan": "no",
+                "vegetarian": "yes",
+                "percent_max": "8.7",
+                "id": "en:milk-chocolate",
+                "text": "chocolat au _lait_"
+            },
+            {
+                "percent_estimate": "8.7",
+                "percent_min": "8.7",
+                "percent": "8.7",
+                "vegan": "maybe",
+                "vegetarian": "yes",
+                "percent_max": "8.7",
+                "id": "en:chocolate-pieces",
+                "text": "pépites de chocolat"
+            },
+            {
+                "percent_estimate": "5.5",
+                "percent_min": "5.5",
+                "percent": "5.5",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "5.5",
+                "id": "en:rice-flour",
+                "text": "farine de riz"
+            },
+            {
+                "percent_min": "5.5",
+                "percent_estimate": "5.5",
+                "percent": "5.5",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "5.5",
+                "id": "en:potato-starch",
+                "text": "amidon de pomme de terre"
+            },
+            {
+                "percent_max": "5.5",
+                "id": "en:humectant",
+                "text": "humectant",
+                "percent_estimate": 1.89583333333333,
+                "percent_min": 0
+            },
+            {
+                "percent_max": "5.5",
+                "id": "en:fat-reduced-cocoa-powder",
+                "text": "cacao maigre en poudre",
+                "percent_estimate": 0.947916666666664,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "5.5",
+                "id": "en:glucose-syrup",
+                "percent_min": 0,
+                "percent_estimate": 0.473958333333329,
+                "text": "sirop de glucose",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "5.5",
+                "id": "en:invert-sugar-syrup",
+                "text": "sirop de sucre inverti",
+                "percent_min": 0,
+                "percent_estimate": 0.236979166666664,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "5.5",
+                "id": "en:rice-starch",
+                "text": "amidon de riz",
+                "percent_min": 0,
+                "percent_estimate": 0.118489583333329,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 4.92727272727273,
+                "id": "en:raising-agent",
+                "percent_estimate": 0.0592447916666643,
+                "percent_min": 0,
+                "text": "poudres à lever"
+            },
+            {
+                "percent_max": 4.51666666666667,
+                "id": "en:e500",
+                "percent_min": 0,
+                "percent_estimate": 0.0296223958333286,
+                "text": "carbonates de sodium",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 4.16923076923077,
+                "id": "en:acid",
+                "percent_min": 0,
+                "percent_estimate": 0.0148111979166643,
+                "text": "acidifiant"
+            },
+            {
+                "percent_max": 3.87142857142857,
+                "id": "en:preservative",
+                "text": "conservateur",
+                "percent_min": 0,
+                "percent_estimate": 0.0074055989583286
+            },
+            {
+                "percent_max": 3.61333333333333,
+                "id": "en:stabiliser",
+                "text": "stabilisant",
+                "percent_estimate": 0.0074055989583286,
+                "percent_min": 0
+            }
+        ],
+        "product_name_debug_tags": [],
+        "nutriscore_grade": "d",
+        "countries": "France",
+        "stores": "Carrefour",
+        "ciqual_food_name_tags": [
+            "chocolate-cake"
+        ],
+        "other_nutritional_substances_tags": [],
+        "cities_tags": [],
+        "brands": "Carrefour",
+        "categories": "Snacks, Snacks sucrés, Biscuits et gâteaux, Gâteaux, Gâteaux au chocolat, Brownies",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+        "ingredients_text_with_allergens": "<span class=\"allergen\">Œufs</span>, sucre, huile de colza, chocolat au <span class=\"allergen\">lait</span> 8,7% (sucre, poudre de <span class=\"allergen\">lait</span> entier, beurre de cacao, pâte de cacao, <span class=\"allergen\">lactose</span>, émulsifiant : lécithines de tournesol, arôme naturel de vanille), pépites de chocolat 8,7% (pâte de cacao, sucre, beurre de cacao), farine de riz 5,5%, amidon de pomme de terre 5,5%, humectant : glycérol, cacao maigre en poudre, sirop de glucose, sirop de sucre inverti, amidon de riz, poudres à lever : diphosphates et carbonates de sodium, acidifiant : acide citrique, conservateur : sorbate de potassium, stabilisant : gomme xanthane. \n Peut contenir des traces de <span class=\"allergen\">fruits à coque</span>.",
+        "nutrition_grades": "d",
+        "nutrient_levels_tags": [
+            "en:fat-in-high-quantity",
+            "en:saturated-fat-in-high-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-moderate-quantity"
+        ],
+        "nutrition_data_per_imported": "100g",
+        "nutrition_data_prepared_per_imported": "100g",
+        "known_ingredients_n": 49,
+        "product_name_fr_imported": "Brownies No Gluten !*",
+        "minerals_prev_tags": [],
+        "product_name": "Brownies No Gluten !*",
+        "serving_size_debug_tags": [],
+        "ingredients_text": "_Œufs_, sucre, huile de colza, chocolat au _lait_ 8,7% (sucre, poudre de _lait_ entier, beurre de cacao, pâte de cacao, _lactose_, émulsifiant : lécithines de tournesol, arôme naturel de vanille), pépites de chocolat 8,7% (pâte de cacao, sucre, beurre de cacao), farine de riz 5,5%, amidon de pomme de terre 5,5%, humectant : glycérol, cacao maigre en poudre, sirop de glucose, sirop de sucre inverti, amidon de riz, poudres à lever : diphosphates et carbonates de sodium, acidifiant : acide citrique, conservateur : sorbate de potassium, stabilisant : gomme xanthane. \n Peut contenir des traces de fruits à coque.",
+        "origins": "",
+        "languages_tags": [
+            "en:french",
+            "en:dutch",
+            "en:2",
+            "en:multilingual"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "_Œufs_, sucre, huile de colza, chocolat au _lait_ 8,7% (sucre, poudre de _lait_ entier, beurre de cacao, pâte de cacao, _lactose_, émulsifiant : lécithines de tournesol, arôme naturel de vanille), pépites de chocolat 8,7% (pâte de cacao, sucre, beurre de cacao), farine de riz 5,5%, amidon de pomme de terre 5,5%, humectant : glycérol, cacao maigre en poudre, sirop de glucose, sirop de sucre inverti, amidon de riz, poudres à lever : diphosphates et carbonates de sodium, acidifiant : acide citrique, conservateur : sorbate de potassium, stabilisant : gomme xanthane. \n Peut contenir des traces de fruits à coque.",
+        "lang_debug_tags": [],
+        "customer_service_nl_imported": "Carrefour Product info\n PB 2000 Evere 3 - 1140 BRUSSELS\n Tél: 0800/9.10.11",
+        "allergens": "",
+        "serving_quantity": "30",
+        "categories_lc": "fr",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/ingredients_fr.26.100.jpg",
+        "obsolete_imported": "0",
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "d",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:unknown",
+                            "material": "en:unknown",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "warning": "unscored_shape",
+                    "score": 0
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "transportation_score_lu": 0,
+                    "value_it": -5,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "transportation_score_ch": 0,
+                    "epi_value": -5,
+                    "value_ie": -5,
+                    "value_fr": -5,
+                    "transportation_value_de": 0,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "value_lu": -5,
+                    "transportation_score_nl": 0
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "d",
+            "score": 27,
+            "grade_de": "d",
+            "missing_data_warning": 1,
+            "grade_nl": "d",
+            "score_be": 22,
+            "agribalyse": {
+                "co2_transportation": "0.20313436",
+                "ef_distribution": "0.0098990521",
+                "name_fr": "Brownie au chocolat",
+                "score": 37,
+                "agribalyse_food_code": "23032",
+                "ef_agriculture": "0.6964604099999999",
+                "ef_consumption": "0",
+                "name_en": "Brownie (chocolate cake)",
+                "co2_total": "8.964963",
+                "ef_packaging": "0.018688987",
+                "ef_processing": "0.080710822",
+                "is_beverage": 0,
+                "co2_processing": "0.62389616",
+                "dqr": "2.19",
+                "code": "23032",
+                "co2_consumption": "0",
+                "co2_distribution": "0.029120657",
+                "ef_total": "0.82406316",
+                "co2_agriculture": "7.8023402",
+                "ef_transportation": "0.018011649",
+                "co2_packaging": "0.30174863"
+            },
+            "grade_it": "d",
+            "score_nl": 22,
+            "missing": {
+                "packagings": 1,
+                "labels": 1,
+                "origins": 1
+            },
+            "grade_ie": "d",
+            "score_ch": 22,
+            "score_de": 22,
+            "score_fr": 22,
+            "score_ie": 22,
+            "score_lu": 22,
+            "score_it": 22,
+            "score_es": 22,
+            "grade_es": "d",
+            "grade_ch": "d",
+            "grade_lu": "d",
+            "grade": "d"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/nutrition_fr.5.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/nutrition_fr.5.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/nutrition_fr.5.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/ingredients_fr.26.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/ingredients_fr.26.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/ingredients_fr.26.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.200.jpg"
+                }
+            }
+        },
+        "origins_old": "",
+        "rev": 42,
+        "product_name_nl": "Brownies No Gluten !*",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "producer_nl_imported": "Geproduceerd in België door EMB B-8940 voor Interdis.",
+        "last_editor": "org-carrefour",
+        "additives_prev_original_tags": [
+            "en:e322",
+            "en:e422",
+            "en:e450",
+            "en:e500",
+            "en:e330",
+            "en:e202",
+            "en:e415"
+        ],
+        "ingredients_tags": [
+            "en:egg",
+            "en:sugar",
+            "en:colza-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:milk-chocolate",
+            "en:chocolate",
+            "en:chocolate-pieces",
+            "en:rice-flour",
+            "en:flour",
+            "en:rice",
+            "en:potato-starch",
+            "en:starch",
+            "en:humectant",
+            "en:fat-reduced-cocoa-powder",
+            "en:cocoa",
+            "en:cocoa-powder",
+            "en:glucose-syrup",
+            "en:glucose",
+            "en:invert-sugar-syrup",
+            "en:invert-sugar",
+            "en:sugar-syrup",
+            "en:rice-starch",
+            "en:raising-agent",
+            "en:e500",
+            "en:acid",
+            "en:preservative",
+            "en:stabiliser",
+            "en:whole-milk-powder",
+            "en:dairy",
+            "en:milk-powder",
+            "en:cocoa-butter",
+            "en:cocoa-paste",
+            "en:lactose",
+            "en:emulsifier",
+            "en:natural-vanilla-flavouring",
+            "en:flavouring",
+            "en:natural-flavouring",
+            "en:vanilla-flavouring",
+            "en:e422",
+            "en:e450i",
+            "en:e450",
+            "en:e330",
+            "en:e202",
+            "en:e415",
+            "en:sunflower-lecithin",
+            "en:e322",
+            "en:e322i"
+        ],
+        "data_sources_tags": [
+            "producer-carrefour",
+            "producers",
+            "app-yuka",
+            "apps"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/nutrition_fr.5.100.jpg",
+        "producer_nl": "Geproduceerd in België door EMB B-8940 voor Interdis.",
+        "ingredients_from_palm_oil_tags": [],
+        "carbon_footprint_percent_of_known_ingredients": 22.9,
+        "categories_hierarchy": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:cakes",
+            "en:chocolate-cakes",
+            "en:brownies"
+        ],
+        "quantity_imported": "240 g\n\nSur le sachet, indiquer 30 g",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "d",
+        "producer_product_id_imported": "8924",
+        "languages": {
+            "en:french": 10,
+            "en:dutch": 7
+        },
+        "nutrition_data": "on",
+        "ingredients_text_nl_imported": "_Eieren_, suiker, koolzaadolie, _melk_chocolade 8,7% (suiker, volle_melk_poeder, cacaoboter, cacaomassa, _lactose_, emulgator: zonnebloemlecithinen, natuurlijk vanillearoma), chocoladestukjes 8,7% (cacaomassa, suiker, cacaoboter), rijstbloem 5,5%, aardappelzetmeel 5,5%, bevochtigingsmiddel: glycerol, magerecacaopoeder, glucosestroop, invertsuikerstroop, rijstzetmeel, rijsmiddelen: difosfaten en natriumcarbonaten, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, stabilisator: xanthaangom.\nKan sporen bevatten van noten.",
+        "purchase_places": "",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-23032",
+            "agribalyse-food-code-known",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-23032",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-23032"
+        ],
+        "id": "3560070976867",
+        "sources": [
+            {
+                "import_t": 1553930249,
+                "fields": [
+                    "product_name_fr",
+                    "product_name_nl",
+                    "generic_name_fr",
+                    "generic_name_nl",
+                    "quantity",
+                    "labels",
+                    "other_information_fr",
+                    "other_information_nl",
+                    "conservation_conditions_fr",
+                    "conservation_conditions_nl",
+                    "customer_service_fr",
+                    "customer_service_nl",
+                    "producer_fr",
+                    "producer_nl",
+                    "ingredients_text_fr",
+                    "ingredients_text_nl"
+                ],
+                "id": "carrefour",
+                "manufacturer": "1",
+                "url": "https://www.carrefour.fr",
+                "name": "Carrefour",
+                "images": []
+            },
+            {
+                "import_t": 1567060793,
+                "id": "carrefour",
+                "fields": [
+                    "brands",
+                    "producer_product_id"
+                ],
+                "url": "https://www.carrefour.fr",
+                "manufacturer": "1",
+                "name": "Carrefour",
+                "images": []
+            },
+            {
+                "import_t": 1574493865,
+                "fields": [
+                    "ingredients_text_fr",
+                    "ingredients_text_nl"
+                ],
+                "id": "carrefour",
+                "manufacturer": "1",
+                "url": "https://www.carrefour.fr",
+                "name": "Carrefour",
+                "images": []
+            },
+            {
+                "import_t": 1581233266,
+                "id": "carrefour",
+                "fields": [
+                    "product_name_fr",
+                    "product_name_nl"
+                ],
+                "url": "https://www.carrefour.fr",
+                "manufacturer": "1",
+                "name": "Carrefour",
+                "images": []
+            },
+            {
+                "import_t": 1602570058,
+                "fields": [
+                    "labels"
+                ],
+                "id": "carrefour",
+                "manufacturer": "1",
+                "url": "https://www.carrefour.fr",
+                "name": "Carrefour",
+                "images": []
+            },
+            {
+                "import_t": 1616957141,
+                "id": "org-carrefour",
+                "fields": [
+                    "nutrients.energy-kcal_unit",
+                    "nutrients.energy-kcal_value"
+                ],
+                "url": null,
+                "manufacturer": 1,
+                "name": "carrefour",
+                "images": []
+            }
+        ],
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Sugary snacks",
+        "allergens_from_user": "(fr) ",
+        "labels_imported": "Sans gluten, Afdiag",
+        "additives_debug_tags": [
+            "en-e450i-added"
+        ],
+        "other_information": "240g e\nSachets individuels \nPicto GDA\nDécouvrez la gamme Carrefour No Gluten!\nDécouvrez ces brownies sans gluten. Idéal pour le goûter ou pour une petite pause douceur, vous pourrez les emporter partout grâce à leur sachet fraîcheur. Spécialement formulés pour les personnes ayant une intolérance au gluten. \n\nStamp qualité carrefour et logo AFDIAG FR-060-004\n*Sans Gluten\n8 x (picto du sachet)\nLogo AFDIAG",
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/ingredients_fr.26.400.jpg",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish",
+            "en:ecoscore-origins-of-ingredients-origins-are-100-percent-unknown",
+            "en:ecoscore-packaging-packaging-data-missing",
+            "en:ecoscore-production-system-no-label"
+        ],
+        "additives_old_tags": [
+            "en:e1403",
+            "en:e322",
+            "en:e422",
+            "en:e450",
+            "en:e500",
+            "en:e330",
+            "en:e202",
+            "en:e415"
+        ],
+        "origins_hierarchy": [],
+        "labels_hierarchy": [
+            "en:no-gluten",
+            "en:made-in-belgium",
+            "fr:afdiag"
+        ],
+        "ecoscore_tags": [
+            "d"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "other_information_fr": "240g e\nSachets individuels \nPicto GDA\nDécouvrez la gamme Carrefour No Gluten!\nDécouvrez ces brownies sans gluten. Idéal pour le goûter ou pour une petite pause douceur, vous pourrez les emporter partout grâce à leur sachet fraîcheur. Spécialement formulés pour les personnes ayant une intolérance au gluten. \n\nStamp qualité carrefour et logo AFDIAG FR-060-004\n*Sans Gluten\n8 x (picto du sachet)\nLogo AFDIAG",
+        "lc_imported": "fr",
+        "nutrition_score_beverage": 0,
+        "pnns_groups_2": "Biscuits and cakes",
+        "ingredients_text_fr_debug_tags": [],
+        "complete": 0,
+        "product_quantity": "240",
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.100.jpg",
+        "ingredients_text_debug": "Œufs, sucre, huile de colza, chocolat au lait 8,7% (sucre, poudre de lait entier, beurre de cacao, pâte de cacao, lactose, émulsifiant :  lécithines de tournesol, arôme naturel de vanille), pépites de chocolat 8,7% (pâte de cacao, sucre, beurre de cacao), farine de riz 5,5%, amidon de pomme de terre 5,5%, humectant :  glycérol, cacao maigre en poudre, sirop de glucose, sirop de sucre inverti, amidon de riz, poudres à lever :  diphosphates et carbonates de sodium, acidifiant :  acide citrique, conservateur :  sorbate de potassium, stabilisant :  gomme xanthane. \n Peut contenir des traces de fruits à coque.",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.400.jpg",
+        "_id": "3560070976867",
+        "producer": "Fabriqué en Belgique par EMB B-8940 pour Interdis.",
+        "countries_tags": [
+            "en:france"
+        ],
+        "serving_size": "30 g",
+        "ingredients_hierarchy": [
+            "en:egg",
+            "en:sugar",
+            "en:colza-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:milk-chocolate",
+            "en:chocolate",
+            "en:chocolate-pieces",
+            "en:rice-flour",
+            "en:flour",
+            "en:rice",
+            "en:potato-starch",
+            "en:starch",
+            "en:humectant",
+            "en:fat-reduced-cocoa-powder",
+            "en:cocoa",
+            "en:cocoa-powder",
+            "en:glucose-syrup",
+            "en:glucose",
+            "en:invert-sugar-syrup",
+            "en:invert-sugar",
+            "en:sugar-syrup",
+            "en:rice-starch",
+            "en:raising-agent",
+            "en:e500",
+            "en:acid",
+            "en:preservative",
+            "en:stabiliser",
+            "en:whole-milk-powder",
+            "en:dairy",
+            "en:milk-powder",
+            "en:cocoa-butter",
+            "en:cocoa-paste",
+            "en:lactose",
+            "en:emulsifier",
+            "en:natural-vanilla-flavouring",
+            "en:flavouring",
+            "en:natural-flavouring",
+            "en:vanilla-flavouring",
+            "en:e422",
+            "en:e450i",
+            "en:e450",
+            "en:e330",
+            "en:e202",
+            "en:e415",
+            "en:sunflower-lecithin",
+            "en:e322",
+            "en:e322i"
+        ],
+        "additives_original_tags": [
+            "en:e322i",
+            "en:e422",
+            "en:e450i",
+            "en:e500",
+            "en:e330",
+            "en:e202",
+            "en:e415"
+        ],
+        "stores_tags": [
+            "carrefour"
+        ],
+        "nutriscore_score": 15,
+        "compared_to_category": "en:brownies",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-to-be-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "expiration_date_debug_tags": [],
+        "ingredients_n_tags": [
+            "33",
+            "31-40"
+        ],
+        "pnns_groups_1_tags": [
+            "sugary-snacks",
+            "known"
+        ],
+        "additives_old_n": 8,
+        "allergens_imported": "Œufs, Lait",
+        "packagings": [
+            {
+                "shape": "en:unknown",
+                "material": "en:unknown"
+            }
+        ],
+        "quantity": "240 g\n\nSur le sachet, indiquer 30 g",
+        "data_quality_errors_tags": [],
+        "data_quality_info_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+        ],
+        "brands_tags": [
+            "carrefour"
+        ],
+        "owners_tags": "org-carrefour",
+        "ingredients_ids_debug": [
+            "oeufs",
+            "sucre",
+            "huile-de-colza",
+            "chocolat-au-lait-8",
+            "7",
+            "sucre",
+            "poudre-de-lait-entier",
+            "beurre-de-cacao",
+            "pate-de-cacao",
+            "lactose",
+            "emulsifiant",
+            "lecithines-de-tournesol",
+            "arome-naturel-de-vanille",
+            "pepites-de-chocolat-8",
+            "7",
+            "pate-de-cacao",
+            "sucre",
+            "beurre-de-cacao",
+            "farine-de-riz-5",
+            "5",
+            "amidon-de-pomme-de-terre-5",
+            "5",
+            "humectant",
+            "glycerol",
+            "cacao-maigre-en-poudre",
+            "sirop-de-glucose",
+            "sirop-de-sucre-inverti",
+            "amidon-de-riz",
+            "poudres-a-lever",
+            "diphosphates-de-sodium",
+            "carbonates-de-sodium",
+            "acidifiant",
+            "acide-citrique",
+            "conservateur",
+            "sorbate-de-potassium",
+            "stabilisant",
+            "gomme-xanthane",
+            "peut-contenir-des-traces-de-fruits-a-coque"
+        ],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [
+            "en:egg",
+            "en:sugar",
+            "en:colza-oil",
+            "en:milk-chocolate",
+            "en:chocolate-pieces",
+            "en:rice-flour",
+            "en:potato-starch",
+            "en:humectant",
+            "en:fat-reduced-cocoa-powder",
+            "en:glucose-syrup",
+            "en:invert-sugar-syrup",
+            "en:rice-starch",
+            "en:raising-agent",
+            "en:e500",
+            "en:acid",
+            "en:preservative",
+            "en:stabiliser",
+            "en:sugar",
+            "en:whole-milk-powder",
+            "en:cocoa-butter",
+            "en:cocoa-paste",
+            "en:lactose",
+            "en:emulsifier",
+            "en:natural-vanilla-flavouring",
+            "en:cocoa-paste",
+            "en:sugar",
+            "en:cocoa-butter",
+            "en:e422",
+            "en:e450i",
+            "en:e330",
+            "en:e202",
+            "en:e415",
+            "en:sunflower-lecithin"
+        ],
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 8.7,
+        "traces": "en:nuts",
+        "product_name_nl_imported": "Brownies No Gluten !*",
+        "data_sources": "Producer - Carrefour, Producers, App - yuka, Apps",
+        "unknown_ingredients_n": 0,
+        "manufacturing_places_tags": [
+            "belgique"
+        ],
+        "ingredients_text_fr_imported": "_Œufs_, sucre, huile de colza, chocolat au _lait_ 8,7% (sucre, poudre de _lait_ entier, beurre de cacao, pâte de cacao, _lactose_, émulsifiant : lécithines de tournesol, arôme naturel de vanille), pépites de chocolat 8,7% (pâte de cacao, sucre, beurre de cacao), farine de riz 5,5%, amidon de pomme de terre 5,5%, humectant : glycérol, cacao maigre en poudre, sirop de glucose, sirop de sucre inverti, amidon de riz, poudres à lever : diphosphates et carbonates de sodium, acidifiant : acide citrique, conservateur : sorbate de potassium, stabilisant : gomme xanthane. \n Peut contenir des traces de fruits à coque.",
+        "conservation_conditions_fr_imported": "A consommer de préférence avant le / n° de lot : voir sur le côté de l'emballage.\nA conserver à température ambiante et à l'abri de l'humidité.\n\nSUR LE SACHET individuel: \nA consommer de préférence avant le / n° de lot : voir sur le côté de l'emballage cartonné\nA conserver à température ambiante et à l'abri de l'humidité.",
+        "quantity_debug_tags": [],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "forest_footprint_data": {
+            "footprint_per_kg": 0.0249503333333333,
+            "ingredients": [
+                {
+                    "processing_factor": "1",
+                    "type": {
+                        "deforestation_risk": "0.68",
+                        "soy_feed_factor": "0.035",
+                        "name": "Oeufs Importés",
+                        "soy_yield": "0.3"
+                    },
+                    "tag_type": "ingredients",
+                    "conditions_tags": [],
+                    "percent_estimate": 31.45,
+                    "percent": 31.45,
+                    "matching_tag_id": "en:egg",
+                    "tag_id": "en:egg",
+                    "footprint_per_kg": 0.0249503333333333
+                }
+            ],
+            "grade": "a"
+        },
+        "lang_imported": "fr",
+        "max_imgid": "19",
+        "emb_codes": "",
+        "traces_imported": "Fruits à coque",
+        "nutrition_data_per_debug_tags": [],
+        "producer_product_id": "8924",
+        "nutriscore_score_opposite": -15,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/front_fr.36.200.jpg",
+        "generic_name_fr": "Petits gâteaux au chocolat et aux pépites de chocolat sans gluten à base de farine de riz et amidon de pomme de terre.",
+        "producer_fr_imported": "Fabriqué en Belgique par EMB B-8940 pour Interdis.",
+        "nutriments": {
+            "carbohydrates_unit": "g",
+            "energy-kj_100g": 1804,
+            "saturated-fat_serving": 1.59,
+            "energy-kcal": 432,
+            "sugars_100g": 32,
+            "proteins_serving": 1.65,
+            "sodium_value": 0.196,
+            "salt_100g": 0.49,
+            "nova-group_serving": 4,
+            "energy_unit": "kJ",
+            "energy-kj_serving": 541,
+            "sugars_unit": "g",
+            "energy-kj_unit": "kJ",
+            "salt": 0.49,
+            "fiber_100g": 3.8,
+            "energy-kcal_100g": 432,
+            "saturated-fat": 5.3,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 8.7,
+            "fat_value": 23,
+            "fiber": 3.8,
+            "nova-group_100g": 4,
+            "energy_value": 1804,
+            "carbon-footprint-from-known-ingredients_serving": 30.2,
+            "fiber_value": 3.8,
+            "fiber_unit": "g",
+            "carbohydrates_serving": 15.3,
+            "sodium_unit": "g",
+            "carbohydrates_100g": 51,
+            "fat": 23,
+            "energy-kcal_unit": "kcal",
+            "salt_serving": 0.147,
+            "proteins": 5.5,
+            "energy_100g": 1804,
+            "sodium_100g": 0.196,
+            "nutrition-score-fr_100g": 15,
+            "salt_unit": "g",
+            "carbohydrates_value": 51,
+            "proteins_unit": "g",
+            "sugars_serving": 9.6,
+            "fat_unit": "g",
+            "salt_value": 0.49,
+            "fiber_serving": 1.14,
+            "proteins_value": 5.5,
+            "saturated-fat_100g": 5.3,
+            "fat_serving": 6.9,
+            "carbon-footprint-from-known-ingredients_100g": 100.56,
+            "nova-group": 4,
+            "energy": 1804,
+            "saturated-fat_value": 5.3,
+            "energy-kcal_value": 432,
+            "energy_serving": 541,
+            "fat_100g": 23,
+            "saturated-fat_unit": "g",
+            "sodium_serving": 0.0588,
+            "energy-kj_value": 1804,
+            "energy-kj": 1804,
+            "carbon-footprint-from-known-ingredients_product": 241,
+            "sugars_value": 32,
+            "proteins_100g": 5.5,
+            "nutrition-score-fr": 15,
+            "sodium": 0.196,
+            "sugars": 32,
+            "carbohydrates": 51,
+            "energy-kcal_serving": 130
+        },
+        "purchase_places_tags": [],
+        "generic_name_fr_imported": "Petits gâteaux au chocolat et aux pépites de chocolat sans gluten à base de farine de riz et amidon de pomme de terre.",
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/ingredients_fr.26.200.jpg",
+        "ingredients_text_nl": "_Eieren_, suiker, koolzaadolie, _melk_chocolade 8,7% (suiker, volle_melk_poeder, cacaoboter, cacaomassa, _lactose_, emulgator: zonnebloemlecithinen, natuurlijk vanillearoma), chocoladestukjes 8,7% (cacaomassa, suiker, cacaoboter), rijstbloem 5,5%, aardappelzetmeel 5,5%, bevochtigingsmiddel: glycerol, magerecacaopoeder, glucosestroop, invertsuikerstroop, rijstzetmeel, rijsmiddelen: difosfaten en natriumcarbonaten, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, stabilisator: xanthaangom.\nKan sporen bevatten van noten.",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/356/007/097/6867/nutrition_fr.5.200.jpg",
+        "conservation_conditions": "A consommer de préférence avant le / n° de lot : voir sur le côté de l'emballage.\nA conserver à température ambiante et à l'abri de l'humidité.\n\nSUR LE SACHET individuel: \nA consommer de préférence avant le / n° de lot : voir sur le côté de l'emballage cartonné\nA conserver à température ambiante et à l'abri de l'humidité.",
+        "owner": "org-carrefour"
+    },
+    "status_verbose": "product found"
+}

@@ -1,0 +1,1157 @@
+{
+    "status": 1,
+    "code": "8585002476821",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "categories_tags": [
+            "en:groceries"
+        ],
+        "traces_hierarchy": [
+            "en:celery",
+            "en:eggs",
+            "en:fish",
+            "en:milk",
+            "en:soybeans"
+        ],
+        "allergens_hierarchy": [
+            "en:gluten"
+        ],
+        "product_name_fr": "Papillottes Spécial Poêle Saumon à l'aneth et au jus de citron",
+        "generic_name": "Assaisonnement déshydraté aneth et jus de citron sur papier de cuisson",
+        "origins_tags": [],
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1450811060,
+        "emb_codes_20141016": "",
+        "additives_n": 2,
+        "carbon_footprint_from_known_ingredients_debug": "en:concentrated-lemon-juice 0.7% x 0.3 = 0.21 g - ",
+        "pnns_groups_2_tags": [
+            "unknown",
+            "missing-association"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "tacite"
+        ],
+        "sortkey": 1451218465,
+        "categories_old": "Epicerie",
+        "categories_properties": {},
+        "completeness": 0.8,
+        "labels_tags": [
+            "en:no-colorings",
+            "en:no-preservatives"
+        ],
+        "traces_from_user": "(fr) en:celery,en:eggs,en:fish,en:milk,en:soybeans",
+        "informers_tags": [
+            "tacite"
+        ],
+        "nutrition_grades_tags": [
+            "e"
+        ],
+        "lang": "fr",
+        "vitamins_tags": [],
+        "origins_lc": "fr",
+        "interface_version_modified": "20120622",
+        "additives_tags": [
+            "en:e330",
+            "en:e392"
+        ],
+        "unique_scans_n": 1,
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/nutrition_fr.7.400.jpg",
+        "unknown_nutrients_tags": [],
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "nova_group_debug": " -- ingredients/en:sugar : 3 -- ingredients/en:flavouring : 4",
+        "traces_tags": [
+            "en:celery",
+            "en:eggs",
+            "en:fish",
+            "en:milk",
+            "en:soybeans"
+        ],
+        "nova_groups": "4",
+        "packaging_tags": [
+            "sachet",
+            "papier"
+        ],
+        "allergens_from_ingredients": "blé",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.100.jpg",
+        "nutrient_levels": {
+            "salt": "high",
+            "sugars": "moderate",
+            "saturated-fat": "high",
+            "fat": "high"
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil",
+            "en:maybe-vegan",
+            "en:maybe-vegetarian"
+        ],
+        "created_t": 1450811035,
+        "nutriscore_data": {
+            "proteins": 6.9,
+            "negative_points": 26,
+            "sugars_points": 1,
+            "score": 21,
+            "sodium_value": 8280,
+            "positive_points": 5,
+            "is_water": 0,
+            "saturated_fat_value": 13.7,
+            "proteins_points": 4,
+            "saturated_fat_points": 10,
+            "saturated_fat_ratio": 40.6528189910979,
+            "proteins_value": 6.9,
+            "saturated_fat_ratio_points": 6,
+            "fiber_points": 5,
+            "grade": "e",
+            "is_cheese": 0,
+            "energy": 1860,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 6.5,
+            "fiber": 6.2,
+            "energy_points": 5,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 10,
+            "is_fat": 0,
+            "energy_value": 1860,
+            "is_beverage": 0,
+            "fiber_value": 6.2,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 6.5,
+            "saturated_fat_ratio_value": 40.7,
+            "sugars_value": 7.5,
+            "saturated_fat": 13.7,
+            "sodium": 8280,
+            "sugars": 7.5
+        },
+        "nova_group": 4,
+        "amino_acids_prev_tags": [],
+        "nutrition_grade_fr": "e",
+        "scans_n": 2,
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "Sel, huile de palme, plantes aromatiques : ail, aneth 4,4%, persil; huile de tournesol, légumes : oignon, tomate; arômes (<span class=\"allergen\">blé</span>), acidifiant : acide citrique; sucre, fibres de pois, jus de citron concentré 0,7%, poivre, curcuma, antioxydant : extraits de romarin",
+        "images": {
+            "nutrition_fr": {
+                "rev": "7",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 334
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 84
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 167
+                    },
+                    "full": {
+                        "h": 1031,
+                        "w": 861
+                    }
+                },
+                "normalize": "false",
+                "geometry": "861x1031-342-198",
+                "imgid": "1"
+            },
+            "nutrition": {
+                "rev": "7",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 334
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 84
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 167
+                    },
+                    "full": {
+                        "h": 1031,
+                        "w": 861
+                    }
+                },
+                "normalize": "false",
+                "geometry": "861x1031-342-198",
+                "imgid": "1"
+            },
+            "front_fr": {
+                "rev": "5",
+                "white_magic": "false",
+                "geometry": "0x0-0-0",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 268
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 67
+                    },
+                    "full": {
+                        "h": 3702,
+                        "w": 2477
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 134
+                    }
+                },
+                "normalize": "false",
+                "imgid": "2"
+            },
+            "ingredients": {
+                "rev": "6",
+                "white_magic": "false",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 42,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 10,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 311,
+                        "w": 2994
+                    },
+                    "200": {
+                        "h": 21,
+                        "w": 200
+                    }
+                },
+                "geometry": "2994x311-262-1460",
+                "imgid": "1"
+            },
+            "1": {
+                "uploaded_t": "1450811035",
+                "uploader": "tacite",
+                "sizes": {
+                    "400": {
+                        "h": 327,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 82,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2906,
+                        "w": 3554
+                    }
+                }
+            },
+            "front": {
+                "rev": "5",
+                "white_magic": "false",
+                "geometry": "0x0-0-0",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 268
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 67
+                    },
+                    "full": {
+                        "h": 3702,
+                        "w": 2477
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 134
+                    }
+                },
+                "normalize": "false",
+                "imgid": "2"
+            },
+            "2": {
+                "uploaded_t": "1450811059",
+                "uploader": "tacite",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 268
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 67
+                    },
+                    "full": {
+                        "h": 3702,
+                        "w": 2477
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "rev": "6",
+                "white_magic": "false",
+                "normalize": "false",
+                "sizes": {
+                    "400": {
+                        "h": 42,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 10,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 311,
+                        "w": 2994
+                    },
+                    "200": {
+                        "h": 21,
+                        "w": 200
+                    }
+                },
+                "geometry": "2994x311-262-1460",
+                "imgid": "1"
+            }
+        },
+        "ingredients_n": 21,
+        "editors_tags": [
+            "tacite"
+        ],
+        "allergens_tags": [
+            "en:gluten"
+        ],
+        "countries_lc": "fr",
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "completed_t": 1451218465,
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "code": "8585002476821",
+        "manufacturing_places": "",
+        "codes_tags": [
+            "code-13",
+            "8585002476821",
+            "858500247682x",
+            "85850024768xx",
+            "8585002476xxx",
+            "858500247xxxx",
+            "85850024xxxxx",
+            "8585002xxxxxx",
+            "858500xxxxxxx",
+            "85850xxxxxxxx",
+            "8585xxxxxxxxx",
+            "858xxxxxxxxxx",
+            "85xxxxxxxxxxx",
+            "8xxxxxxxxxxxx"
+        ],
+        "last_modified_by": "tacite",
+        "labels": "Sans colorants, Sans conservateurs",
+        "entry_dates_tags": [
+            "2015-12-22",
+            "2015-12",
+            "2015"
+        ],
+        "last_edit_dates_tags": [
+            "2015-12-27",
+            "2015-12",
+            "2015"
+        ],
+        "creator": "tacite",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "citron",
+            "san",
+            "deshydrate",
+            "ju",
+            "cuisson",
+            "poele",
+            "aneth",
+            "au",
+            "special",
+            "colorant",
+            "epicerie",
+            "et",
+            "sur",
+            "saumon",
+            "papier",
+            "assaisonnement",
+            "papillotte",
+            "de",
+            "conservateur",
+            "maggi"
+        ],
+        "amino_acids_tags": [],
+        "link": "",
+        "ingredients_debug": [
+            "Sel",
+            ",",
+            null,
+            null,
+            null,
+            " huile de palme",
+            ",",
+            null,
+            null,
+            null,
+            " plantes aromatiques ",
+            ":",
+            ":",
+            null,
+            null,
+            " ail",
+            ",",
+            null,
+            null,
+            null,
+            " aneth 4",
+            ",",
+            null,
+            null,
+            null,
+            "4%",
+            ",",
+            null,
+            null,
+            null,
+            " persil",
+            ";",
+            ";",
+            null,
+            null,
+            " huile de tournesol",
+            ",",
+            null,
+            null,
+            null,
+            " légumes ",
+            ":",
+            ":",
+            null,
+            null,
+            " oignon",
+            ",",
+            null,
+            null,
+            null,
+            " tomate",
+            ";",
+            ";",
+            null,
+            null,
+            " arômes ",
+            "(",
+            "(",
+            null,
+            null,
+            "_blé_)",
+            ",",
+            null,
+            null,
+            null,
+            " acidifiant ",
+            ":",
+            ":",
+            null,
+            null,
+            "  acide citrique",
+            ";",
+            ";",
+            null,
+            null,
+            " sucre",
+            ",",
+            null,
+            null,
+            null,
+            " fibres de pois",
+            ",",
+            null,
+            null,
+            null,
+            " jus de citron concentré 0",
+            ",",
+            null,
+            null,
+            null,
+            "7%",
+            ",",
+            null,
+            null,
+            null,
+            " poivre",
+            ",",
+            null,
+            null,
+            null,
+            " curcuma",
+            ",",
+            null,
+            null,
+            null,
+            " antioxydant ",
+            ":",
+            ":",
+            null,
+            null,
+            "  extraits de romarin"
+        ],
+        "labels_lc": "fr",
+        "languages_codes": {
+            "fr": 6
+        },
+        "packaging": "sachet,papier",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.400.jpg",
+        "last_image_dates_tags": [
+            "2015-12-22",
+            "2015-12",
+            "2015"
+        ],
+        "popularity_key": 1,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [
+            "en:nutrition-value-very-high-for-category-saturated-fat",
+            "en:nutrition-value-very-high-for-category-salt"
+        ],
+        "states_tags": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-not-computed"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "tacite"
+        ],
+        "last_modified_t": 1451218465,
+        "ingredients": [
+            {
+                "percent_max": 80.5,
+                "id": "en:salt",
+                "percent_min": 6.25,
+                "percent_estimate": 43.375,
+                "text": "Sel",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_estimate": 23.425,
+                "percent_min": "4.4",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "yes",
+                "percent_max": 42.45,
+                "id": "en:palm-oil",
+                "text": "huile de palme"
+            },
+            {
+                "percent_estimate": 17.0833333333333,
+                "percent_min": "4.4",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": 29.7666666666667,
+                "id": "en:herb",
+                "text": "plantes aromatiques"
+            },
+            {
+                "percent_estimate": "4.4",
+                "percent_min": "4.4",
+                "percent": "4.4",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "4.4",
+                "id": "en:dill",
+                "text": "aneth"
+            },
+            {
+                "percent_max": "4.4",
+                "id": "en:parsley",
+                "percent_min": "0.7",
+                "percent_estimate": 2.55,
+                "text": "persil",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_estimate": 2.55,
+                "percent_min": "0.7",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": "4.4",
+                "id": "en:sunflower-oil",
+                "text": "huile de tournesol"
+            },
+            {
+                "percent_estimate": 2.55,
+                "percent_min": "0.7",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "4.4",
+                "id": "en:vegetable",
+                "text": "légumes"
+            },
+            {
+                "percent_max": "4.4",
+                "id": "en:tomato",
+                "percent_min": "0.7",
+                "percent_estimate": 2.38333333333334,
+                "text": "tomate",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_estimate": 1.19166666666667,
+                "percent_min": "0.7",
+                "vegan": "maybe",
+                "vegetarian": "maybe",
+                "percent_max": "4.4",
+                "id": "en:flavouring",
+                "text": "arômes"
+            },
+            {
+                "percent_max": "4.4",
+                "id": "en:acid",
+                "percent_estimate": 0.595833333333337,
+                "percent_min": "0.7",
+                "text": "acidifiant"
+            },
+            {
+                "percent_max": "4.4",
+                "id": "en:sugar",
+                "text": "sucre",
+                "percent_estimate": 0.297916666666671,
+                "percent_min": "0.7",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "4.4",
+                "id": "en:pea-fiber",
+                "percent_estimate": 0.148958333333339,
+                "percent_min": "0.7",
+                "text": "fibres de pois",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent": "0.7",
+                "percent_estimate": -0.551041666666663,
+                "percent_min": "0.7",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "0.7",
+                "id": "en:concentrated-lemon-juice",
+                "text": "jus de citron concentré"
+            },
+            {
+                "percent_max": "0.7",
+                "id": "en:pepper",
+                "text": "poivre",
+                "percent_estimate": 0,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "0.7",
+                "id": "en:turmeric",
+                "text": "curcuma",
+                "percent_estimate": 0,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": "0.7",
+                "id": "en:antioxidant",
+                "text": "antioxydant",
+                "percent_estimate": 0,
+                "percent_min": 0
+            }
+        ],
+        "nutriscore_grade": "e",
+        "stores": "",
+        "countries": "France",
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "other_nutritional_substances_tags": [],
+        "cities_tags": [],
+        "brands": "Maggi",
+        "categories": "Epicerie",
+        "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+        "ingredients_text_with_allergens": "Sel, huile de palme, plantes aromatiques : ail, aneth 4,4%, persil; huile de tournesol, légumes : oignon, tomate; arômes (<span class=\"allergen\">blé</span>), acidifiant : acide citrique; sucre, fibres de pois, jus de citron concentré 0,7%, poivre, curcuma, antioxydant : extraits de romarin",
+        "nutrition_grades": "e",
+        "nutrient_levels_tags": [
+            "en:fat-in-high-quantity",
+            "en:saturated-fat-in-high-quantity",
+            "en:sugars-in-moderate-quantity",
+            "en:salt-in-high-quantity"
+        ],
+        "known_ingredients_n": 34,
+        "minerals_prev_tags": [],
+        "product_name": "Papillottes Spécial Poêle Saumon à l'aneth et au jus de citron",
+        "ingredients_text": "Sel, huile de palme, plantes aromatiques : ail, aneth 4,4%, persil; huile de tournesol, légumes : oignon, tomate; arômes (_blé_), acidifiant : acide citrique; sucre, fibres de pois, jus de citron concentré 0,7%, poivre, curcuma, antioxydant : extraits de romarin",
+        "origins": "",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Sel, huile de palme, plantes aromatiques : ail, aneth 4,4%, persil; huile de tournesol, légumes : oignon, tomate; arômes (_blé_), acidifiant : acide citrique; sucre, fibres de pois, jus de citron concentré 0,7%, poivre, curcuma, antioxydant : extraits de romarin",
+        "categories_lc": "fr",
+        "allergens": "en:gluten",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/ingredients_fr.6.100.jpg",
+        "ecoscore_data": {
+            "missing_agribalyse_match_warning": 1,
+            "status": "unknown",
+            "agribalyse": {
+                "warning": "missing_agribalyse_match"
+            },
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -1,
+                    "non_recyclable_and_non_biodegradable_materials": 0,
+                    "packagings": [
+                        {
+                            "shape": "en:bag",
+                            "material": "en:paper",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": "92"
+                        }
+                    ],
+                    "score": 92
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "value_it": -5,
+                    "transportation_score_lu": 0,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_value": -5,
+                    "transportation_score_ch": 0,
+                    "value_ie": -5,
+                    "transportation_value_de": 0,
+                    "value_fr": -5,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "value_lu": -5,
+                    "transportation_score_nl": 0
+                },
+                "threatened_species": {
+                    "ingredient": "en:palm-oil",
+                    "value": -10
+                }
+            },
+            "missing": {
+                "agb_category": 1,
+                "labels": 1,
+                "origins": 1
+            }
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/nutrition_fr.7.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/nutrition_fr.7.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/nutrition_fr.7.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/ingredients_fr.6.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/ingredients_fr.6.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/ingredients_fr.6.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.200.jpg"
+                }
+            }
+        },
+        "rev": 11,
+        "origins_old": "",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 1,
+        "last_editor": "tacite",
+        "additives_prev_original_tags": [
+            "en:e330",
+            "en:e100",
+            "en:e392"
+        ],
+        "ingredients_tags": [
+            "en:salt",
+            "en:palm-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:palm-oil-and-fat",
+            "en:herb",
+            "en:dill",
+            "en:parsley",
+            "en:sunflower-oil",
+            "en:vegetable-oil",
+            "en:vegetable",
+            "en:tomato",
+            "en:flavouring",
+            "en:acid",
+            "en:sugar",
+            "en:pea-fiber",
+            "en:fiber",
+            "en:vegetable-fiber",
+            "en:concentrated-lemon-juice",
+            "en:fruit",
+            "en:citrus-fruit",
+            "en:lemon",
+            "en:pepper",
+            "en:seed",
+            "en:turmeric",
+            "en:spice",
+            "en:antioxidant",
+            "en:garlic",
+            "en:root-vegetable",
+            "en:onion",
+            "en:wheat",
+            "en:cereal",
+            "en:e330",
+            "en:e392"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/nutrition_fr.7.100.jpg",
+        "labels_prev_tags": [
+            "en:no-colorings",
+            "en:no-preservatives"
+        ],
+        "ingredients_from_palm_oil_tags": [
+            "huile-de-palme"
+        ],
+        "carbon_footprint_percent_of_known_ingredients": 0.7,
+        "categories_hierarchy": [
+            "en:groceries"
+        ],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "unknown",
+        "labels_prev_hierarchy": [
+            "en:no-colorings",
+            "en:no-preservatives"
+        ],
+        "ingredients_percent_analysis": 1,
+        "languages": {
+            "en:french": 6
+        },
+        "purchase_places": "",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-unknown",
+            "agribalyse-unknown"
+        ],
+        "id": "8585002476821",
+        "no_nutrition_data": null,
+        "pnns_groups_1": "unknown",
+        "allergens_from_user": "(fr) en:gluten",
+        "additives_debug_tags": [
+            "en-e100-removed"
+        ],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/ingredients_fr.6.400.jpg",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish",
+            "en:nutrition-value-very-high-for-category-saturated-fat",
+            "en:nutrition-value-very-high-for-category-salt"
+        ],
+        "additives_old_tags": [
+            "en:e330"
+        ],
+        "origins_hierarchy": [],
+        "ingredients_from_palm_oil_n": 1,
+        "ecoscore_tags": [
+            "unknown"
+        ],
+        "labels_hierarchy": [
+            "en:no-colorings",
+            "en:no-preservatives"
+        ],
+        "pnns_groups_2": "unknown",
+        "nutrition_score_beverage": 0,
+        "complete": 1,
+        "product_quantity": 23.2,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.100.jpg",
+        "ingredients_text_debug": "Sel, huile de palme, plantes aromatiques : ail, aneth 4,4%, persil; huile de tournesol, légumes : oignon, tomate; arômes (_blé_), acidifiant :  acide citrique; sucre, fibres de pois, jus de citron concentré 0,7%, poivre, curcuma, antioxydant :  extraits de romarin",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.400.jpg",
+        "_id": "8585002476821",
+        "countries_tags": [
+            "en:france"
+        ],
+        "ingredients_hierarchy": [
+            "en:salt",
+            "en:palm-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:palm-oil-and-fat",
+            "en:herb",
+            "en:dill",
+            "en:parsley",
+            "en:sunflower-oil",
+            "en:vegetable-oil",
+            "en:vegetable",
+            "en:tomato",
+            "en:flavouring",
+            "en:acid",
+            "en:sugar",
+            "en:pea-fiber",
+            "en:fiber",
+            "en:vegetable-fiber",
+            "en:concentrated-lemon-juice",
+            "en:fruit",
+            "en:citrus-fruit",
+            "en:lemon",
+            "en:pepper",
+            "en:seed",
+            "en:turmeric",
+            "en:spice",
+            "en:antioxidant",
+            "en:garlic",
+            "en:root-vegetable",
+            "en:onion",
+            "en:wheat",
+            "en:cereal",
+            "en:e330",
+            "en:e392"
+        ],
+        "additives_original_tags": [
+            "en:e330",
+            "en:e392"
+        ],
+        "stores_tags": [],
+        "nutriscore_score": 21,
+        "compared_to_category": "en:groceries",
+        "states_hierarchy": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "21",
+            "21-30"
+        ],
+        "pnns_groups_1_tags": [
+            "unknown",
+            "missing-association"
+        ],
+        "additives_old_n": 1,
+        "packagings": [
+            {
+                "shape": "en:bag",
+                "material": "en:paper"
+            }
+        ],
+        "quantity": "23,2 g",
+        "brands_tags": [
+            "maggi"
+        ],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+        ],
+        "data_quality_errors_tags": [],
+        "ingredients_ids_debug": [
+            "sel",
+            "huile-de-palme",
+            "plantes-aromatiques",
+            "ail",
+            "aneth-4",
+            "4",
+            "persil",
+            "huile-de-tournesol",
+            "legumes",
+            "oignon",
+            "tomate",
+            "aromes",
+            "ble",
+            "acidifiant",
+            "acide-citrique",
+            "sucre",
+            "fibres-de-pois",
+            "jus-de-citron-concentre-0",
+            "7",
+            "poivre",
+            "curcuma",
+            "antioxydant",
+            "extraits-de-romarin"
+        ],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [
+            "en:salt",
+            "en:palm-oil",
+            "en:herb",
+            "en:dill",
+            "en:parsley",
+            "en:sunflower-oil",
+            "en:vegetable",
+            "en:tomato",
+            "en:flavouring",
+            "en:acid",
+            "en:sugar",
+            "en:pea-fiber",
+            "en:concentrated-lemon-juice",
+            "en:pepper",
+            "en:turmeric",
+            "en:antioxidant",
+            "en:garlic",
+            "en:onion",
+            "en:wheat",
+            "en:e330",
+            "en:e392"
+        ],
+        "traces": "en:celery,en:eggs,en:fish,en:milk,en:soybeans",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 6.5,
+        "unknown_ingredients_n": 0,
+        "manufacturing_places_tags": [],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "max_imgid": "2",
+        "emb_codes": "",
+        "nutriscore_score_opposite": -21,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/front_fr.5.200.jpg",
+        "generic_name_fr": "Assaisonnement déshydraté aneth et jus de citron sur papier de cuisson",
+        "nutriments": {
+            "proteins": 6.9,
+            "energy_100g": 1860,
+            "carbohydrates_unit": "g",
+            "energy-kj_100g": 1860,
+            "sodium_100g": 8.28,
+            "sugars_100g": 7.5,
+            "sodium_value": 8.28,
+            "salt_100g": 20.7,
+            "nova-group_serving": 4,
+            "nutrition-score-fr_100g": 21,
+            "energy_unit": "kJ",
+            "salt_unit": "g",
+            "proteins_unit": "g",
+            "carbohydrates_value": 21.8,
+            "sugars_unit": "g",
+            "energy-kj_unit": "kJ",
+            "fat_unit": "g",
+            "salt_value": 20.7,
+            "salt": 20.7,
+            "proteins_value": 6.9,
+            "saturated-fat_100g": 13.7,
+            "fiber_100g": 6.2,
+            "saturated-fat": 13.7,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 6.5,
+            "fat_value": 33.7,
+            "carbon-footprint-from-known-ingredients_100g": 0.21,
+            "energy": 1860,
+            "nova-group": 4,
+            "fiber": 6.2,
+            "saturated-fat_value": 13.7,
+            "nova-group_100g": 4,
+            "fat_100g": 33.7,
+            "saturated-fat_unit": "g",
+            "energy_value": 1860,
+            "energy-kj_value": 1860,
+            "fiber_value": 6.2,
+            "fiber_unit": "g",
+            "energy-kj": 1860,
+            "carbon-footprint-from-known-ingredients_product": 0.0487,
+            "proteins_100g": 6.9,
+            "sugars_value": 7.5,
+            "sodium_unit": "g",
+            "nutrition-score-fr": 21,
+            "sodium": 8.28,
+            "carbohydrates_100g": 21.8,
+            "sugars": 7.5,
+            "carbohydrates": 21.8,
+            "fat": 33.7
+        },
+        "purchase_places_tags": [],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/ingredients_fr.6.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/858/500/247/6821/nutrition_fr.7.200.jpg"
+    },
+    "status_verbose": "product found"
+}

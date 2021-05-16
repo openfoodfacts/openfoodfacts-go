@@ -1,0 +1,762 @@
+{
+    "status": 1,
+    "code": "9300650658615",
+    "product": {
+        "lc": "en",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "traces_debug_tags": [],
+        "popularity_tags": [
+            "bottom-25-percent-scans-2019",
+            "bottom-20-percent-scans-2019",
+            "bottom-15-percent-scans-2019",
+            "top-90-percent-scans-2019",
+            "top-country-fr-scans-2019"
+        ],
+        "categories_tags": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:spreads",
+            "en:salted-spreads",
+            "en:plant-based-spreads",
+            "en:yeast-extract-spreads"
+        ],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [],
+        "product_name_fr": "",
+        "generic_name": "",
+        "origins_tags": [],
+        "languages_hierarchy": [
+            "en:english",
+            "en:french"
+        ],
+        "last_image_t": 1519765348,
+        "emb_codes_20141016": "",
+        "pnns_groups_2_tags": [
+            "salty-and-fatty-products",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "ingredients_text_with_allergens_en": "",
+        "correctors_tags": [
+            "teolemon",
+            "neptuno",
+            "autorotate-bot"
+        ],
+        "sortkey": 1562146757,
+        "product_name_en_debug_tags": [],
+        "categories_old": "Plant-based foods and beverages, Plant-based foods, Spreads, Salted spreads, Plant-based spreads, Yeast extract spreads",
+        "completeness": 0.683333333333333,
+        "categories_properties": {},
+        "labels_tags": [
+            "en:australian-made"
+        ],
+        "traces_from_user": "(en) ",
+        "informers_tags": [
+            "openfoodfacts-contributors",
+            "teolemon",
+            "molarambiguity",
+            "yuka.SGEweElvOHhoS1VNdHN3U3pneU40dmdxK3E2UmQweTRPOGNYSVE9PQ",
+            "kiliweb",
+            "neptuno",
+            "roboto-app"
+        ],
+        "generic_name_en_debug_tags": [],
+        "nutrition_grades_tags": [
+            "c"
+        ],
+        "vitamins_tags": [],
+        "lang": "en",
+        "origins_lc": "en",
+        "interface_version_modified": "20150316.jqm2",
+        "ingredients_text_en_debug_tags": [],
+        "unique_scans_n": 1,
+        "additives_tags": [],
+        "unknown_nutrients_tags": [],
+        "generic_name_en": "",
+        "stores_debug_tags": [],
+        "nova_group_debug": "no nova group when the product does not have ingredients",
+        "countries_hierarchy": [
+            "en:australia"
+        ],
+        "traces_tags": [],
+        "packaging_tags": [
+            "jar"
+        ],
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.100.jpg",
+        "nutrient_levels": {
+            "sugars": "low",
+            "salt": "moderate",
+            "fat": "low",
+            "saturated-fat": "low"
+        },
+        "nova_group_tags": [
+            "not-applicable"
+        ],
+        "created_t": 1396768379,
+        "nutriscore_data": {
+            "proteins": 0,
+            "negative_points": 4,
+            "sugars_points": 0,
+            "sodium_value": 400,
+            "score": 4,
+            "positive_points": 0,
+            "saturated_fat_value": 0,
+            "is_water": 0,
+            "proteins_points": 0,
+            "saturated_fat_points": 0,
+            "saturated_fat_ratio": 0,
+            "proteins_value": 0,
+            "saturated_fat_ratio_points": 0,
+            "fiber_points": 0,
+            "grade": "c",
+            "is_cheese": 0,
+            "energy": 25,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+            "fiber": 0,
+            "energy_points": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 4,
+            "is_fat": 0,
+            "energy_value": 25,
+            "is_beverage": 0,
+            "fiber_value": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+            "saturated_fat_ratio_value": 0,
+            "sugars_value": 1,
+            "saturated_fat": 0,
+            "sodium": 400,
+            "sugars": 1
+        },
+        "amino_acids_prev_tags": [],
+        "nutrition_grade_fr": "c",
+        "purchase_places_debug_tags": [],
+        "scans_n": 1,
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "",
+        "images": {
+            "front_en": {
+                "y1": "35.49999999999998",
+                "y2": "236.50000000000003",
+                "rev": "12",
+                "x2": "361.1875",
+                "white_magic": "false",
+                "x1": "82.18749999999996",
+                "sizes": {
+                    "400": {
+                        "h": 371,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 93,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1302,
+                        "w": 1404
+                    },
+                    "200": {
+                        "h": 185,
+                        "w": 200
+                    }
+                },
+                "angle": "0",
+                "geometry": "1806x1302-532-230",
+                "normalize": "false",
+                "imgid": "1"
+            },
+            "3": {
+                "uploaded_t": 1396768435,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 299
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2592,
+                        "w": 1936
+                    }
+                }
+            },
+            "ingredients_en": {
+                "y1": "-1",
+                "y2": "-1",
+                "rev": "19",
+                "x2": "-1",
+                "white_magic": null,
+                "x1": "-1",
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 1599,
+                        "w": 1200
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    }
+                },
+                "angle": -270,
+                "orientation": "0",
+                "geometry": "0x0--4--3",
+                "normalize": null,
+                "imgid": "4"
+            },
+            "1": {
+                "uploaded_t": 1396768380,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 299
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2592,
+                        "w": 1936
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": "1519765348",
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 1599
+                    }
+                }
+            },
+            "front": {
+                "rev": "3",
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 299
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2592,
+                        "w": 1936
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 149
+                    }
+                },
+                "normalize": null,
+                "geometry": "0x0--6--6",
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": 1396768401,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 299
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2592,
+                        "w": 1936
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "y1": "-1",
+                "rev": "20",
+                "y2": "-1",
+                "x2": "-1",
+                "ocr": 1,
+                "white_magic": null,
+                "x1": "-1",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 1599,
+                        "w": 1200
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    }
+                },
+                "angle": -270,
+                "orientation": "0",
+                "normalize": null,
+                "geometry": "0x0--4--3",
+                "imgid": "4"
+            }
+        },
+        "editors_tags": [
+            "teolemon",
+            "kiliweb",
+            "autorotate-bot",
+            "molarambiguity",
+            "openfoodfacts-contributors",
+            "neptuno",
+            "roboto-app",
+            "yuka.SGEweElvOHhoS1VNdHN3U3pneU40dmdxK3E2UmQweTRPOGNYSVE9PQ"
+        ],
+        "manufacturing_places_debug_tags": [],
+        "allergens_tags": [],
+        "countries_lc": "en",
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "emb_codes_debug_tags": [],
+        "manufacturing_places": "",
+        "code": "9300650658615",
+        "codes_tags": [
+            "code-13",
+            "9300650658xxx",
+            "930065065xxxx",
+            "93006506xxxxx",
+            "9300650xxxxxx",
+            "930065xxxxxxx",
+            "93006xxxxxxxx",
+            "9300xxxxxxxxx",
+            "930xxxxxxxxxx",
+            "93xxxxxxxxxxx",
+            "9xxxxxxxxxxxx"
+        ],
+        "last_modified_by": "roboto-app",
+        "labels": "en:australian-made",
+        "entry_dates_tags": [
+            "2014-04-06",
+            "2014-04",
+            "2014"
+        ],
+        "last_edit_dates_tags": [
+            "2019-07-03",
+            "2019-07",
+            "2019"
+        ],
+        "creator": "openfoodfacts-contributors",
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "salted",
+            "extract",
+            "food",
+            "spread",
+            "beverage",
+            "plant-based",
+            "and",
+            "yeast",
+            "australian-made",
+            "vegemite"
+        ],
+        "link": "",
+        "ingredients_debug": [],
+        "labels_lc": "en",
+        "languages_codes": {
+            "fr": 1,
+            "en": 3
+        },
+        "packaging": "Jar",
+        "ingredients_text_en": "",
+        "packaging_debug_tags": [],
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.400.jpg",
+        "popularity_key": 1,
+        "last_image_dates_tags": [
+            "2018-02-27",
+            "2018-02",
+            "2018"
+        ],
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutrition-no-fiber",
+            "en:nutrition-no-fruits-vegetables-nuts",
+            "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+            "en:nutriscore-computed",
+            "en:ecoscore-not-computed"
+        ],
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "generic_name_fr_debug_tags": [],
+        "photographers_tags": [
+            "openfoodfacts-contributors",
+            "kiliweb"
+        ],
+        "product_name_fr_debug_tags": [],
+        "debug_param_sorted_langs": [
+            "en",
+            "fr"
+        ],
+        "last_modified_t": 1562146757,
+        "ingredients": [],
+        "product_name_debug_tags": [],
+        "nutriscore_grade": "c",
+        "stores": "",
+        "countries": "Australia",
+        "other_nutritional_substances_tags": [],
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "cities_tags": [],
+        "brands": "Vegemite",
+        "categories": "Plant-based foods and beverages, Plant-based foods, Spreads, Salted spreads, Plant-based spreads, Yeast extract spreads",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+        "ingredients_text_with_allergens": "",
+        "nutrition_grades": "c",
+        "nutrient_levels_tags": [
+            "en:fat-in-low-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-low-quantity",
+            "en:salt-in-moderate-quantity"
+        ],
+        "minerals_prev_tags": [],
+        "product_name": "Vegemite",
+        "ingredients_text": "",
+        "serving_size_debug_tags": [],
+        "origins": "",
+        "languages_tags": [
+            "en:english",
+            "en:french",
+            "en:2",
+            "en:multilingual"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "",
+        "lang_debug_tags": [],
+        "categories_lc": "en",
+        "allergens": "",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_en.19.100.jpg",
+        "ecoscore_data": {
+            "missing_agribalyse_match_warning": 1,
+            "status": "unknown",
+            "agribalyse": {
+                "warning": "missing_agribalyse_match"
+            },
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 0,
+                    "packagings": [
+                        {
+                            "shape": "en:jar",
+                            "material": "en:unknown",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "score": 0,
+                    "warning": "unscored_shape"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "value_it": -5,
+                    "transportation_score_lu": 0,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_value": -5,
+                    "transportation_score_ch": 0,
+                    "value_ie": -5,
+                    "transportation_value_de": 0,
+                    "value_fr": -5,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "transportation_score_nl": 0,
+                    "value_lu": -5
+                },
+                "threatened_species": {
+                    "warning": "ingredients_missing"
+                }
+            },
+            "missing": {
+                "agb_category": 1,
+                "packagings": 1,
+                "ingredients": 1,
+                "labels": 1,
+                "origins": 1
+            }
+        },
+        "selected_images": {
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_fr.20.400.jpg",
+                    "en": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_en.19.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_fr.20.100.jpg",
+                    "en": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_en.19.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_fr.20.200.jpg",
+                    "en": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_en.19.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.200.jpg"
+                }
+            }
+        },
+        "rev": "20",
+        "origins_old": "",
+        "last_editor": "autorotate-bot",
+        "additives_prev_original_tags": [],
+        "data_sources_tags": [
+            "app-yuka",
+            "apps"
+        ],
+        "ingredients_tags": [],
+        "product_name_en": "Vegemite",
+        "ingredients_from_palm_oil_tags": [],
+        "nutrition_data_prepared_per_debug_tags": [],
+        "categories_hierarchy": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:spreads",
+            "en:salted-spreads",
+            "en:plant-based-spreads",
+            "en:yeast-extract-spreads"
+        ],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "unknown",
+        "ingredients_percent_analysis": 1,
+        "nutrition_data": "on",
+        "languages": {
+            "en:english": 3,
+            "en:french": 1
+        },
+        "purchase_places": "",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-unknown",
+            "agribalyse-unknown"
+        ],
+        "id": "9300650658615",
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Salty snacks",
+        "nutrition_data_prepared": "",
+        "allergens_from_user": "(en) ",
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_en.19.400.jpg",
+        "nutrition_score_warning_no_fiber": 1,
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "additives_old_tags": [],
+        "origins_hierarchy": [],
+        "ecoscore_tags": [
+            "unknown"
+        ],
+        "labels_hierarchy": [
+            "en:australian-made"
+        ],
+        "nutrition_score_beverage": 0,
+        "pnns_groups_2": "Salty and fatty products",
+        "ingredients_text_fr_debug_tags": [],
+        "complete": 0,
+        "product_quantity": 600,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.100.jpg",
+        "ingredients_text_debug": "",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.400.jpg",
+        "_id": "9300650658615",
+        "countries_tags": [
+            "en:australia"
+        ],
+        "ingredients_hierarchy": [],
+        "additives_original_tags": [],
+        "stores_tags": [],
+        "nutriscore_score": 4,
+        "compared_to_category": "en:yeast-extract-spreads",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "expiration_date_debug_tags": [],
+        "pnns_groups_1_tags": [
+            "salty-snacks",
+            "known"
+        ],
+        "packagings": [
+            {
+                "shape": "en:jar"
+            }
+        ],
+        "quantity": "600 g",
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "brands_tags": [
+            "vegemite"
+        ],
+        "data_quality_errors_tags": [],
+        "link_debug_tags": [],
+        "ingredients_ids_debug": [],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [],
+        "traces": "",
+        "data_sources": "App - yuka, Apps",
+        "manufacturing_places_tags": [],
+        "quantity_debug_tags": [],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "max_imgid": "4",
+        "emb_codes": "",
+        "nutrition_data_per_debug_tags": [],
+        "editors": [
+            "",
+            "teolemon"
+        ],
+        "allergens_debug_tags": [],
+        "nutriscore_score_opposite": -4,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/front_en.12.200.jpg",
+        "generic_name_fr": "",
+        "brands_debug_tags": [],
+        "nutriments": {
+            "proteins": 0,
+            "energy_100g": 25,
+            "carbohydrates_unit": "g",
+            "sodium_100g": 0.4,
+            "sugars_100g": 1,
+            "energy-kcal": 6,
+            "sodium_value": 0.4,
+            "salt_100g": 1,
+            "energy_unit": "kcal",
+            "nutrition-score-fr_100g": 4,
+            "salt_unit": "g",
+            "proteins_unit": "g",
+            "carbohydrates_value": 5,
+            "sugars_unit": "g",
+            "fat_unit": "g",
+            "salt_value": 1,
+            "salt": 1,
+            "proteins_value": 0,
+            "saturated-fat_100g": 0,
+            "energy-kcal_100g": 6,
+            "saturated-fat": 0,
+            "fat_value": 0,
+            "energy": 25,
+            "saturated-fat_value": 0,
+            "energy-kcal_value": 6,
+            "fat_100g": 0,
+            "saturated-fat_unit": "g",
+            "energy_value": 6,
+            "proteins_100g": 0,
+            "sugars_value": 1,
+            "sodium_unit": "g",
+            "nutrition-score-fr": 4,
+            "sodium": 0.4,
+            "carbohydrates_100g": 5,
+            "sugars": 1,
+            "carbohydrates": 5,
+            "energy-kcal_unit": "kcal",
+            "fat": 0
+        },
+        "purchase_places_tags": [],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/930/065/065/8615/ingredients_en.19.200.jpg",
+        "nutrition_score_warning_no_fruits_vegetables_nuts": 1,
+        "additives_tags_n": null
+    },
+    "status_verbose": "product found"
+}

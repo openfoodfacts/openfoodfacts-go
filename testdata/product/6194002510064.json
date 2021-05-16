@@ -1,0 +1,1503 @@
+{
+    "status": 1,
+    "code": "6194002510064",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "popularity_tags": [
+            "top-100000-scans-2019",
+            "at-least-5-scans-2019",
+            "top-75-percent-scans-2019",
+            "top-80-percent-scans-2019",
+            "top-85-percent-scans-2019",
+            "top-90-percent-scans-2019",
+            "top-100000-fr-scans-2019",
+            "top-country-fr-scans-2019",
+            "at-least-5-fr-scans-2019",
+            "top-500-tn-scans-2019",
+            "top-1000-tn-scans-2019",
+            "top-5000-tn-scans-2019",
+            "top-10000-tn-scans-2019",
+            "top-50000-tn-scans-2019",
+            "top-100000-tn-scans-2019",
+            "top-50000-scans-2020",
+            "top-100000-scans-2020",
+            "at-least-5-scans-2020",
+            "at-least-10-scans-2020",
+            "top-75-percent-scans-2020",
+            "top-80-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-50-tn-scans-2020",
+            "top-100-tn-scans-2020",
+            "top-500-tn-scans-2020",
+            "top-1000-tn-scans-2020",
+            "top-5000-tn-scans-2020",
+            "top-10000-tn-scans-2020",
+            "top-50000-tn-scans-2020",
+            "top-100000-tn-scans-2020",
+            "top-country-tn-scans-2020",
+            "at-least-5-tn-scans-2020",
+            "at-least-10-tn-scans-2020",
+            "top-500-tg-scans-2020",
+            "top-1000-tg-scans-2020",
+            "top-5000-tg-scans-2020",
+            "top-10000-tg-scans-2020",
+            "top-50000-tg-scans-2020",
+            "top-100000-tg-scans-2020"
+        ],
+        "categories_tags": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits",
+            "en:chocolate-biscuits",
+            "en:filled-biscuits"
+        ],
+        "traces_hierarchy": [
+            "en:nuts"
+        ],
+        "allergens_hierarchy": [
+            "en:gluten"
+        ],
+        "product_name_fr": "Biscuit fourré goût chocolat",
+        "generic_name": "Biscuit fourré à la créme goût chocolat",
+        "origins_tags": [
+            "en:tunisia"
+        ],
+        "languages_hierarchy": [
+            "en:arabic",
+            "en:french"
+        ],
+        "last_image_t": 1601670615,
+        "emb_codes_20141016": "",
+        "additives_n": 4,
+        "allergens_lc": "fr",
+        "pnns_groups_2_tags": [
+            "biscuits-and-cakes",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "yuka.Uy9rYk01b0tuUFl4bk5zZ29pbnIvdGg4K2FXSVVUK3ZPYm9QSWc9PQ",
+            "desan",
+            "openfoodfacts-contributors",
+            "org-app-foodbowel",
+            "quechoisir"
+        ],
+        "sortkey": 1601670615,
+        "categories_old": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Biscuits au chocolat, Biscuits fourrés",
+        "completeness": 0.9875,
+        "categories_properties": {
+            "agribalyse_proxy_food_code:en": "24036"
+        },
+        "labels_tags": [],
+        "traces_from_user": "(fr) en:nuts",
+        "informers_tags": [
+            "amine",
+            "yuka.Uy9rYk01b0tuUFl4bk5zZ29pbnIvdGg4K2FXSVVUK3ZPYm9QSWc9PQ",
+            "desan",
+            "openfoodfacts-contributors"
+        ],
+        "nutrition_grades_tags": [
+            "d"
+        ],
+        "vitamins_tags": [],
+        "lang": "fr",
+        "origins_lc": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "unique_scans_n": 15,
+        "additives_tags": [
+            "en:e322",
+            "en:e322i",
+            "en:e330",
+            "en:e500",
+            "en:e500ii",
+            "en:e503",
+            "en:e503ii"
+        ],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/nutrition_fr.7.400.jpg",
+        "unknown_nutrients_tags": [],
+        "countries_hierarchy": [
+            "en:france",
+            "en:tunisia"
+        ],
+        "nova_group_debug": " -- ingredients/en:sugar : 3 -- ingredients/en:hydrogenated-fat : 4",
+        "traces_tags": [
+            "en:nuts"
+        ],
+        "nova_groups": "4",
+        "packaging_tags": [
+            "frais",
+            "sec"
+        ],
+        "allergens_from_ingredients": "blé",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.100.jpg",
+        "nutrient_levels": {
+            "sugars": "high",
+            "salt": "moderate",
+            "fat": "moderate",
+            "saturated-fat": "high"
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil",
+            "en:non-vegan",
+            "en:vegetarian-status-unknown"
+        ],
+        "created_t": 1359814671,
+        "nutriscore_data": {
+            "proteins": 7,
+            "negative_points": 18,
+            "sugars_points": 4,
+            "sodium_value": 220,
+            "score": 18,
+            "positive_points": 0,
+            "saturated_fat_value": 12,
+            "is_water": 0,
+            "proteins_points": 4,
+            "saturated_fat_points": 10,
+            "saturated_fat_ratio": 63.1578947368421,
+            "proteins_value": 7,
+            "saturated_fat_ratio_points": 9,
+            "fiber_points": 0,
+            "grade": "d",
+            "is_cheese": 0,
+            "energy": 824,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+            "fiber": 0,
+            "energy_points": 2,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 2,
+            "is_fat": 0,
+            "energy_value": 824,
+            "is_beverage": 0,
+            "fiber_value": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+            "saturated_fat_ratio_value": 63.2,
+            "sugars_value": 20,
+            "saturated_fat": 12,
+            "sodium": 220,
+            "sugars": 20
+        },
+        "amino_acids_prev_tags": [],
+        "nova_group": 4,
+        "nutrition_grade_fr": "d",
+        "data_sources_imported": "Apps, app-foodbowel",
+        "scans_n": 18,
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "Farine de <span class=\"allergen\">blé</span>, sucre, graisses végétales hydrogénées (palme, palmiste), lactosérum en poudre, cacao en poudre, lait en poudre, émulsifiant (lécithine de soja E476), sel, poudres à lever (bicarbonate d'ammonium, bicarbonate de soude, acide citrique), arômes identiques nature (chocolat, vanilline)",
+        "images": {
+            "nutrition": {
+                "rev": "7",
+                "ocr": 1,
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 276,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 69,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 138,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 979,
+                        "w": 1420
+                    }
+                },
+                "orientation": "0",
+                "normalize": null,
+                "geometry": "1420x979-736-467",
+                "imgid": "3"
+            },
+            "nutrition_fr": {
+                "rev": "7",
+                "ocr": 1,
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 276,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 69,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 138,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 979,
+                        "w": 1420
+                    }
+                },
+                "orientation": "0",
+                "normalize": null,
+                "geometry": "1420x979-736-467",
+                "imgid": "3"
+            },
+            "3": {
+                "uploaded_t": 1359814863,
+                "uploader": "amine",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1920,
+                        "w": 2560
+                    }
+                }
+            },
+            "6": {
+                "uploaded_t": 1568825235,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2560,
+                        "w": 1920
+                    }
+                }
+            },
+            "9": {
+                "uploaded_t": 1601670614,
+                "uploader": "org-app-foodbowel",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 4608,
+                        "w": 3456
+                    }
+                }
+            },
+            "ingredients_ar": {
+                "y1": null,
+                "y2": null,
+                "rev": "13",
+                "x2": null,
+                "white_magic": null,
+                "x1": null,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    },
+                    "full": {
+                        "h": 2560,
+                        "w": 1920
+                    }
+                },
+                "angle": null,
+                "geometry": "0x0-0-0",
+                "normalize": null,
+                "imgid": "4"
+            },
+            "front_ar": {
+                "y1": null,
+                "y2": null,
+                "rev": "16",
+                "x2": null,
+                "white_magic": null,
+                "x1": null,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 359
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 90
+                    },
+                    "full": {
+                        "h": 1916,
+                        "w": 1720
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 180
+                    }
+                },
+                "angle": null,
+                "geometry": "0x0-0-0",
+                "normalize": null,
+                "imgid": "5"
+            },
+            "front": {
+                "rev": "5",
+                "white_magic": null,
+                "geometry": "2304x1050-192-396",
+                "normalize": null,
+                "sizes": {
+                    "400": {
+                        "h": 182,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 46,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 91,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 1050,
+                        "w": 2304
+                    }
+                },
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": 1359814824,
+                "uploader": "amine",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1920,
+                        "w": 2560
+                    }
+                }
+            },
+            "ingredients": {
+                "rev": "6",
+                "ocr": 1,
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 367,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 92,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 628,
+                        "w": 685
+                    },
+                    "200": {
+                        "h": 183,
+                        "w": 200
+                    }
+                },
+                "orientation": "0",
+                "normalize": null,
+                "geometry": "685x628-51-684",
+                "imgid": "2"
+            },
+            "front_fr": {
+                "y1": "84.8125",
+                "rev": "20",
+                "y2": "205.8125",
+                "x2": "339.828125",
+                "x1": "29.828125",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 156,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 39,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 78,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 1393,
+                        "w": 3571
+                    }
+                },
+                "angle": "90",
+                "normalize": "false",
+                "geometry": "3571x1393-343-977",
+                "imgid": "7"
+            },
+            "7": {
+                "uploaded_t": 1601670611,
+                "uploader": "org-app-foodbowel",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 4608,
+                        "w": 3456
+                    }
+                }
+            },
+            "10": {
+                "uploaded_t": 1601670615,
+                "uploader": "org-app-foodbowel",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 4608,
+                        "w": 3456
+                    }
+                }
+            },
+            "1": {
+                "uploaded_t": 1359814672,
+                "uploader": "amine",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2560,
+                        "w": 1920
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": 1568824832,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 2560,
+                        "w": 1920
+                    }
+                }
+            },
+            "5": {
+                "uploaded_t": 1568825031,
+                "uploader": "openfoodfacts-contributors",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 359
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 90
+                    },
+                    "full": {
+                        "h": 1916,
+                        "w": 1720
+                    }
+                }
+            },
+            "8": {
+                "uploaded_t": 1601670613,
+                "uploader": "org-app-foodbowel",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "full": {
+                        "h": 4608,
+                        "w": 3456
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "rev": "6",
+                "ocr": 1,
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 367,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 92,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 628,
+                        "w": 685
+                    },
+                    "200": {
+                        "h": 183,
+                        "w": 200
+                    }
+                },
+                "orientation": "0",
+                "normalize": null,
+                "geometry": "685x628-51-684",
+                "imgid": "2"
+            }
+        },
+        "ingredients_n": 18,
+        "editors_tags": [
+            "yuka.Uy9rYk01b0tuUFl4bk5zZ29pbnIvdGg4K2FXSVVUK3ZPYm9QSWc9PQ",
+            "quechoisir",
+            "desan",
+            "openfoodfacts-contributors",
+            "org-app-foodbowel",
+            "amine"
+        ],
+        "allergens_tags": [
+            "en:gluten"
+        ],
+        "traces_lc": "fr",
+        "countries_lc": "fr",
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "manufacturing_places": "",
+        "code": "6194002510064",
+        "codes_tags": [
+            "code-13",
+            "6194002510xxx",
+            "619400251xxxx",
+            "61940025xxxxx",
+            "6194002xxxxxx",
+            "619400xxxxxxx",
+            "61940xxxxxxxx",
+            "6194xxxxxxxxx",
+            "619xxxxxxxxxx",
+            "61xxxxxxxxxxx",
+            "6xxxxxxxxxxxx"
+        ],
+        "last_modified_by": "quechoisir",
+        "labels": "",
+        "entry_dates_tags": [
+            "2013-02-02",
+            "2013-02",
+            "2013"
+        ],
+        "last_edit_dates_tags": [
+            "2021-02-22",
+            "2021-02",
+            "2021"
+        ],
+        "creator": "amine",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "la",
+            "creme",
+            "fourre",
+            "snack",
+            "tunisie",
+            "gateaux",
+            "chocolat",
+            "sucre",
+            "kif",
+            "biscuit",
+            "et",
+            "gout",
+            "au"
+        ],
+        "link": "",
+        "countries_imported": "France",
+        "ingredients_debug": [
+            "Farine de blé",
+            ",",
+            null,
+            null,
+            null,
+            " sucre",
+            ",",
+            null,
+            null,
+            null,
+            " graisses végétales hydrogénées ",
+            "(",
+            "(",
+            null,
+            null,
+            "palme",
+            ",",
+            null,
+            null,
+            null,
+            " palmiste)",
+            ",",
+            null,
+            null,
+            null,
+            " lactosérum en poudre",
+            ",",
+            null,
+            null,
+            null,
+            " cacao en poudre",
+            ",",
+            null,
+            null,
+            null,
+            " lait en poudre",
+            ",",
+            null,
+            null,
+            null,
+            " émulsifiant ",
+            ":",
+            ":",
+            null,
+            null,
+            " ",
+            "(",
+            "(",
+            null,
+            null,
+            "lécithine de soja ",
+            " - ",
+            " - ",
+            " - ",
+            null,
+            "e476",
+            " - ",
+            " - ",
+            " - ",
+            null,
+            ")",
+            ",",
+            null,
+            null,
+            null,
+            " sel",
+            ",",
+            null,
+            null,
+            null,
+            " poudres à lever ",
+            ":",
+            ":",
+            null,
+            null,
+            " ",
+            "(",
+            "(",
+            null,
+            null,
+            "bicarbonate d'ammonium",
+            ",",
+            null,
+            null,
+            null,
+            " bicarbonate de soude",
+            ",",
+            null,
+            null,
+            null,
+            " acide citrique)",
+            ",",
+            null,
+            null,
+            null,
+            " arômes identiques nature ",
+            "(",
+            "(",
+            null,
+            null,
+            "chocolat",
+            ",",
+            null,
+            null,
+            null,
+            " vanilline)"
+        ],
+        "labels_lc": "fr",
+        "languages_codes": {
+            "ar": 2,
+            "fr": 6
+        },
+        "packaging": "frais,sec",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.400.jpg",
+        "last_image_dates_tags": [
+            "2020-10-02",
+            "2020-10",
+            "2020"
+        ],
+        "popularity_key": 19950000022,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.200.jpg",
+        "expiration_date": "Janvier 2014",
+        "data_quality_warnings_tags": [
+            "en:nutrition-value-very-low-for-category-energy",
+            "en:ecoscore-packaging-packaging-data-missing"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:origins-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutrition-no-fiber",
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+            "en:nutriscore-computed",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "amine",
+            "openfoodfacts-contributors",
+            "org-app-foodbowel"
+        ],
+        "debug_param_sorted_langs": [
+            "fr"
+        ],
+        "ecoscore_score": 26,
+        "last_modified_t": 1614027538,
+        "ingredients": [
+            {
+                "percent_max": 100,
+                "id": "en:wheat-flour",
+                "percent_estimate": 55,
+                "percent_min": 10,
+                "text": "Farine de blé",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 50,
+                "id": "en:sugar",
+                "percent_min": 0,
+                "percent_estimate": 22.5,
+                "text": "sucre",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_min": 0,
+                "percent_estimate": 11.25,
+                "vegan": "no",
+                "from_palm_oil": "no",
+                "vegetarian": "maybe",
+                "percent_max": 33.3333333333333,
+                "id": "en:hydrogenated-vegetable-fat",
+                "text": "graisses végétales hydrogénées"
+            },
+            {
+                "percent_max": 25,
+                "id": "en:whey-powder",
+                "percent_min": 0,
+                "percent_estimate": 5.625,
+                "text": "lactosérum en poudre",
+                "vegan": "no",
+                "vegetarian": "maybe"
+            },
+            {
+                "percent_max": 20,
+                "id": "en:cocoa-powder",
+                "text": "cacao en poudre",
+                "percent_min": 0,
+                "percent_estimate": 2.8125,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 16.6666666666667,
+                "id": "en:milk-powder",
+                "percent_estimate": 1.40625,
+                "percent_min": 0,
+                "text": "lait en poudre",
+                "vegan": "no",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 14.2857142857143,
+                "id": "en:emulsifier",
+                "percent_estimate": 0.703125,
+                "percent_min": 0,
+                "text": "émulsifiant"
+            },
+            {
+                "percent_max": 12.5,
+                "id": "en:salt",
+                "text": "sel",
+                "percent_estimate": 0.3515625,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 11.1111111111111,
+                "id": "en:raising-agent",
+                "text": "poudres à lever",
+                "percent_estimate": 0.17578125,
+                "percent_min": 0
+            },
+            {
+                "percent_estimate": 0.17578125,
+                "percent_min": 0,
+                "vegan": "maybe",
+                "vegetarian": "maybe",
+                "percent_max": 10,
+                "id": "fr:arome-identique-nature",
+                "text": "arômes identiques nature"
+            }
+        ],
+        "nutriscore_grade": "d",
+        "product_name_debug_tags": [],
+        "stores": "",
+        "countries": "France,Tunisie",
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "other_nutritional_substances_tags": [],
+        "cities_tags": [],
+        "brands": "Kif",
+        "categories": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits, Biscuits au chocolat, Biscuits fourrés",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:origins-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+        "ingredients_text_with_allergens": "Farine de <span class=\"allergen\">blé</span>, sucre, graisses végétales hydrogénées (palme, palmiste), lactosérum en poudre, cacao en poudre, lait en poudre, émulsifiant (lécithine de soja E476), sel, poudres à lever (bicarbonate d'ammonium, bicarbonate de soude, acide citrique), arômes identiques nature (chocolat, vanilline)",
+        "nutrition_grades": "d",
+        "nutrient_levels_tags": [
+            "en:fat-in-moderate-quantity",
+            "en:saturated-fat-in-high-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-moderate-quantity"
+        ],
+        "known_ingredients_n": 35,
+        "minerals_prev_tags": [],
+        "other_nutritional_substances_prev_tags": [],
+        "product_name": "Biscuit fourré goût chocolat",
+        "ingredients_text": "Farine de blé, sucre, graisses végétales hydrogénées (palme, palmiste), lactosérum en poudre, cacao en poudre, lait en poudre, émulsifiant (lécithine de soja E476), sel, poudres à lever (bicarbonate d'ammonium, bicarbonate de soude, acide citrique), arômes identiques nature (chocolat, vanilline)",
+        "origins": "Tunisie",
+        "languages_tags": [
+            "en:arabic",
+            "en:french",
+            "en:2",
+            "en:multilingual"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Farine de blé, sucre, graisses végétales hydrogénées (palme, palmiste), lactosérum en poudre, cacao en poudre, lait en poudre, émulsifiant (lécithine de soja E476), sel, poudres à lever (bicarbonate d'ammonium, bicarbonate de soude, acide citrique), arômes identiques nature (chocolat, vanilline)",
+        "categories_lc": "fr",
+        "allergens": "en:gluten",
+        "serving_quantity": 21.67,
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_fr.6.100.jpg",
+        "ecoscore_data": {
+            "grade_be": "d",
+            "status": "known",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:unknown",
+                            "material": "en:unknown",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "score": 0,
+                    "warning": "unscored_shape"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_es": 13,
+                    "transportation_value_fr": 10,
+                    "transportation_value_be": 10,
+                    "transportation_value_ch": 11,
+                    "transportation_score_be": 64,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:tunisia",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_score": 0,
+                    "epi_value": -5,
+                    "transportation_score_ch": 71,
+                    "transportation_score_ie": 53,
+                    "value_nl": 5,
+                    "value_ie": 3,
+                    "transportation_value_de": 10,
+                    "value_fr": 5,
+                    "value_be": 5,
+                    "value_es": 8,
+                    "transportation_value_ie": 8,
+                    "transportation_score_it": 78,
+                    "transportation_score_de": 64,
+                    "origins_from_origins_field": [
+                        "en:tunisia"
+                    ],
+                    "transportation_score_fr": 65,
+                    "transportation_value_nl": 10,
+                    "transportation_value_lu": 8,
+                    "value_ch": 6,
+                    "transportation_score_es": 88,
+                    "transportation_value_it": 12,
+                    "value_de": 5,
+                    "value_it": 7,
+                    "transportation_score_lu": 55,
+                    "transportation_score_nl": 64,
+                    "value_lu": 3
+                },
+                "threatened_species": {
+                    "ingredient": "en:palm-oil",
+                    "value": -10
+                }
+            },
+            "grade_fr": "d",
+            "score": 26,
+            "grade_de": "d",
+            "missing_data_warning": 1,
+            "grade_nl": "d",
+            "score_be": 31,
+            "agribalyse": {
+                "co2_transportation": "0.16300729",
+                "ef_distribution": "0.0098990521",
+                "name_fr": "Biscuit sec chocolaté, préemballé",
+                "score": 46,
+                "ef_consumption": "0",
+                "ef_agriculture": "0.5198573599999999",
+                "name_en": "Biscuit (cookie), with chocolate, prepacked",
+                "ef_packaging": "0.016470162",
+                "co2_total": "7.5508182",
+                "ef_processing": "0.056234181",
+                "is_beverage": 0,
+                "code": "24036",
+                "dqr": "2.42",
+                "co2_processing": "0.36633542",
+                "agribalyse_proxy_food_code": "24036",
+                "co2_consumption": "0",
+                "ef_total": "0.61611724",
+                "co2_distribution": "0.029120657",
+                "co2_agriculture": "6.8826501",
+                "ef_transportation": "0.01359472",
+                "co2_packaging": "0.10868541"
+            },
+            "grade_it": "d",
+            "score_nl": 31,
+            "score_ch": 32,
+            "missing": {
+                "packagings": 1,
+                "labels": 1
+            },
+            "grade_ie": "d",
+            "score_fr": 31,
+            "score_de": 31,
+            "score_lu": 29,
+            "score_ie": 29,
+            "score_it": 33,
+            "score_es": 34,
+            "grade": "d",
+            "grade_lu": "d",
+            "grade_ch": "d",
+            "grade_es": "d"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/nutrition_fr.7.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/nutrition_fr.7.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/nutrition_fr.7.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "ar": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_ar.13.400.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_fr.6.400.jpg"
+                },
+                "thumb": {
+                    "ar": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_ar.13.100.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_fr.6.100.jpg"
+                },
+                "small": {
+                    "ar": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_ar.13.200.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_fr.6.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "ar": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_ar.16.400.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.400.jpg"
+                },
+                "thumb": {
+                    "ar": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_ar.16.100.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.100.jpg"
+                },
+                "small": {
+                    "ar": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_ar.16.200.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.200.jpg"
+                }
+            }
+        },
+        "rev": 24,
+        "origins_old": "Tunisie",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 1,
+        "last_editor": "quechoisir",
+        "additives_prev_original_tags": [
+            "en:e322",
+            "en:e476",
+            "en:e503",
+            "en:e500",
+            "en:e330"
+        ],
+        "ingredients_tags": [
+            "en:wheat-flour",
+            "en:cereal",
+            "en:flour",
+            "en:wheat",
+            "en:cereal-flour",
+            "en:sugar",
+            "en:hydrogenated-vegetable-fat",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:fat",
+            "en:hydrogenated-fat",
+            "en:vegetable-fat",
+            "en:whey-powder",
+            "en:dairy",
+            "en:whey",
+            "en:cocoa-powder",
+            "en:cocoa",
+            "en:milk-powder",
+            "en:emulsifier",
+            "en:salt",
+            "en:raising-agent",
+            "fr:arome-identique-nature",
+            "en:flavouring",
+            "en:palm",
+            "en:palm-oil-and-fat",
+            "en:palm-oil",
+            "en:palm-kernel-oil",
+            "en:palm-kernel-oil-and-fat",
+            "fr:lecithine-de-soja-e476",
+            "en:e503ii",
+            "en:e503",
+            "en:e500ii",
+            "en:e500",
+            "en:e330",
+            "en:chocolate",
+            "en:vanillin"
+        ],
+        "data_sources_tags": [
+            "app-yuka",
+            "apps",
+            "app-foodbowel"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/nutrition_fr.7.100.jpg",
+        "ingredients_from_palm_oil_tags": [
+            "huile-de-palme"
+        ],
+        "categories_hierarchy": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:biscuits-and-cakes",
+            "en:biscuits",
+            "en:chocolate-biscuits",
+            "en:filled-biscuits"
+        ],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "d",
+        "nutrition_data": "on",
+        "ingredients_percent_analysis": 1,
+        "languages": {
+            "en:arabic": 2,
+            "en:french": 6
+        },
+        "purchase_places": "Tunisie",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-24036",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-unknown",
+            "agribalyse-known",
+            "agribalyse-24036"
+        ],
+        "id": "6194002510064",
+        "sources": [
+            {
+                "import_t": 1601670606,
+                "fields": [
+                    "data_sources"
+                ],
+                "id": "org-app-foodbowel",
+                "manufacturer": 0,
+                "url": null,
+                "name": "app-foodbowel",
+                "images": []
+            }
+        ],
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Sugary snacks",
+        "allergens_from_user": "(fr) en:gluten",
+        "nutrition_data_prepared": "",
+        "additives_debug_tags": [
+            "en-e322i-added",
+            "en-e500ii-added"
+        ],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_fr.6.400.jpg",
+        "nutrition_score_warning_no_fiber": 1,
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:nutrition-value-very-low-for-category-energy",
+            "en:ecoscore-packaging-packaging-data-missing"
+        ],
+        "additives_old_tags": [
+            "en:e1403",
+            "en:e322",
+            "en:e503",
+            "en:e500",
+            "en:e330"
+        ],
+        "origins_hierarchy": [
+            "en:tunisia"
+        ],
+        "ecoscore_tags": [
+            "d"
+        ],
+        "ingredients_from_palm_oil_n": 1,
+        "labels_hierarchy": [],
+        "lc_imported": "fr",
+        "nutrition_score_beverage": 0,
+        "pnns_groups_2": "Biscuits and cakes",
+        "complete": 0,
+        "product_quantity": "130",
+        "new_additives_n": 4,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.100.jpg",
+        "ingredients_text_debug": "Farine de blé, sucre, graisses végétales hydrogénées (palme, palmiste), lactosérum en poudre, cacao en poudre, lait en poudre, émulsifiant : (lécithine de soja  - e476 - ), sel, poudres à lever : (bicarbonate d'ammonium, bicarbonate de soude, acide citrique), arômes identiques nature (chocolat, vanilline)",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.400.jpg",
+        "_id": "6194002510064",
+        "countries_tags": [
+            "en:france",
+            "en:tunisia"
+        ],
+        "serving_size": "21,67 g",
+        "ingredients_hierarchy": [
+            "en:wheat-flour",
+            "en:cereal",
+            "en:flour",
+            "en:wheat",
+            "en:cereal-flour",
+            "en:sugar",
+            "en:hydrogenated-vegetable-fat",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:fat",
+            "en:hydrogenated-fat",
+            "en:vegetable-fat",
+            "en:whey-powder",
+            "en:dairy",
+            "en:whey",
+            "en:cocoa-powder",
+            "en:cocoa",
+            "en:milk-powder",
+            "en:emulsifier",
+            "en:salt",
+            "en:raising-agent",
+            "fr:arome-identique-nature",
+            "en:flavouring",
+            "en:palm",
+            "en:palm-oil-and-fat",
+            "en:palm-oil",
+            "en:palm-kernel-oil",
+            "en:palm-kernel-oil-and-fat",
+            "fr:lécithine de soja e476",
+            "en:e503ii",
+            "en:e503",
+            "en:e500ii",
+            "en:e500",
+            "en:e330",
+            "en:chocolate",
+            "en:vanillin"
+        ],
+        "additives_original_tags": [
+            "en:e322i",
+            "en:e503ii",
+            "en:e500ii",
+            "en:e330"
+        ],
+        "stores_tags": [],
+        "nutriscore_score": 18,
+        "compared_to_category": "en:filled-biscuits",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:origins-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "18",
+            "11-20"
+        ],
+        "pnns_groups_1_tags": [
+            "sugary-snacks",
+            "known"
+        ],
+        "additives_old_n": 5,
+        "packagings": [
+            {
+                "shape": "en:unknown",
+                "material": "en:unknown"
+            }
+        ],
+        "quantity": "130 g",
+        "data_quality_info_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "brands_tags": [
+            "kif"
+        ],
+        "data_quality_errors_tags": [],
+        "ingredients_ids_debug": [
+            "farine-de-ble",
+            "sucre",
+            "graisses-vegetales-hydrogenees",
+            "palme",
+            "palmiste",
+            "lactoserum-en-poudre",
+            "cacao-en-poudre",
+            "lait-en-poudre",
+            "emulsifiant",
+            "lecithine-de-soja",
+            "e476",
+            "sel",
+            "poudres-a-lever",
+            "bicarbonate-d-ammonium",
+            "bicarbonate-de-soude",
+            "acide-citrique",
+            "aromes-identiques-nature",
+            "chocolat",
+            "vanilline"
+        ],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [
+            "en:wheat-flour",
+            "en:sugar",
+            "en:hydrogenated-vegetable-fat",
+            "en:whey-powder",
+            "en:cocoa-powder",
+            "en:milk-powder",
+            "en:emulsifier",
+            "en:salt",
+            "en:raising-agent",
+            "fr:arome-identique-nature",
+            "en:palm",
+            "en:palm-kernel-oil",
+            "fr:lécithine de soja e476",
+            "en:e503ii",
+            "en:e500ii",
+            "en:e330",
+            "en:chocolate",
+            "en:vanillin"
+        ],
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+        "traces": "en:nuts",
+        "data_sources": "App - yuka, Apps, app-foodbowel",
+        "unknown_ingredients_n": 1,
+        "manufacturing_places_tags": [],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "max_imgid": "10",
+        "emb_codes": "",
+        "editors": [
+            "amine"
+        ],
+        "nutriscore_score_opposite": -18,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/front_fr.20.200.jpg",
+        "generic_name_fr": "Biscuit fourré à la créme goût chocolat",
+        "nutriments": {
+            "iron_serving": 5.07e-05,
+            "cholesterol": 0.0005,
+            "carbohydrates_unit": "g",
+            "iron": 0.000234,
+            "saturated-fat_serving": 2.6,
+            "potassium_serving": 0.0433,
+            "sugars_100g": 20,
+            "energy-kcal": 197,
+            "vitamin-c_100g": 0.00018,
+            "sodium_value": 0.22,
+            "proteins_serving": 1.52,
+            "nova-group_serving": 4,
+            "salt_100g": 0.55,
+            "energy_unit": "kcal",
+            "iron_100g": 0.000234,
+            "calcium_unit": "% DV",
+            "sugars_unit": "g",
+            "salt": 0.55,
+            "vitamin-c_label": "0",
+            "iron_label": "0",
+            "vitamin-a_100g": 3e-06,
+            "energy-kcal_100g": 197,
+            "iron_value": 1.3,
+            "potassium_100g": 0.2,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+            "saturated-fat": 12,
+            "potassium_value": 200,
+            "fat_value": 19,
+            "nova-group_100g": 4,
+            "cholesterol_value": 0.5,
+            "vitamin-a_serving": 6.5e-07,
+            "energy_value": 197,
+            "vitamin-a_unit": "% DV",
+            "calcium_100g": 0.002,
+            "sodium_unit": "g",
+            "carbohydrates_serving": 14.5,
+            "carbohydrates_100g": 67,
+            "cholesterol_label": "0",
+            "cholesterol_unit": "mg",
+            "potassium_label": "0",
+            "energy-kcal_unit": "kcal",
+            "fat": 19,
+            "proteins": 7,
+            "salt_serving": 0.119,
+            "energy_100g": 824,
+            "vitamin-c_value": 0.3,
+            "cholesterol_100g": 0.0005,
+            "sodium_100g": 0.22,
+            "nutrition-score-fr_100g": 18,
+            "salt_unit": "g",
+            "carbohydrates_value": 67,
+            "proteins_unit": "g",
+            "vitamin-c": 0.00018,
+            "sugars_serving": 4.33,
+            "calcium_label": "0",
+            "fat_unit": "g",
+            "salt_value": 0.55,
+            "proteins_value": 7,
+            "saturated-fat_100g": 12,
+            "fat_serving": 4.12,
+            "potassium_unit": "mg",
+            "energy": 824,
+            "calcium_value": 0.2,
+            "nova-group": 4,
+            "vitamin-a_label": "0",
+            "saturated-fat_value": 12,
+            "energy-kcal_value": 197,
+            "energy_serving": 179,
+            "fat_100g": 19,
+            "saturated-fat_unit": "g",
+            "sodium_serving": 0.0477,
+            "calcium": 0.002,
+            "vitamin-c_serving": 3.9e-05,
+            "vitamin-a_value": 0.2,
+            "vitamin-a": 3e-06,
+            "sugars_value": 20,
+            "proteins_100g": 7,
+            "vitamin-c_unit": "% DV",
+            "nutrition-score-fr": 18,
+            "sodium": 0.22,
+            "calcium_serving": 0.000433,
+            "potassium": 0.2,
+            "iron_unit": "% DV",
+            "sugars": 20,
+            "carbohydrates": 67,
+            "energy-kcal_serving": 42.7,
+            "cholesterol_serving": 0.000108
+        },
+        "purchase_places_tags": [
+            "tunisie"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/ingredients_fr.6.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/619/400/251/0064/nutrition_fr.7.200.jpg"
+    },
+    "status_verbose": "product found"
+}

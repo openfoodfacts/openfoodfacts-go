@@ -1,0 +1,945 @@
+{
+    "status": 1,
+    "code": "5015821151720",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {
+            "ciqual_food_name:fr": "Epice -aliment moyen-",
+            "ciqual_food_name:en": "Spice -average-"
+        },
+        "categories_tags": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:groceries",
+            "en:condiments",
+            "en:spices",
+            "fr:curry",
+            "fr:chutney",
+            "fr:sauce-piquante"
+        ],
+        "traces_hierarchy": [
+            "en:nuts",
+            "en:peanuts"
+        ],
+        "informers": [
+            "lechatpito"
+        ],
+        "allergens_hierarchy": [],
+        "product_name_fr": "Chutney épicé à la mangue",
+        "generic_name": "Chutney",
+        "origins_tags": [
+            "en:united-kingdom",
+            "fr:lankashire"
+        ],
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1531080750,
+        "emb_codes_20141016": "",
+        "additives_n": 2,
+        "carbon_footprint_from_known_ingredients_debug": "en:mango 39% x 0.8 = 31.2 g - ",
+        "pnns_groups_2_tags": [
+            "unknown",
+            "missing-association"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "lechatpito",
+            "openfoodfacts-contributors"
+        ],
+        "sortkey": 1531080751,
+        "categories_old": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Epicerie, Condiments, Epices, Curry, Chutney, Sauce piquante",
+        "categories_properties": {
+            "ciqual_food_code:en": "11081",
+            "agribalyse_proxy_food_code:en": "11005"
+        },
+        "completeness": 0.9,
+        "labels_tags": [],
+        "traces_from_user": "(fr) en:nuts,en:peanuts",
+        "informers_tags": [
+            "lechatpito",
+            "yuka.Yjc4RU42SWNoZFlveXN4aDFUcmNwb3BJNmFXclpGbXFFTklOSVE9PQ",
+            "kiliweb"
+        ],
+        "nutrition_grades_tags": [
+            "not-applicable"
+        ],
+        "lang": "fr",
+        "vitamins_tags": [],
+        "origins_lc": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "additives_tags": [
+            "en:e260",
+            "en:e330"
+        ],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/nutrition_fr.13.400.jpg",
+        "unknown_nutrients_tags": [],
+        "nova_group_debug": " -- ingredients/en:sugar : 3",
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "traces_tags": [
+            "en:nuts",
+            "en:peanuts"
+        ],
+        "nova_groups": "3",
+        "packaging_tags": [
+            "bocal-en-verre",
+            "bocal"
+        ],
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.100.jpg",
+        "nutrient_levels": {
+            "salt": "high",
+            "sugars": "high",
+            "saturated-fat": "low",
+            "fat": "low"
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:vegan",
+            "en:vegetarian"
+        ],
+        "created_t": 1350666585,
+        "nova_group": 3,
+        "amino_acids_prev_tags": [],
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "Sucre, Mangue (39%), Sel, Epices, Acidifiants: Acide Acétique, Acide citrique, Ail, Piments rouges séchés",
+        "images": {
+            "nutrition_fr": {
+                "y1": null,
+                "y2": null,
+                "rev": "13",
+                "x2": null,
+                "x1": null,
+                "white_magic": "0",
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 343
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 86
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 1030
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 172
+                    }
+                },
+                "angle": null,
+                "orientation": null,
+                "geometry": "0x0-0-0",
+                "normalize": "0",
+                "imgid": "3"
+            },
+            "1": {
+                "uploaded_t": 1350667022,
+                "uploader": "lechatpito",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 480,
+                        "w": 640
+                    }
+                }
+            },
+            "front_fr": {
+                "rev": "5",
+                "white_magic": null,
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 271
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 68
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 135
+                    },
+                    "full": {
+                        "h": 471,
+                        "w": 319
+                    }
+                },
+                "geometry": "319x471-76-4",
+                "imgid": "1"
+            },
+            "front": {
+                "rev": "5",
+                "white_magic": null,
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 271
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 68
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 135
+                    },
+                    "full": {
+                        "h": 471,
+                        "w": 319
+                    }
+                },
+                "geometry": "319x471-76-4",
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": 1531080745,
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 378,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 94,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 1271
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": 1531080750,
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 343
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 86
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 1030
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "y1": null,
+                "rev": "10",
+                "y2": null,
+                "x2": null,
+                "ocr": 1,
+                "x1": null,
+                "white_magic": "0",
+                "sizes": {
+                    "400": {
+                        "h": 378,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 94,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 1271
+                    },
+                    "200": {
+                        "h": 189,
+                        "w": 200
+                    }
+                },
+                "angle": null,
+                "orientation": "0",
+                "normalize": "0",
+                "geometry": "0x0-0-0",
+                "imgid": "2"
+            }
+        },
+        "ingredients_n": 9,
+        "editors_tags": [
+            "lechatpito",
+            "yuka.Yjc4RU42SWNoZFlveXN4aDFUcmNwb3BJNmFXclpGbXFFTklOSVE9PQ",
+            "kiliweb",
+            "openfoodfacts-contributors"
+        ],
+        "allergens_tags": [],
+        "countries_lc": "fr",
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "completed_t": 1531080751,
+        "nova_groups_tags": [
+            "en:3-processed-foods"
+        ],
+        "code": "5015821151720",
+        "codes_tags": [
+            "code-13",
+            "5015821151720",
+            "501582115172x",
+            "50158211517xx",
+            "5015821151xxx",
+            "501582115xxxx",
+            "50158211xxxxx",
+            "5015821xxxxxx",
+            "501582xxxxxxx",
+            "50158xxxxxxxx",
+            "5015xxxxxxxxx",
+            "501xxxxxxxxxx",
+            "50xxxxxxxxxxx",
+            "5xxxxxxxxxxxx"
+        ],
+        "last_modified_by": null,
+        "labels": "",
+        "entry_dates_tags": [
+            "2012-10-19",
+            "2012-10",
+            "2012"
+        ],
+        "last_edit_dates_tags": [
+            "2018-07-08",
+            "2018-07",
+            "2018"
+        ],
+        "creator": "lechatpito",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "uni",
+            "epice",
+            "mangue",
+            "piquante",
+            "lankashire",
+            "royaume",
+            "chutney",
+            "la",
+            "curry",
+            "sauce",
+            "patak"
+        ],
+        "amino_acids_tags": [],
+        "ingredients_debug": [
+            "Sucre",
+            ",",
+            null,
+            null,
+            null,
+            " Mangue ",
+            "(",
+            "(",
+            null,
+            null,
+            "39%)",
+            ",",
+            null,
+            null,
+            null,
+            " Sel",
+            ",",
+            null,
+            null,
+            null,
+            " Epices",
+            ",",
+            null,
+            null,
+            null,
+            " Acidifiants ",
+            ":",
+            ":",
+            null,
+            null,
+            "  Acide Acétique",
+            ",",
+            null,
+            null,
+            null,
+            " Acide citrique",
+            ",",
+            null,
+            null,
+            null,
+            " Ail",
+            ",",
+            null,
+            null,
+            null,
+            " Piments rouges séchés"
+        ],
+        "labels_lc": "fr",
+        "languages_codes": {
+            "fr": 6
+        },
+        "packaging": "Bocal en verre,Bocal",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.400.jpg",
+        "last_image_dates_tags": [
+            "2018-07-08",
+            "2018-07",
+            "2018"
+        ],
+        "popularity_key": 0,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.200.jpg",
+        "expiration_date": "08/11/2014",
+        "data_quality_warnings_tags": [
+            "en:nutrition-value-very-high-for-category-sugars"
+        ],
+        "states_tags": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutriscore-not-computed",
+            "en:nutriscore-not-applicable",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "lechatpito",
+            "kiliweb"
+        ],
+        "ecoscore_score": 80,
+        "last_modified_t": 1531080751,
+        "ingredients": [
+            {
+                "percent_max": 61,
+                "id": "en:sugar",
+                "percent_estimate": 50,
+                "percent_min": "39",
+                "text": "Sucre",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_estimate": "39",
+                "percent_min": "39",
+                "percent": "39",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "39",
+                "id": "en:mango",
+                "text": "Mangue"
+            },
+            {
+                "percent_max": 22,
+                "id": "en:salt",
+                "text": "Sel",
+                "percent_min": 0,
+                "percent_estimate": 5.5,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 11,
+                "id": "en:spice",
+                "percent_min": 0,
+                "percent_estimate": 2.75,
+                "text": "Epices",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 7.33333333333333,
+                "id": "en:acid",
+                "text": "Acidifiants",
+                "percent_min": 0,
+                "percent_estimate": 1.375
+            },
+            {
+                "percent_max": 5.5,
+                "id": "en:e330",
+                "text": "Acide citrique",
+                "percent_min": 0,
+                "percent_estimate": 0.6875,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 4.4,
+                "id": "en:garlic",
+                "percent_min": 0,
+                "percent_estimate": 0.34375,
+                "text": "Ail",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_min": 0,
+                "percent_estimate": 0.34375,
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": 3.66666666666667,
+                "id": "en:red-chili-pepper",
+                "processing": "en:dried",
+                "text": "Piments rouges"
+            }
+        ],
+        "product_name_debug_tags": [],
+        "stores": "",
+        "countries": "France",
+        "other_nutritional_substances_tags": [],
+        "ciqual_food_name_tags": [
+            "spice-average"
+        ],
+        "cities_tags": [],
+        "brands": "Patak's",
+        "categories": "Aliments et boissons à base de végétaux, Aliments d'origine végétale, Epicerie, Condiments, Epices, Curry, Chutney, Sauce piquante",
+        "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+        "ingredients_text_with_allergens": "Sucre, Mangue (39%), Sel, Epices, Acidifiants: Acide Acétique, Acide citrique, Ail, Piments rouges séchés",
+        "nutrient_levels_tags": [
+            "en:fat-in-low-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-high-quantity"
+        ],
+        "known_ingredients_n": 13,
+        "minerals_prev_tags": [],
+        "product_name": "Chutney épicé à la mangue",
+        "ingredients_text": "Sucre, Mangue (39%), Sel, Epices, Acidifiants: Acide Acétique, Acide citrique, Ail, Piments rouges séchés",
+        "origins": "Lankashire,Royaume Uni",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Sucre, Mangue (39%), Sel, Epices, Acidifiants: Acide Acétique, Acide citrique, Ail, Piments rouges séchés",
+        "categories_lc": "fr",
+        "allergens": "",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/ingredients_fr.10.100.jpg",
+        "photographers": [
+            "lechatpito"
+        ],
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "a",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_es": 2,
+                    "transportation_value_fr": 11,
+                    "transportation_value_be": 11,
+                    "transportation_value_ch": 5,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:united-kingdom",
+                            "percent": 100
+                        }
+                    ],
+                    "transportation_score_be": 73,
+                    "epi_score": 97,
+                    "transportation_score_ch": 34,
+                    "epi_value": 5,
+                    "transportation_score_ie": 79,
+                    "value_nl": 15,
+                    "value_ie": 17,
+                    "transportation_value_de": 8,
+                    "value_fr": 16,
+                    "value_be": 16,
+                    "value_es": 7,
+                    "transportation_score_it": 17,
+                    "transportation_value_ie": 12,
+                    "transportation_score_de": 51,
+                    "transportation_score_fr": 76,
+                    "origins_from_origins_field": [
+                        "en:united-kingdom"
+                    ],
+                    "transportation_value_lu": 9,
+                    "transportation_value_nl": 10,
+                    "value_ch": 10,
+                    "transportation_score_es": 13,
+                    "value_de": 13,
+                    "transportation_value_it": 3,
+                    "transportation_score_lu": 63,
+                    "value_it": 8,
+                    "value_lu": 14,
+                    "transportation_score_nl": 67
+                },
+                "packaging": {
+                    "value": -2,
+                    "non_recyclable_and_non_biodegradable_materials": 0,
+                    "packagings": [
+                        {
+                            "shape": "en:jar",
+                            "material": "en:glass",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": "81"
+                        }
+                    ],
+                    "score": 81,
+                    "warning": "unscored_shape"
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "a",
+            "score": 80,
+            "grade_de": "a",
+            "missing_data_warning": 1,
+            "grade_nl": "a",
+            "score_be": 96,
+            "agribalyse": {
+                "co2_transportation": "0.17690961",
+                "ef_distribution": "0.017006818",
+                "name_fr": "Curry, poudre",
+                "score": 82,
+                "agribalyse_food_code": "11005",
+                "ef_agriculture": "0.18139168",
+                "ef_consumption": "0",
+                "name_en": "Curry, powder",
+                "co2_total": "0.46985556",
+                "ef_packaging": "0.051649676000000005",
+                "ef_processing": "0",
+                "is_beverage": 0,
+                "agribalyse_proxy_food_code": "11005",
+                "dqr": "4.11",
+                "co2_processing": "0",
+                "code": "11005",
+                "co2_consumption": "0",
+                "co2_distribution": "0.045015886",
+                "ef_total": "0.2638027",
+                "co2_agriculture": "-0.24897679",
+                "ef_transportation": "0.01375452",
+                "co2_packaging": "0.49690685"
+            },
+            "grade_it": "a",
+            "score_nl": 95,
+            "missing": {
+                "packagings": 1,
+                "labels": 1
+            },
+            "grade_ie": "a",
+            "score_ch": 90,
+            "score_de": 93,
+            "score_fr": 96,
+            "score_ie": 97,
+            "score_lu": 94,
+            "score_it": 88,
+            "score_es": 87,
+            "grade_ch": "a",
+            "grade_es": "a",
+            "grade": "a",
+            "grade_lu": "a"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/nutrition_fr.13.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/nutrition_fr.13.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/nutrition_fr.13.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/ingredients_fr.10.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/ingredients_fr.10.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/ingredients_fr.10.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.200.jpg"
+                }
+            }
+        },
+        "rev": 13,
+        "origins_old": "Lankashire,Royaume Uni",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": null,
+        "additives_prev_original_tags": [
+            "en:e260",
+            "en:e330"
+        ],
+        "data_sources_tags": [
+            "app-yuka",
+            "apps"
+        ],
+        "ingredients_tags": [
+            "en:sugar",
+            "en:mango",
+            "en:fruit",
+            "en:salt",
+            "en:spice",
+            "en:acid",
+            "en:e330",
+            "en:garlic",
+            "en:vegetable",
+            "en:root-vegetable",
+            "en:red-chili-pepper",
+            "en:chili-pepper",
+            "en:e260"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/nutrition_fr.13.100.jpg",
+        "labels_prev_tags": [],
+        "ingredients_from_palm_oil_tags": [],
+        "carbon_footprint_percent_of_known_ingredients": 39,
+        "categories_hierarchy": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:groceries",
+            "en:condiments",
+            "en:spices",
+            "fr:curry",
+            "fr:Chutney",
+            "fr:Sauce piquante"
+        ],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "a",
+        "labels_prev_hierarchy": [],
+        "ingredients_percent_analysis": 1,
+        "languages": {
+            "en:french": 6
+        },
+        "purchase_places": "France,Hérault,Montpellier",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-11005",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-11081",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-11005"
+        ],
+        "id": "5015821151720",
+        "no_nutrition_data": "",
+        "pnns_groups_1": "unknown",
+        "allergens_from_user": "(fr) ",
+        "checkers": [],
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/ingredients_fr.10.400.jpg",
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish",
+            "en:nutrition-value-very-high-for-category-sugars"
+        ],
+        "additives_old_tags": [
+            "en:e260",
+            "en:e330"
+        ],
+        "origins_hierarchy": [
+            "en:united-kingdom",
+            "fr:Lankashire"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "ecoscore_tags": [
+            "a"
+        ],
+        "labels_hierarchy": [],
+        "pnns_groups_2": "unknown",
+        "nutrition_score_beverage": 0,
+        "complete": 1,
+        "product_quantity": 250,
+        "new_additives_n": 2,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.100.jpg",
+        "ingredients_text_debug": "Sucre, Mangue (39%), Sel, Epices, Acidifiants :  Acide Acétique, Acide citrique, Ail, Piments rouges séchés",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.400.jpg",
+        "_id": "5015821151720",
+        "countries_tags": [
+            "en:france"
+        ],
+        "ingredients_hierarchy": [
+            "en:sugar",
+            "en:mango",
+            "en:fruit",
+            "en:salt",
+            "en:spice",
+            "en:acid",
+            "en:e330",
+            "en:garlic",
+            "en:vegetable",
+            "en:root-vegetable",
+            "en:red-chili-pepper",
+            "en:chili-pepper",
+            "en:e260"
+        ],
+        "additives_original_tags": [
+            "en:e260",
+            "en:e330"
+        ],
+        "stores_tags": [],
+        "compared_to_category": "fr:curry",
+        "states_hierarchy": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "correctors": [
+            "lechatpito"
+        ],
+        "ingredients_n_tags": [
+            "9",
+            "1-10"
+        ],
+        "pnns_groups_1_tags": [
+            "unknown",
+            "missing-association"
+        ],
+        "additives_old_n": 2,
+        "nutrition_score_debug": "no nutriscore for category en:spices",
+        "packagings": [
+            {
+                "shape": "en:jar",
+                "material": "en:glass"
+            }
+        ],
+        "quantity": "250 ml",
+        "brands_tags": [
+            "patak-s"
+        ],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+        ],
+        "data_quality_errors_tags": [],
+        "ingredients_ids_debug": [
+            "sucre",
+            "mangue",
+            "39",
+            "sel",
+            "epices",
+            "acidifiants",
+            "acide-acetique",
+            "acide-citrique",
+            "ail",
+            "piments-rouges-seches"
+        ],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [
+            "en:sugar",
+            "en:mango",
+            "en:salt",
+            "en:spice",
+            "en:acid",
+            "en:e330",
+            "en:garlic",
+            "en:red-chili-pepper",
+            "en:e260"
+        ],
+        "traces": "en:nuts,en:peanuts",
+        "data_sources": "App - yuka, Apps",
+        "unknown_ingredients_n": 0,
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "max_imgid": "3",
+        "emb_codes": "",
+        "nutrition_data_per_debug_tags": [],
+        "editors": [
+            "lechatpito"
+        ],
+        "image_small_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/front_fr.5.200.jpg",
+        "generic_name_fr": "Chutney",
+        "nutriments": {
+            "proteins": 0.5,
+            "energy_100g": 1054,
+            "carbohydrates_unit": "",
+            "sodium_100g": 1,
+            "sugars_100g": 59.8,
+            "energy-kcal": 252,
+            "sodium_value": 1,
+            "nova-group_serving": 3,
+            "salt_100g": 2.5,
+            "energy_unit": "kcal",
+            "salt_unit": "",
+            "proteins_unit": "",
+            "carbohydrates_value": 60.6,
+            "sugars_unit": "",
+            "fat_unit": "",
+            "salt_value": 2.5,
+            "salt": 2.5,
+            "proteins_value": 0.5,
+            "saturated-fat_100g": 0.1,
+            "energy-kcal_100g": 252,
+            "saturated-fat": 0.1,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 39,
+            "carbon-footprint-from-known-ingredients_100g": 31.2,
+            "fat_value": 0.3,
+            "energy": 1054,
+            "nova-group": 3,
+            "saturated-fat_value": 0.1,
+            "energy-kcal_value": 252,
+            "nova-group_100g": 3,
+            "fat_100g": 0.3,
+            "saturated-fat_unit": "",
+            "energy_value": 252,
+            "carbon-footprint-from-known-ingredients_product": 78,
+            "sugars_value": 59.8,
+            "proteins_100g": 0.5,
+            "sodium_unit": "g",
+            "sodium": 1,
+            "carbohydrates_100g": 60.6,
+            "sugars": 59.8,
+            "carbohydrates": 60.6,
+            "energy-kcal_unit": "kcal",
+            "fat": 0.3
+        },
+        "purchase_places_tags": [
+            "france",
+            "herault",
+            "montpellier"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/ingredients_fr.10.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/501/582/115/1720/nutrition_fr.13.200.jpg"
+    },
+    "status_verbose": "product found"
+}
