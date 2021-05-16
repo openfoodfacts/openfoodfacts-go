@@ -4,7 +4,10 @@
 package openfoodfacts_test
 
 import (
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
+	"os"
 	"strings"
 	"testing"
 
@@ -63,5 +66,48 @@ func TestProduct(t *testing.T) {
 		if testing.Short() {
 			return
 		}
+	}
+}
+
+func TestProduct_Unmarshalling(t *testing.T) {
+	cases := []struct {
+		fixture   string
+		returnErr bool
+		name      string
+	}{
+		{
+			fixture:   "testdata/product/ingredients_n_as_int.json",
+			returnErr: false,
+			name:      "UnmarshallingIntIngredientNAsInt",
+		},
+		{
+			fixture:   "testdata/product/ingredients_n_as_string.json",
+			returnErr: false,
+			name:      "UnmarshallingIntIngredientNAsString",
+		},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			productFile, err := os.Open(tc.fixture)
+			if err != nil {
+				t.Error("Error when opening test file", tc.fixture)
+				return
+			}
+			defer productFile.Close()
+
+			byteProducts, err := ioutil.ReadAll(productFile)
+			if err != nil {
+				t.Error("Error when reading test data", tc.fixture)
+				return
+			}
+
+			var pr openfoodfacts.ProductResult
+			err = json.Unmarshal(byteProducts, &pr)
+			if err != nil {
+				t.Error("Error when unmarshalling test data", tc.fixture)
+				return
+			}
+		})
 	}
 }
