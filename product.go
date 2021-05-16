@@ -73,6 +73,8 @@ type Product struct {
 	EmbCodesOrig                                string         `json:"emb_codes_orig"`
 	EmbCodesTags                                []interface{}  `json:"emb_codes_tags"`
 	EntryDatesTags                              []string       `json:"entry_dates_tags"`
+	EcoscoreGrade                               string         `json:"ecoscore_grade"`
+	EcoscoreTags                                []string       `json:"ecoscore_tags"`
 	ExpirationDate                              string         `json:"expiration_date"`
 	FruitsVegetablesNuts100GEstimate            json.Number    `json:"fruits-vegetables-nuts_100g_estimate"`
 	Ingredients                                 []Ingredient   `json:"ingredients"`
@@ -106,6 +108,8 @@ type Product struct {
 	LanguagesHierarchy                          []string       `json:"languages_hierarchy"`
 	LanguagesTags                               []string       `json:"languages_tags"`
 	Locale                                      string         `json:"lc"`
+	ManufacturingPlaces                         string         `json:"manufacturing_places"`
+	ManufacturingPlacesTags                     []string       `json:"manufacturing_places_tags"`
 	MaxImgId                                    string         `json:"max_imgid"`
 	NewAdditivesNumber                          int            `json:"new_additives_n"`
 	NoNutritionData                             interface{}    `json:"no_nutrition_data"`
