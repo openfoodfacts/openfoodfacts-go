@@ -1,0 +1,1437 @@
+{
+    "status": 1,
+    "code": "4000539770708",
+    "product": {
+        "lc": "de",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "traces_debug_tags": [],
+        "popularity_tags": [
+            "top-100000-scans-2019",
+            "at-least-5-scans-2019",
+            "bottom-25-percent-scans-2019",
+            "top-80-percent-scans-2019",
+            "top-85-percent-scans-2019",
+            "top-90-percent-scans-2019",
+            "top-50000-de-scans-2019",
+            "top-100000-de-scans-2019",
+            "top-country-de-scans-2019",
+            "top-50000-scans-2020",
+            "top-100000-scans-2020",
+            "at-least-5-scans-2020",
+            "at-least-10-scans-2020",
+            "top-75-percent-scans-2020",
+            "top-80-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-5000-de-scans-2020",
+            "top-10000-de-scans-2020",
+            "top-50000-de-scans-2020",
+            "top-100000-de-scans-2020",
+            "top-country-de-scans-2020",
+            "at-least-5-de-scans-2020",
+            "top-500-us-scans-2020",
+            "top-1000-us-scans-2020",
+            "top-5000-us-scans-2020",
+            "top-10000-us-scans-2020",
+            "top-50000-us-scans-2020",
+            "top-100000-us-scans-2020",
+            "top-500-eg-scans-2020",
+            "top-1000-eg-scans-2020",
+            "top-5000-eg-scans-2020",
+            "top-10000-eg-scans-2020",
+            "top-50000-eg-scans-2020",
+            "top-100000-eg-scans-2020",
+            "top-1000-ae-scans-2020",
+            "top-5000-ae-scans-2020",
+            "top-10000-ae-scans-2020",
+            "top-50000-ae-scans-2020",
+            "top-100000-ae-scans-2020"
+        ],
+        "categories_tags": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:confectioneries",
+            "en:christmas-foods-and-drinks",
+            "en:chocolates",
+            "en:christmas-sweets",
+            "en:chocolate-molds",
+            "en:milk-chocolates",
+            "en:chocolate-scupltures",
+            "en:christmas-chocolates",
+            "en:chocolate-santa-clauses"
+        ],
+        "traces_hierarchy": [
+            "en:nuts"
+        ],
+        "allergens_hierarchy": [
+            "en:gluten",
+            "en:milk",
+            "en:soybeans"
+        ],
+        "product_name_fr": "Père Noël Chocolat au Lait",
+        "generic_name": "",
+        "origins_tags": [],
+        "languages_hierarchy": [
+            "en:english",
+            "en:french",
+            "en:german"
+        ],
+        "last_image_t": 1554159243,
+        "additives_n": 0,
+        "pnns_groups_2_tags": [
+            "chocolate-products",
+            "known"
+        ],
+        "countries_beforescanbot": "Österreich, Frankreich, Schweiz",
+        "emb_codes_tags": [],
+        "ingredients_text_with_allergens_en": "sugar, cocoa butter, milk powder, cocoa mass, <span class=\"allergen\">lactose</span>, skimmed milk powder, emulsifier (<span class=\"allergen\">soy lecithin</span>), barley malt extract, flavouring,",
+        "correctors_tags": [
+            "twoflower",
+            "openfood-ch-import",
+            "tacite-mass-editor",
+            "yuka.ZHYwbFFZcGZoL1FJeGRwa3h4S013ZkJyMThPU1dtTHVGL0FOSVE9PQ",
+            "beniben",
+            "yukafix",
+            "sebleouf",
+            "date-limite-app",
+            "foodrepo",
+            "inf",
+            "adinos",
+            "scanbot"
+        ],
+        "sortkey": 1608644704,
+        "generic_name_de": "",
+        "categories_old": "Snacks, Sweet snacks, Confectioneries, Christmas foods and drinks, Chocolates, Christmas sweets, Chocolate molds, Milk chocolates, Chocolate Scupltures, Chocolate Santa Clauses, en:christmas-chocolates",
+        "completeness": 0.8875,
+        "categories_properties": {
+            "agribalyse_proxy_food_code:en": "31004"
+        },
+        "labels_tags": [
+            "en:green-dot",
+            "en:made-in-germany"
+        ],
+        "traces_from_user": "(de) en:nuts",
+        "informers_tags": [
+            "twoflower",
+            "openfood-ch-import",
+            "yuka.ZHYwbFFZcGZoL1FJeGRwa3h4S013ZkJyMThPU1dtTHVGL0FOSVE9PQ",
+            "openfoodfacts-contributors",
+            "beniben",
+            "foodrepo",
+            "inf"
+        ],
+        "nutrition_grades_tags": [
+            "e"
+        ],
+        "vitamins_tags": [],
+        "lang": "de",
+        "origins_lc": "de",
+        "interface_version_modified": "20150316.jqm2",
+        "unique_scans_n": 13,
+        "additives_tags": [],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_de.9.400.jpg",
+        "unknown_nutrients_tags": [],
+        "stores_debug_tags": [],
+        "nova_group_debug": " -- ingredients/en:sugar : 3 -- ingredients/en:lactose : 4",
+        "countries_hierarchy": [
+            "en:austria",
+            "en:france",
+            "en:germany",
+            "en:switzerland"
+        ],
+        "traces_tags": [
+            "en:nuts"
+        ],
+        "nova_groups": "4",
+        "packaging_tags": [
+            "aluminium",
+            "metal"
+        ],
+        "allergens_from_ingredients": "Milchpulver, Milchzucker, Sojalecithin, Magermilchpulver, Gerstenmalzextrakt",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.100.jpg",
+        "nutrient_levels": {
+            "sugars": "high",
+            "salt": "low",
+            "fat": "high",
+            "saturated-fat": "high"
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:non-vegan",
+            "en:maybe-vegetarian"
+        ],
+        "created_t": 1481491617,
+        "nutriscore_data": {
+            "proteins": 7.2,
+            "negative_points": 26,
+            "sugars_points": 10,
+            "score": 26,
+            "sodium_value": 80,
+            "positive_points": 0,
+            "is_water": 0,
+            "saturated_fat_value": 20,
+            "proteins_points": 4,
+            "saturated_fat_points": 10,
+            "saturated_fat_ratio": 60.6060606060606,
+            "proteins_value": 7.2,
+            "saturated_fat_ratio_points": 9,
+            "fiber_points": 0,
+            "grade": "e",
+            "is_cheese": 0,
+            "energy": 2294,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+            "fiber": 0,
+            "energy_points": 6,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 0,
+            "is_fat": 0,
+            "energy_value": 2294,
+            "is_beverage": 0,
+            "fiber_value": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+            "saturated_fat_ratio_value": 60.6,
+            "sugars_value": 55,
+            "saturated_fat": 20,
+            "sodium": 80,
+            "sugars": 55
+        },
+        "amino_acids_prev_tags": [],
+        "nova_group": 4,
+        "nutrition_grade_fr": "e",
+        "purchase_places_debug_tags": [],
+        "scans_n": 16,
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "Sucre, beurre de cacao, poudre de <span class=\"allergen\">lait</span>, pâte de cacao, <span class=\"allergen\">lactose</span>, poudre de <span class=\"allergen\">lait</span> écrémé, émulsifiant (lécithine de <span class=\"allergen\">soja</span>), extrait de malt d'<span class=\"allergen\">orge</span>, arôme.",
+        "images": {
+            "nutrition_fr": {
+                "y1": "24.5078125",
+                "y2": "168.84375",
+                "rev": "24",
+                "x2": "309.68359375",
+                "white_magic": "false",
+                "x1": "165.37890625",
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 361,
+                        "w": 361
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 361,
+                        "w": 361
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 200
+                    }
+                },
+                "angle": "0",
+                "orientation": "0",
+                "geometry": "361x361-413-61",
+                "normalize": "false",
+                "imgid": "7"
+            },
+            "11": {
+                "uploaded_t": 1554159242,
+                "uploader": "foodrepo",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": "1481491629",
+                "uploader": "twoflower",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 164
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 41
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 491
+                    }
+                }
+            },
+            "6": {
+                "uploaded_t": 1486510514,
+                "uploader": "openfood-ch-import",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "9": {
+                "uploaded_t": "1526140694",
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 379,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 95,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 1265
+                    }
+                }
+            },
+            "nutrition_de": {
+                "y1": "217.89999389648438",
+                "y2": "295.8999938964844",
+                "rev": "9",
+                "x2": "151.25",
+                "white_magic": "false",
+                "x1": "73.25",
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 234,
+                        "w": 233
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 234,
+                        "w": 233
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 199
+                    }
+                },
+                "angle": "0",
+                "orientation": "0",
+                "geometry": "233x234-219-653",
+                "normalize": "false",
+                "imgid": "3"
+            },
+            "2": {
+                "uploaded_t": "1481491625",
+                "uploader": "twoflower",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 159
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 40
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 477
+                    }
+                }
+            },
+            "front_de": {
+                "y1": -1,
+                "y2": -1,
+                "rev": "4",
+                "x2": -1,
+                "white_magic": null,
+                "x1": -1,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 159
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 40
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 80
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 477
+                    }
+                },
+                "angle": 0,
+                "geometry": "0x0--3--3",
+                "normalize": null,
+                "imgid": "2"
+            },
+            "12": {
+                "uploaded_t": 1554159242,
+                "uploader": "foodrepo",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "front_fr": {
+                "y1": "1.3515625",
+                "rev": "21",
+                "y2": "226.54296875",
+                "x2": "240.90625",
+                "white_magic": "false",
+                "x1": "132.77734375",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 194
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 48
+                    },
+                    "full": {
+                        "h": 560,
+                        "w": 271
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 97
+                    }
+                },
+                "angle": "0",
+                "normalize": "false",
+                "geometry": "271x563-331-3",
+                "imgid": "5"
+            },
+            "7": {
+                "uploaded_t": 1486510515,
+                "uploader": "openfood-ch-import",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "10": {
+                "uploaded_t": 1554159242,
+                "uploader": "foodrepo",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "13": {
+                "uploaded_t": 1554159243,
+                "uploader": "foodrepo",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "1": {
+                "uploaded_t": "1481491617",
+                "uploader": "twoflower",
+                "sizes": {
+                    "400": {
+                        "h": 309,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 77,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 427,
+                        "w": 553
+                    }
+                }
+            },
+            "ingredients_de": {
+                "y1": "121.38333129882812",
+                "rev": "8",
+                "y2": "247.38333129882812",
+                "x2": "163.25",
+                "ocr": 1,
+                "x1": "25.25",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 253,
+                        "w": 278
+                    },
+                    "100": {
+                        "h": 91,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 182,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 253,
+                        "w": 278
+                    }
+                },
+                "angle": "0",
+                "orientation": "0",
+                "normalize": "false",
+                "geometry": "278x253-50-244",
+                "imgid": "4"
+            },
+            "4": {
+                "uploaded_t": "1481491633",
+                "uploader": "twoflower",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 314
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 78
+                    },
+                    "full": {
+                        "h": 805,
+                        "w": 631
+                    }
+                }
+            },
+            "8": {
+                "uploaded_t": 1486510515,
+                "uploader": "openfood-ch-import",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "5": {
+                "uploaded_t": 1486510514,
+                "uploader": "openfood-ch-import",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 1000
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "y1": "67.1953125",
+                "rev": "22",
+                "y2": "261.2890625",
+                "x2": "379.3671875",
+                "ocr": 1,
+                "x1": "58.75390625",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 243,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 61,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 121,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 615,
+                        "w": 1014
+                    }
+                },
+                "angle": "0",
+                "orientation": "0",
+                "normalize": "true",
+                "geometry": "1014x615-185-212",
+                "imgid": "9"
+            }
+        },
+        "ingredients_n": 10,
+        "editors_tags": [
+            "inf",
+            "foodrepo",
+            "yuka.ZHYwbFFZcGZoL1FJeGRwa3h4S013ZkJyMThPU1dtTHVGL0FOSVE9PQ",
+            "beniben",
+            "date-limite-app",
+            "openfoodfacts-contributors",
+            "twoflower",
+            "openfood-ch-import",
+            "scanbot",
+            "kiliweb",
+            "tacite-mass-editor",
+            "yukafix",
+            "sebleouf",
+            "adinos"
+        ],
+        "manufacturing_places_debug_tags": [],
+        "allergens_tags": [
+            "en:gluten",
+            "en:milk",
+            "en:soybeans"
+        ],
+        "countries_lc": "de",
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "emb_codes_debug_tags": [],
+        "manufacturing_places": "Deutschland,Allemagne",
+        "code": "4000539770708",
+        "codes_tags": [
+            "code-13",
+            "4000539770xxx",
+            "400053977xxxx",
+            "40005397xxxxx",
+            "4000539xxxxxx",
+            "400053xxxxxxx",
+            "40005xxxxxxxx",
+            "4000xxxxxxxxx",
+            "400xxxxxxxxxx",
+            "40xxxxxxxxxxx",
+            "4xxxxxxxxxxxx"
+        ],
+        "last_modified_by": "scanbot",
+        "labels": "Grüner Punkt, Hergestellt in Deutschland",
+        "entry_dates_tags": [
+            "2016-12-11",
+            "2016-12",
+            "2016"
+        ],
+        "last_edit_dates_tags": [
+            "2021-01-19",
+            "2021-01",
+            "2021"
+        ],
+        "creator": "twoflower",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "sprüngli",
+            "mold",
+            "christmas-chocolate",
+            "noël",
+            "lait",
+            "confectionerie",
+            "snack",
+            "in",
+            "and",
+            "milk",
+            "au",
+            "lindt",
+            "punkt",
+            "santa",
+            "drink",
+            "chocolat",
+            "scuplture",
+            "christma",
+            "sweet",
+            "père",
+            "hergestellt",
+            "clause",
+            "deutschland",
+            "chocolate",
+            "food",
+            "grüner"
+        ],
+        "link": "",
+        "ingredients_debug": [
+            "Zucker",
+            ",",
+            null,
+            null,
+            null,
+            " Kakaobutter",
+            ",",
+            null,
+            null,
+            null,
+            " _Milchpulver_",
+            ",",
+            null,
+            null,
+            null,
+            " Kakaomasse",
+            ",",
+            null,
+            null,
+            null,
+            " _Milchzucker_",
+            ",",
+            null,
+            null,
+            null,
+            " Magermilchpulver",
+            ",",
+            null,
+            null,
+            null,
+            " Emulgator ",
+            "(",
+            "(",
+            null,
+            null,
+            "_Sojalecithin_)",
+            ",",
+            null,
+            null,
+            null,
+            " Gerstenmalzextrakt",
+            ",",
+            null,
+            null,
+            null,
+            " Aroma."
+        ],
+        "labels_lc": "de",
+        "languages_codes": {
+            "de": 5,
+            "fr": 5,
+            "en": 1
+        },
+        "packaging": "Aluminium,Métal",
+        "ingredients_text_en": "sugar, cocoa butter, milk powder, cocoa mass, lactose, skimmed milk powder, emulsifier (soy lecithin), barley malt extract, flavouring,",
+        "packaging_debug_tags": [],
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.400.jpg",
+        "last_image_dates_tags": [
+            "2019-04-02",
+            "2019-04",
+            "2019"
+        ],
+        "popularity_key": 19950000013,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.200.jpg",
+        "expiration_date": "20/04/2018",
+        "data_quality_warnings_tags": [
+            "en:ingredients-en-ending-comma",
+            "en:ingredients-de-ending-comma"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "generic_name_de_debug_tags": [],
+        "generic_name_fr_debug_tags": [],
+        "photographers_tags": [
+            "twoflower",
+            "openfood-ch-import",
+            "kiliweb",
+            "foodrepo"
+        ],
+        "product_name_fr_debug_tags": [],
+        "debug_param_sorted_langs": [
+            "de",
+            "fr"
+        ],
+        "ecoscore_score": 21,
+        "last_modified_t": 1611050930,
+        "ingredients": [
+            {
+                "percent_max": 100,
+                "id": "en:sugar",
+                "percent_estimate": 55.5555555555556,
+                "percent_min": 11.1111111111111,
+                "text": "Zucker",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 50,
+                "id": "en:cocoa-butter",
+                "text": "Kakaobutter",
+                "percent_estimate": 22.2222222222222,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 33.3333333333333,
+                "id": "en:milk-powder",
+                "text": "_Milchpulver_",
+                "percent_min": 0,
+                "percent_estimate": 11.1111111111111,
+                "vegan": "no",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 25,
+                "id": "en:cocoa-paste",
+                "percent_estimate": 5.55555555555556,
+                "percent_min": 0,
+                "text": "Kakaomasse",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 20,
+                "id": "en:lactose",
+                "text": "_Milchzucker_",
+                "percent_estimate": 2.77777777777778,
+                "percent_min": 0,
+                "vegan": "no",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 16.6666666666667,
+                "id": "en:skimmed-milk-powder",
+                "text": "Magermilchpulver",
+                "percent_min": 0,
+                "percent_estimate": 1.38888888888889,
+                "vegan": "no",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 14.2857142857143,
+                "id": "en:emulsifier",
+                "percent_estimate": 0.694444444444443,
+                "percent_min": 0,
+                "text": "Emulgator"
+            },
+            {
+                "percent_max": 12.5,
+                "id": "en:barley-malt-extract",
+                "percent_estimate": 0.347222222222221,
+                "percent_min": 0,
+                "text": "Gerstenmalzextrakt",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 11.1111111111111,
+                "id": "en:flavouring",
+                "percent_min": 0,
+                "percent_estimate": 0.347222222222229,
+                "text": "Aroma",
+                "vegan": "maybe",
+                "vegetarian": "maybe"
+            }
+        ],
+        "nutriscore_grade": "e",
+        "product_name_de": "Père Noël Chocolat au Lait",
+        "stores": "",
+        "countries": "Österreich, Frankreich, Schweiz, en:germany",
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "other_nutritional_substances_tags": [],
+        "cities_tags": [],
+        "brands": "Lindt,Lindt & Sprüngli",
+        "categories": "Imbiss, Süßer Snack, Süßwaren, Weihnachtliches Essen und Getränke, Schokoladen, Weihnachtssüßigkeiten, Schokoladenformteile, Milchschokoladen, Schokoladenfiguren, Weihnachtsschokolade, Schokoladenweihnachtsmänner",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+        "ingredients_text_with_allergens": "Zucker, Kakaobutter, <span class=\"allergen\">Milchpulver</span>, Kakaomasse, <span class=\"allergen\">Milchzucker</span>, <span class=\"allergen\">Magermilchpulver</span>, Emulgator (<span class=\"allergen\">Sojalecithin</span>), <span class=\"allergen\">Gerstenmalzextrakt</span>, Aroma,",
+        "nutrition_grades": "e",
+        "nutrient_levels_tags": [
+            "en:fat-in-high-quantity",
+            "en:saturated-fat-in-high-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-low-quantity"
+        ],
+        "known_ingredients_n": 17,
+        "minerals_prev_tags": [],
+        "product_name": "Père Noël Chocolat au Lait",
+        "ingredients_text": "Zucker, Kakaobutter, _Milchpulver_, Kakaomasse, _Milchzucker_, Magermilchpulver, Emulgator (_Sojalecithin_), Gerstenmalzextrakt, Aroma,",
+        "serving_size_debug_tags": [],
+        "origins": "",
+        "languages_tags": [
+            "en:english",
+            "en:french",
+            "en:german",
+            "en:3",
+            "en:multilingual"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Sucre, beurre de cacao, poudre de _lait_, pâte de cacao, _lactose_, poudre de _lait_ écrémé, émulsifiant (lécithine de _soja_), extrait de malt d'_orge_, arôme.",
+        "lang_debug_tags": [],
+        "categories_lc": "de",
+        "allergens": "en:milk,en:soybeans",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_de.8.100.jpg",
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "e",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -3,
+                    "non_recyclable_and_non_biodegradable_materials": 0,
+                    "packagings": [
+                        {
+                            "shape": "en:unknown",
+                            "material": "en:heavy-aluminium",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": "72"
+                        }
+                    ],
+                    "warning": "unspecified_shape",
+                    "score": 72
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "value_it": -5,
+                    "transportation_score_lu": 0,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "transportation_score_ch": 0,
+                    "epi_value": -5,
+                    "value_ie": -5,
+                    "value_fr": -5,
+                    "transportation_value_de": 0,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "transportation_score_nl": 0,
+                    "value_lu": -5
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "e",
+            "score": 21,
+            "grade_de": "e",
+            "missing_data_warning": 1,
+            "grade_nl": "e",
+            "score_be": 16,
+            "agribalyse": {
+                "co2_transportation": "0.33427006",
+                "ef_distribution": "0.0045906531",
+                "name_fr": "Chocolat au lait, tablette",
+                "score": 24,
+                "agribalyse_food_code": "31004",
+                "ef_agriculture": "1.0783151999999998",
+                "ef_consumption": "0",
+                "name_en": "Milk chocolate bar",
+                "co2_total": "17.574537",
+                "ef_packaging": "0.015600638000000002",
+                "ef_processing": "0.15156988000000002",
+                "is_beverage": 0,
+                "agribalyse_proxy_food_code": "31004",
+                "dqr": "2.99",
+                "co2_processing": "1.6191263",
+                "code": "31004",
+                "co2_consumption": "0",
+                "co2_distribution": "0.014104999",
+                "ef_total": "1.282654",
+                "co2_agriculture": "15.499614",
+                "ef_transportation": "0.03230215",
+                "co2_packaging": "0.10291973"
+            },
+            "grade_it": "e",
+            "score_nl": 16,
+            "missing": {
+                "packagings": 1,
+                "labels": 1,
+                "origins": 1
+            },
+            "grade_ie": "e",
+            "score_ch": 16,
+            "score_de": 16,
+            "score_fr": 16,
+            "score_ie": 16,
+            "score_lu": 16,
+            "score_it": 16,
+            "score_es": 16,
+            "grade_ch": "e",
+            "grade_es": "e",
+            "grade": "d",
+            "grade_lu": "e"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_de.9.400.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_fr.24.400.jpg"
+                },
+                "thumb": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_de.9.100.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_fr.24.100.jpg"
+                },
+                "small": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_de.9.200.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_fr.24.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_de.8.400.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_fr.22.400.jpg"
+                },
+                "thumb": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_de.8.100.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_fr.22.100.jpg"
+                },
+                "small": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_de.8.200.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_fr.22.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.400.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_fr.21.400.jpg"
+                },
+                "thumb": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.100.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_fr.21.100.jpg"
+                },
+                "small": {
+                    "de": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.200.jpg",
+                    "fr": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_fr.21.200.jpg"
+                }
+            }
+        },
+        "rev": 40,
+        "origins_old": "",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "scanbot",
+        "additives_prev_original_tags": [],
+        "data_sources_tags": [
+            "database-foodrepo-openfood-ch",
+            "databases",
+            "app-yuka",
+            "apps"
+        ],
+        "ingredients_tags": [
+            "en:sugar",
+            "en:cocoa-butter",
+            "en:cocoa",
+            "en:milk-powder",
+            "en:dairy",
+            "en:cocoa-paste",
+            "en:lactose",
+            "en:skimmed-milk-powder",
+            "en:emulsifier",
+            "en:barley-malt-extract",
+            "en:cereal",
+            "en:malt",
+            "en:malted-barley",
+            "en:flavouring",
+            "en:soya-lecithin",
+            "en:e322",
+            "en:e322i"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_de.9.100.jpg",
+        "ingredients_from_palm_oil_tags": [],
+        "nutrition_data_prepared_per_debug_tags": [],
+        "categories_hierarchy": [
+            "en:snacks",
+            "en:sweet-snacks",
+            "en:cocoa-and-its-products",
+            "en:confectioneries",
+            "en:christmas-foods-and-drinks",
+            "en:chocolates",
+            "en:christmas-sweets",
+            "en:chocolate-molds",
+            "en:milk-chocolates",
+            "en:chocolate-scupltures",
+            "en:christmas-chocolates",
+            "en:chocolate-santa-clauses"
+        ],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "d",
+        "ingredients_percent_analysis": 1,
+        "nutrition_data": "on",
+        "languages": {
+            "en:german": 5,
+            "en:english": 1,
+            "en:french": 5
+        },
+        "purchase_places": "France,Suisse",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-31004",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-unknown",
+            "agribalyse-known",
+            "agribalyse-31004"
+        ],
+        "id": "4000539770708",
+        "sources": [
+            {
+                "import_t": 1486510515,
+                "fields": [
+                    "countries",
+                    "nutrients.fat",
+                    "nutrients.saturated-fat",
+                    "nutrients.carbohydrates",
+                    "nutrients.energy",
+                    "nutrients.sugars",
+                    "nutrients.fiber",
+                    "nutrients.proteins",
+                    "nutrients.salt"
+                ],
+                "id": "openfood-ch",
+                "url": "https://www.openfood.ch/en/products/15511",
+                "images": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "import_t": 1548767967,
+                "fields": [],
+                "manufacturer": "0",
+                "url": "https://www.foodrepo.org/ch/products/15511",
+                "images": [],
+                "source_licence_url": "https://creativecommons.org/licenses/by/4.0/",
+                "id": "openfood-ch",
+                "name": "FoodRepo",
+                "source_licence": "Creative Commons Attribution 4.0 International License"
+            }
+        ],
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Sugary snacks",
+        "allergens_from_user": "(de) en:milk,en:soybeans",
+        "nutrition_data_prepared": "",
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_de.8.400.jpg",
+        "labels_old": "Grüner Punkt, Hergestellt in Deutschland",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:quantity-contains-e",
+            "en:ingredients-en-ending-comma",
+            "en:ingredients-de-ending-comma"
+        ],
+        "additives_old_tags": [],
+        "origins_hierarchy": [],
+        "ecoscore_tags": [
+            "d"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "labels_hierarchy": [
+            "en:green-dot",
+            "en:made-in-germany"
+        ],
+        "nutrition_score_beverage": 0,
+        "pnns_groups_2": "Chocolate products",
+        "complete": 0,
+        "ingredients_text_fr_debug_tags": [],
+        "product_quantity": "125",
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.100.jpg",
+        "ingredients_text_debug": "Zucker, Kakaobutter, _Milchpulver_, Kakaomasse, _Milchzucker_, Magermilchpulver, Emulgator (_Sojalecithin_), Gerstenmalzextrakt, Aroma.",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.400.jpg",
+        "_id": "4000539770708",
+        "countries_tags": [
+            "en:austria",
+            "en:france",
+            "en:germany",
+            "en:switzerland"
+        ],
+        "ingredients_hierarchy": [
+            "en:sugar",
+            "en:cocoa-butter",
+            "en:cocoa",
+            "en:milk-powder",
+            "en:dairy",
+            "en:cocoa-paste",
+            "en:lactose",
+            "en:skimmed-milk-powder",
+            "en:emulsifier",
+            "en:barley-malt-extract",
+            "en:cereal",
+            "en:malt",
+            "en:malted-barley",
+            "en:flavouring",
+            "en:soya-lecithin",
+            "en:e322",
+            "en:e322i"
+        ],
+        "additives_original_tags": [],
+        "stores_tags": [],
+        "nutriscore_score": 26,
+        "compared_to_category": "en:chocolate-santa-clauses",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "expiration_date_debug_tags": [],
+        "ingredients_n_tags": [
+            "10",
+            "1-10"
+        ],
+        "pnns_groups_1_tags": [
+            "sugary-snacks",
+            "known"
+        ],
+        "additives_old_n": 0,
+        "packagings": [
+            {
+                "material": "en:aluminium"
+            }
+        ],
+        "quantity": "125 g e",
+        "data_quality_info_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:quantity-contains-e"
+        ],
+        "brands_tags": [
+            "lindt",
+            "lindt-sprungli"
+        ],
+        "data_quality_errors_tags": [],
+        "link_debug_tags": [],
+        "ingredients_ids_debug": [
+            "zucker",
+            "kakaobutter",
+            "milchpulver",
+            "kakaomasse",
+            "milchzucker",
+            "magermilchpulver",
+            "emulgator",
+            "sojalecithin",
+            "gerstenmalzextrakt",
+            "aroma"
+        ],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [
+            "en:sugar",
+            "en:cocoa-butter",
+            "en:milk-powder",
+            "en:cocoa-paste",
+            "en:lactose",
+            "en:skimmed-milk-powder",
+            "en:emulsifier",
+            "en:barley-malt-extract",
+            "en:flavouring",
+            "en:soya-lecithin"
+        ],
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+        "traces": "en:nuts",
+        "data_sources": "Database - FoodRepo / openfood.ch, Databases, App - yuka, Apps",
+        "unknown_ingredients_n": 0,
+        "manufacturing_places_tags": [
+            "deutschland",
+            "allemagne"
+        ],
+        "quantity_debug_tags": [],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "max_imgid": "13",
+        "emb_codes": "",
+        "nutrition_data_per_debug_tags": [],
+        "ingredients_text_with_allergens_de": "Zucker, Kakaobutter, <span class=\"allergen\">Milchpulver</span>, Kakaomasse, <span class=\"allergen\">Milchzucker</span>, <span class=\"allergen\">Magermilchpulver</span>, Emulgator (<span class=\"allergen\">Sojalecithin</span>), <span class=\"allergen\">Gerstenmalzextrakt</span>, Aroma,",
+        "allergens_debug_tags": [],
+        "nutriscore_score_opposite": -26,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/front_de.4.200.jpg",
+        "generic_name_fr": "",
+        "nutriments": {
+            "proteins": 7.2,
+            "energy_100g": 2294,
+            "carbohydrates_unit": "g",
+            "energy-kj_100g": 2294,
+            "sodium_100g": 0.08,
+            "sugars_100g": 55,
+            "sodium_value": 0.08,
+            "nova-group_serving": 4,
+            "salt_100g": 0.2,
+            "nutrition-score-fr_100g": 26,
+            "energy_unit": "kJ",
+            "salt_unit": "g",
+            "proteins_unit": "g",
+            "cocoa_100g": 30,
+            "carbohydrates_value": 55,
+            "sugars_unit": "g",
+            "cocoa_serving": 30,
+            "energy-kj_unit": "kJ",
+            "cocoa_label": "0",
+            "fat_unit": "g",
+            "salt_value": 0.2,
+            "salt": 0.2,
+            "proteins_value": 7.2,
+            "saturated-fat_100g": 20,
+            "fiber_100g": 0,
+            "saturated-fat": 20,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+            "fat_value": 33,
+            "energy": 2294,
+            "nova-group": 4,
+            "fiber": 0,
+            "saturated-fat_value": 20,
+            "nova-group_100g": 4,
+            "fat_100g": 33,
+            "saturated-fat_unit": "g",
+            "energy_value": 2294,
+            "energy-kj_value": 2294,
+            "fiber_value": 0,
+            "fiber_unit": "g",
+            "cocoa_unit": "g",
+            "energy-kj": 2294,
+            "cocoa": 30,
+            "cocoa_value": 30,
+            "sugars_value": 55,
+            "proteins_100g": 7.2,
+            "sodium_unit": "g",
+            "nutrition-score-fr": 26,
+            "sodium": 0.08,
+            "carbohydrates_100g": 55,
+            "sugars": 55,
+            "carbohydrates": 55,
+            "fat": 33
+        },
+        "purchase_places_tags": [
+            "france",
+            "suisse"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/ingredients_de.8.200.jpg",
+        "ingredients_text_de": "Zucker, Kakaobutter, _Milchpulver_, Kakaomasse, _Milchzucker_, Magermilchpulver, Emulgator (_Sojalecithin_), Gerstenmalzextrakt, Aroma,",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/400/053/977/0708/nutrition_de.9.200.jpg",
+        "product_name_de_debug_tags": []
+    },
+    "status_verbose": "product found"
+}

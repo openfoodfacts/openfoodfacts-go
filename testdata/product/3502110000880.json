@@ -1,0 +1,986 @@
+{
+    "status": 1,
+    "code": "3502110000880",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "popularity_tags": [
+            "bottom-25-percent-scans-2019",
+            "top-80-percent-scans-2019",
+            "top-85-percent-scans-2019",
+            "top-90-percent-scans-2019",
+            "top-100000-fr-scans-2019",
+            "top-country-fr-scans-2019",
+            "at-least-5-scans-2020",
+            "top-75-percent-scans-2020",
+            "top-80-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-100000-fr-scans-2020",
+            "top-country-fr-scans-2020",
+            "at-least-5-fr-scans-2020"
+        ],
+        "preparation_fr": "Servir très frais",
+        "conservation_conditions_fr": "À consommer de préférence avant: voir sur le bouchon ou le col de la bouteille.",
+        "customer_service": "PepsiCo France SNC, 420, rue d'Estienne d'Orves 92705 Colombes CEDEX",
+        "categories_tags": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:sodas",
+            "en:colas",
+            "en:sweetened-beverages"
+        ],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [],
+        "origins_tags": [],
+        "product_name_fr": "Pepsi 2 L",
+        "generic_name": "Boisson gazeuse rafraîchissante aux extraits végétaux.",
+        "teams_tags": [
+            "chocolatine",
+            "la-robe-est-bleue"
+        ],
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "preparation": "Servir très frais",
+        "last_image_t": 1376566383,
+        "emb_codes_20141016": "",
+        "additives_n": 2,
+        "pnns_groups_2_tags": [
+            "sweetened-beverages",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "tacite-mass-editor",
+            "teolemon",
+            "org-pepsico-france"
+        ],
+        "sortkey": 1609590656,
+        "categories_old": "Beverages, Carbonated drinks, Sodas, Sweetened beverages, en:colas",
+        "completeness": 0.7875,
+        "categories_properties": {
+            "ciqual_food_code:en": "18063",
+            "agribalyse_proxy_food_code:en": "18018"
+        },
+        "labels_tags": [
+            "en:green-dot"
+        ],
+        "traces_from_user": "(fr) ",
+        "informers_tags": [
+            "shaolan",
+            "tacite-mass-editor",
+            "org-pepsico-france"
+        ],
+        "nutrition_grades_tags": [
+            "e"
+        ],
+        "brands_imported": "Pepsi",
+        "vitamins_tags": [],
+        "lang": "fr",
+        "origins_lc": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "customer_service_fr_imported": "PepsiCo France SNC, 420, rue d'Estienne d'Orves 92705 Colombes CEDEX",
+        "unique_scans_n": 5,
+        "additives_tags": [
+            "en:e150d",
+            "en:e338"
+        ],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/nutrition_fr.7.400.jpg",
+        "unknown_nutrients_tags": [],
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "nova_group_debug": " -- categories/en:sodas : 3 -- additives/en:e150d : 4",
+        "traces_tags": [],
+        "packaging_tags": [
+            "bouteille-plastique",
+            "pet",
+            "♳"
+        ],
+        "nova_groups": "4",
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.100.jpg",
+        "nutrient_levels": {
+            "salt": "low",
+            "sugars": "high",
+            "fat": "low",
+            "saturated-fat": "low"
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:vegan-status-unknown",
+            "en:vegetarian-status-unknown"
+        ],
+        "created_t": 1376566050,
+        "nutriscore_data": {
+            "proteins": 0,
+            "negative_points": 15,
+            "sugars_points": 8,
+            "score": 15,
+            "sodium_value": 4,
+            "positive_points": 0,
+            "is_water": 0,
+            "saturated_fat_value": 0,
+            "proteins_points": 0,
+            "saturated_fat_points": 0,
+            "saturated_fat_ratio": 0,
+            "proteins_value": 0,
+            "saturated_fat_ratio_points": 0,
+            "fiber_points": 0,
+            "grade": "e",
+            "is_cheese": 0,
+            "energy": 185,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+            "fiber": 0,
+            "energy_points": 7,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 0,
+            "is_fat": 0,
+            "energy_value": 185,
+            "is_beverage": 1,
+            "fiber_value": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+            "saturated_fat_ratio_value": 0,
+            "sugars_value": 10.9,
+            "saturated_fat": 0,
+            "sodium": 4,
+            "sugars": 10.9
+        },
+        "nova_group": 4,
+        "amino_acids_prev_tags": [],
+        "nutrition_grade_fr": "e",
+        "data_sources_imported": "Database - CodeOnline, Database - GDSN, Databases",
+        "scans_n": 7,
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "Eau gazéifiée,sucre,colorant (caramel E150d),acidifiant (acide phosphorique),arômes (dont extraits végétaux et caféine)",
+        "images": {
+            "nutrition_fr": {
+                "rev": "7",
+                "white_magic": null,
+                "normalize": null,
+                "geometry": "1345x525-100-440",
+                "sizes": {
+                    "400": {
+                        "h": 156,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 39,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 78,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 525,
+                        "w": 1345
+                    }
+                },
+                "imgid": "3"
+            },
+            "nutrition": {
+                "rev": "7",
+                "white_magic": null,
+                "normalize": null,
+                "geometry": "1345x525-100-440",
+                "sizes": {
+                    "400": {
+                        "h": 156,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 39,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 78,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 525,
+                        "w": 1345
+                    }
+                },
+                "imgid": "3"
+            },
+            "ingredients": {
+                "rev": "6",
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 104,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 26,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 355,
+                        "w": 1360
+                    },
+                    "200": {
+                        "h": 52,
+                        "w": 200
+                    }
+                },
+                "geometry": "1360x355-60-170",
+                "normalize": null,
+                "imgid": "3"
+            },
+            "front_fr": {
+                "rev": "4",
+                "white_magic": null,
+                "normalize": null,
+                "geometry": "0x0--4--5",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 129
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 32
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 64
+                    },
+                    "full": {
+                        "h": 2000,
+                        "w": 644
+                    }
+                },
+                "imgid": "2"
+            },
+            "3": {
+                "uploaded_t": 1376566383,
+                "uploader": "shaolan",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "1": {
+                "uploaded_t": 1376566050,
+                "uploader": "shaolan",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "front": {
+                "rev": "4",
+                "white_magic": null,
+                "normalize": null,
+                "geometry": "0x0--4--5",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 129
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 32
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 64
+                    },
+                    "full": {
+                        "h": 2000,
+                        "w": 644
+                    }
+                },
+                "imgid": "2"
+            },
+            "2": {
+                "uploaded_t": 1376566374,
+                "uploader": "shaolan",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 129
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 32
+                    },
+                    "full": {
+                        "h": 2000,
+                        "w": 644
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "rev": "6",
+                "white_magic": null,
+                "sizes": {
+                    "400": {
+                        "h": 104,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 26,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 355,
+                        "w": 1360
+                    },
+                    "200": {
+                        "h": 52,
+                        "w": 200
+                    }
+                },
+                "geometry": "1360x355-60-170",
+                "normalize": null,
+                "imgid": "3"
+            }
+        },
+        "owner_fields": {
+            "lc": 1619519181,
+            "proteins": 1619519181,
+            "serving_size": 1619519181,
+            "preparation_fr": 1619519181,
+            "energy-kcal": 1619519181,
+            "conservation_conditions_fr": 1619519181,
+            "lang": 1619519181,
+            "ingredients_text_fr": 1619519181,
+            "product_name_fr": 1619519181,
+            "nutrition_data_per": 1619519181,
+            "generic_name_fr": 1619519181,
+            "energy-kj": 1619519181,
+            "customer_service_fr": 1619519181,
+            "salt": 1619519181,
+            "labels": 1619519181,
+            "quantity": 1619519181,
+            "countries": 1619519181,
+            "nutrition_data_prepared_per": 1619519181,
+            "abbreviated_product_name": 1619519181,
+            "brands": 1619519181,
+            "obsolete": 1619519181,
+            "data_sources": 1619519181,
+            "sugars": 1619519181,
+            "carbohydrates": 1619519181,
+            "saturated-fat": 1619519181,
+            "fat": 1619519181
+        },
+        "ingredients_n": 9,
+        "editors_tags": [
+            "org-pepsico-france",
+            "shaolan",
+            "teolemon",
+            "tacite-mass-editor"
+        ],
+        "countries_lc": "fr",
+        "allergens_tags": [],
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "code": "3502110000880",
+        "customer_service_fr": "PepsiCo France SNC, 420, rue d'Estienne d'Orves 92705 Colombes CEDEX",
+        "codes_tags": [
+            "code-13",
+            "3502110000xxx",
+            "350211000xxxx",
+            "35021100xxxxx",
+            "3502110xxxxxx",
+            "350211xxxxxxx",
+            "35021xxxxxxxx",
+            "3502xxxxxxxxx",
+            "350xxxxxxxxxx",
+            "35xxxxxxxxxxx",
+            "3xxxxxxxxxxxx"
+        ],
+        "labels": "Point Vert",
+        "last_modified_by": "org-pepsico-france",
+        "last_edit_dates_tags": [
+            "2021-04-27",
+            "2021-04",
+            "2021"
+        ],
+        "entry_dates_tags": [
+            "2013-08-15",
+            "2013-08",
+            "2013"
+        ],
+        "creator": "shaolan",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "cola",
+            "point",
+            "rafraichissante",
+            "extrait",
+            "avec",
+            "pepsi",
+            "ajoute",
+            "sucre",
+            "aux",
+            "au",
+            "vert",
+            "vegetaux",
+            "soda",
+            "gazeuse",
+            "boisson"
+        ],
+        "amino_acids_tags": [],
+        "countries_imported": "France",
+        "ingredients_debug": [
+            "eau gazéifié",
+            ",",
+            null,
+            null,
+            null,
+            " sucre",
+            ",",
+            null,
+            null,
+            null,
+            " colorant ",
+            ":",
+            ":",
+            null,
+            null,
+            " ",
+            "(",
+            "(",
+            null,
+            null,
+            "e150d",
+            " - ",
+            " - ",
+            " - ",
+            null,
+            ")",
+            ",",
+            null,
+            null,
+            null,
+            " acidifiant ",
+            ":",
+            ":",
+            null,
+            null,
+            " ",
+            "(",
+            "(",
+            null,
+            null,
+            "acide phosphorique)",
+            ",",
+            null,
+            null,
+            null,
+            " arômes ",
+            "(",
+            "(",
+            null,
+            null,
+            "dont extraits naturels de végétaux et caféiné)."
+        ],
+        "labels_lc": "fr",
+        "languages_codes": {
+            "fr": 9
+        },
+        "packaging": "Bouteille Plastique,PET,♳",
+        "packaging_debug_tags": [],
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.400.jpg",
+        "last_image_dates_tags": [
+            "2013-08-15",
+            "2013-08",
+            "2013"
+        ],
+        "popularity_key": 5,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [
+            "en:nutrition-value-under-0-1-g-salt"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-not-applicable",
+            "en:ecoscore-not-computed"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "shaolan"
+        ],
+        "last_modified_t": 1619519383,
+        "ingredients": [
+            {
+                "percent_max": 100,
+                "id": "en:carbonated-water",
+                "percent_estimate": 60,
+                "percent_min": 20,
+                "text": "Eau gazéifiée",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 50,
+                "id": "en:sugar",
+                "percent_estimate": 20,
+                "text": "sucre",
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 33.3333333333333,
+                "id": "en:colour",
+                "text": "colorant",
+                "percent_min": 0,
+                "percent_estimate": 10
+            },
+            {
+                "percent_max": 25,
+                "id": "en:acid",
+                "percent_min": 0,
+                "text": "acidifiant",
+                "percent_estimate": 5
+            },
+            {
+                "percent_min": 0,
+                "percent_estimate": 5,
+                "vegan": "maybe",
+                "vegetarian": "maybe",
+                "percent_max": 20,
+                "id": "en:flavouring",
+                "text": "arômes"
+            }
+        ],
+        "nutriscore_grade": "e",
+        "stores": "",
+        "countries": "France",
+        "other_nutritional_substances_tags": [],
+        "cities_tags": [],
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "brands": "Pepsi",
+        "categories": "Boissons, Boissons gazeuses, Sodas, Sodas au cola, Boissons avec sucre ajouté",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+        "ingredients_text_with_allergens": "Eau gazéifiée,sucre,colorant (caramel E150d),acidifiant (acide phosphorique),arômes (dont extraits végétaux et caféine)",
+        "nutrition_grades": "e",
+        "nutrient_levels_tags": [
+            "en:fat-in-low-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-low-quantity"
+        ],
+        "nutrition_data_prepared_per_imported": "100g",
+        "nutrition_data_per_imported": "100g",
+        "known_ingredients_n": 11,
+        "minerals_prev_tags": [],
+        "product_name_fr_imported": "Pepsi 2 L",
+        "product_name": "Pepsi 2 L",
+        "ingredients_text": "Eau gazéifiée,sucre,colorant (caramel E150d),acidifiant (acide phosphorique),arômes (dont extraits végétaux et caféine)",
+        "origins": "",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Eau gazéifiée,sucre,colorant (caramel E150d),acidifiant (acide phosphorique),arômes (dont extraits végétaux et caféine)",
+        "sources_fields": {
+            "org-gs1": {
+                "gln": "3502110007360",
+                "lastChangeDateTime": "2019-11-05T18:37:21+01:00",
+                "partyName": "PEPSICO FRANCE",
+                "isAllergenRelevantDataProvided": "true",
+                "gpcCategoryCode": "10000201"
+            }
+        },
+        "allergens": "",
+        "categories_lc": "fr",
+        "serving_size_imported": "250 ml (pour 250 ml**)",
+        "serving_quantity": "250",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/ingredients_fr.6.100.jpg",
+        "obsolete_imported": "0",
+        "ecoscore_data": {
+            "status": "unknown",
+            "adjustments": {},
+            "ecoscore_not_applicable_for_category": "en:sodas"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/nutrition_fr.7.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/nutrition_fr.7.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/nutrition_fr.7.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/ingredients_fr.6.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/ingredients_fr.6.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/ingredients_fr.6.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.200.jpg"
+                }
+            }
+        },
+        "rev": 12,
+        "origins_old": "",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "org-pepsico-france",
+        "additives_prev_original_tags": [
+            "en:e150d",
+            "en:e338"
+        ],
+        "ingredients_tags": [
+            "en:carbonated-water",
+            "en:water",
+            "en:sugar",
+            "en:colour",
+            "en:acid",
+            "en:flavouring",
+            "en:e150d",
+            "en:e338",
+            "en:vegetable-extract",
+            "en:extract",
+            "en:caffeine"
+        ],
+        "data_sources_tags": [
+            "database-codeonline",
+            "database-gdsn",
+            "databases"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/nutrition_fr.7.100.jpg",
+        "abbreviated_product_name_imported": "Pepsi reg pet 2l maxi format",
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:sodas",
+            "en:colas",
+            "en:sweetened-beverages"
+        ],
+        "quantity_imported": "2000 ml",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "not-applicable",
+        "nutrition_data": "on",
+        "languages": {
+            "en:french": 9
+        },
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-18018",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-18063",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-18018"
+        ],
+        "purchase_places": "",
+        "id": "3502110000880",
+        "sources": [
+            {
+                "import_t": 1619519383,
+                "id": "org-pepsico-france",
+                "fields": [
+                    "product_name_fr",
+                    "abbreviated_product_name",
+                    "generic_name_fr",
+                    "quantity",
+                    "labels",
+                    "conservation_conditions_fr",
+                    "customer_service_fr",
+                    "preparation_fr",
+                    "data_sources",
+                    "serving_size",
+                    "ingredients_text_fr",
+                    "nutrients.energy-kcal_unit",
+                    "nutrients.energy-kcal_value",
+                    "nutrients.salt_value"
+                ],
+                "manufacturer": 1,
+                "url": null,
+                "name": "pepsico-france",
+                "images": []
+            }
+        ],
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Beverages",
+        "allergens_from_user": "(fr) ",
+        "labels_imported": "Point Vert",
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/ingredients_fr.6.400.jpg",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:nutrition-value-under-0-1-g-salt"
+        ],
+        "additives_old_tags": [
+            "en:e150d",
+            "en:e338"
+        ],
+        "origins_hierarchy": [],
+        "labels_hierarchy": [
+            "en:green-dot"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "ecoscore_tags": [
+            "not-applicable"
+        ],
+        "lc_imported": "fr",
+        "complete": 0,
+        "pnns_groups_2": "Sweetened beverages",
+        "nutrition_score_beverage": 1,
+        "new_additives_n": 2,
+        "product_quantity": "2000",
+        "teams": "chocolatine,la-robe-est-bleue",
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.100.jpg",
+        "ingredients_text_debug": "eau gazéifié, sucre, colorant : (e150d - ), acidifiant : (acide phosphorique), arômes (dont extraits naturels de végétaux et caféiné).",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.400.jpg",
+        "_id": "3502110000880",
+        "countries_tags": [
+            "en:france"
+        ],
+        "serving_size": "250 ml (pour 250 ml**)",
+        "ingredients_hierarchy": [
+            "en:carbonated-water",
+            "en:water",
+            "en:sugar",
+            "en:colour",
+            "en:acid",
+            "en:flavouring",
+            "en:e150d",
+            "en:e338",
+            "en:vegetable-extract",
+            "en:extract",
+            "en:caffeine"
+        ],
+        "additives_original_tags": [
+            "en:e150d",
+            "en:e338"
+        ],
+        "stores_tags": [],
+        "nutriscore_score": 15,
+        "compared_to_category": "en:sweetened-beverages",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "9",
+            "1-10"
+        ],
+        "pnns_groups_1_tags": [
+            "beverages",
+            "known"
+        ],
+        "additives_old_n": 2,
+        "packagings": [
+            {
+                "shape": "en:bottle",
+                "material": "en:pet-polyethylene-terephthalate"
+            }
+        ],
+        "preparation_fr_imported": "Servir très frais",
+        "quantity": "2000 ml",
+        "data_quality_errors_tags": [],
+        "data_quality_info_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "brands_tags": [
+            "pepsi"
+        ],
+        "owners_tags": "org-pepsico-france",
+        "ingredients_ids_debug": [
+            "eau-gazeifie",
+            "sucre",
+            "colorant",
+            "e150d",
+            "acidifiant",
+            "acide-phosphorique",
+            "aromes",
+            "dont-extraits-naturels-de-vegetaux-et-cafeine"
+        ],
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+        "ingredients_original_tags": [
+            "en:carbonated-water",
+            "en:sugar",
+            "en:colour",
+            "en:acid",
+            "en:flavouring",
+            "en:e150d",
+            "en:e338",
+            "en:vegetable-extract",
+            "en:caffeine"
+        ],
+        "data_sources": "Database - CodeOnline, Database - GDSN, Databases",
+        "unknown_ingredients_n": 0,
+        "ingredients_text_fr_imported": "Eau gazéifiée,sucre,colorant (caramel E150d),acidifiant (acide phosphorique),arômes (dont extraits végétaux et caféine)",
+        "conservation_conditions_fr_imported": "À consommer de préférence avant: voir sur le bouchon ou le col de la bouteille.",
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "lang_imported": "fr",
+        "max_imgid": "3",
+        "emb_codes": "",
+        "editors": [
+            "shaolan"
+        ],
+        "nutriscore_score_opposite": -15,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/front_fr.4.200.jpg",
+        "generic_name_fr": "Boisson gazeuse rafraîchissante aux extraits végétaux.",
+        "nutriments": {
+            "proteins": 0,
+            "salt_serving": 0.025,
+            "energy_100g": 185,
+            "carbohydrates_unit": "g",
+            "saturated-fat_serving": 0,
+            "energy-kj_100g": 185,
+            "sodium_100g": 0.004,
+            "sugars_100g": 10.9,
+            "energy-kcal": 44,
+            "proteins_serving": 0,
+            "sodium_value": 0.004,
+            "nova-group_serving": 4,
+            "salt_100g": 0.01,
+            "nutrition-score-fr_100g": 15,
+            "energy_unit": "kJ",
+            "salt_unit": "g",
+            "energy-kj_serving": 462,
+            "proteins_unit": "g",
+            "carbohydrates_value": 10.9,
+            "sugars_unit": "g",
+            "sugars_serving": 27.2,
+            "energy-kj_unit": "kJ",
+            "fat_unit": "g",
+            "salt": 0.01,
+            "salt_value": 0.01,
+            "proteins_value": 0,
+            "saturated-fat_100g": 0,
+            "fat_serving": 0,
+            "energy-kcal_100g": 44,
+            "saturated-fat": 0,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+            "fat_value": 0,
+            "energy": 185,
+            "nova-group": 4,
+            "saturated-fat_value": 0,
+            "energy-kcal_value": 44,
+            "nova-group_100g": 4,
+            "energy_serving": 462,
+            "fat_100g": 0,
+            "saturated-fat_unit": "g",
+            "energy_value": 185,
+            "sodium_serving": 0.01,
+            "energy-kj_value": 185,
+            "energy-kj": 185,
+            "sugars_value": 10.9,
+            "proteins_100g": 0,
+            "sodium_unit": "g",
+            "nutrition-score-fr": 15,
+            "carbohydrates_serving": 27.2,
+            "carbohydrates_100g": 10.9,
+            "sodium": 0.004,
+            "sugars": 10.9,
+            "carbohydrates": 10.9,
+            "energy-kcal_serving": 110,
+            "fat": 0,
+            "energy-kcal_unit": "kcal"
+        },
+        "generic_name_fr_imported": "Boisson gazeuse rafraîchissante aux extraits végétaux.",
+        "purchase_places_tags": [],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/ingredients_fr.6.200.jpg",
+        "abbreviated_product_name": "Pepsi reg pet 2l maxi format",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/350/211/000/0880/nutrition_fr.7.200.jpg",
+        "conservation_conditions": "À consommer de préférence avant: voir sur le bouchon ou le col de la bouteille.",
+        "owner": "org-pepsico-france"
+    },
+    "status_verbose": "product found"
+}

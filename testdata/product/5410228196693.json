@@ -1,0 +1,678 @@
+{
+    "status": 1,
+    "code": "5410228196693",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "popularity_tags": [
+            "top-country-be-scans-2019",
+            "bottom-25-percent-scans-2020",
+            "bottom-20-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-50000-be-scans-2020",
+            "top-100000-be-scans-2020",
+            "top-country-be-scans-2020"
+        ],
+        "categories_tags": [
+            "en:beverages",
+            "en:alcoholic-beverages",
+            "en:beers",
+            "en:lagers"
+        ],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [],
+        "informers": [
+            "manu1400"
+        ],
+        "origins_tags": [
+            "en:belgium"
+        ],
+        "product_name_fr": "Bière Tauro",
+        "generic_name": "Bière",
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1332930009,
+        "additives_n": 0,
+        "emb_codes_20141016": "",
+        "pnns_groups_2_tags": [
+            "alcoholic-beverages",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "malikele",
+            "manu1400"
+        ],
+        "sortkey": 1346453678,
+        "categories_old": "Boissons, Boissons alcoolisées, Bières, Bières blondes",
+        "categories_properties": {
+            "ciqual_food_code:en": "5001",
+            "agribalyse_proxy_food_code:en": "5000",
+            "agribalyse_food_code:en": "5001"
+        },
+        "completeness": 0.783333333333333,
+        "traces_from_user": "(fr) ",
+        "labels_tags": [],
+        "nutrition_grades_tags": [
+            "not-applicable"
+        ],
+        "informers_tags": [
+            "malikele",
+            "manu1400"
+        ],
+        "lang": "fr",
+        "vitamins_tags": [],
+        "origins_lc": "fr",
+        "interface_version_modified": "20120622",
+        "additives_tags": [],
+        "unique_scans_n": 1,
+        "unknown_nutrients_tags": [],
+        "nova_group_debug": "no nova group if too many ingredients are unknown: 2 out of 1",
+        "countries_hierarchy": [
+            "en:belgium"
+        ],
+        "traces_tags": [],
+        "packaging_tags": [
+            "bouteille"
+        ],
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.100.jpg",
+        "ingredients_analysis_tags": [
+            "en:palm-oil-content-unknown",
+            "en:vegan-status-unknown",
+            "en:vegetarian-status-unknown"
+        ],
+        "nutrient_levels": {},
+        "nova_group_tags": [
+            "not-applicable"
+        ],
+        "created_t": 1332929839,
+        "amino_acids_prev_tags": [],
+        "nucleotides_tags": [],
+        "scans_n": 1,
+        "images": {
+            "1": {
+                "uploaded_t": 1332929840,
+                "uploader": "malikele",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "front": {
+                "rev": "13",
+                "white_magic": "checked",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 104
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 26
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 52
+                    },
+                    "full": {
+                        "h": 1890,
+                        "w": 490
+                    }
+                },
+                "geometry": "490x1890-460-45",
+                "imgid": "2"
+            },
+            "ingredients": {
+                "rev": "7",
+                "white_magic": null,
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 157,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 39,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 545,
+                        "w": 1385
+                    },
+                    "200": {
+                        "h": 79,
+                        "w": 200
+                    }
+                },
+                "geometry": "1385x545-270-645",
+                "imgid": "3"
+            },
+            "front_fr": {
+                "rev": "13",
+                "white_magic": "checked",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 104
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 26
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 52
+                    },
+                    "full": {
+                        "h": 1890,
+                        "w": 490
+                    }
+                },
+                "geometry": "490x1890-460-45",
+                "imgid": "2"
+            },
+            "2": {
+                "uploaded_t": 1332929858,
+                "uploader": "malikele",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": 1332930009,
+                "uploader": "malikele",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "rev": "7",
+                "white_magic": null,
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 157,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 39,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 545,
+                        "w": 1385
+                    },
+                    "200": {
+                        "h": 79,
+                        "w": 200
+                    }
+                },
+                "geometry": "1385x545-270-645",
+                "imgid": "3"
+            }
+        },
+        "ingredients_text_with_allergens_fr": "Contient du malt d'orge\r\nAlcool 8,3 % Vol.",
+        "ingredients_n": 1,
+        "editors_tags": [
+            "manu1400",
+            "malikele"
+        ],
+        "allergens_tags": [],
+        "countries_lc": "fr",
+        "update_key": "key_1618065313",
+        "nucleotides_prev_tags": [],
+        "code": "5410228196693",
+        "codes_tags": [
+            "code-13",
+            "5410228196693",
+            "541022819669x",
+            "54102281966xx",
+            "5410228196xxx",
+            "541022819xxxx",
+            "54102281xxxxx",
+            "5410228xxxxxx",
+            "541022xxxxxxx",
+            "54102xxxxxxxx",
+            "5410xxxxxxxxx",
+            "541xxxxxxxxxx",
+            "54xxxxxxxxxxx",
+            "5xxxxxxxxxxxx"
+        ],
+        "labels": "",
+        "emb_code": "",
+        "last_modified_by": "manu1400",
+        "last_edit_dates_tags": [
+            "2012-09-01",
+            "2012-09",
+            "2012"
+        ],
+        "entry_dates_tags": [
+            "2012-03-28",
+            "2012-03",
+            "2012"
+        ],
+        "creator": "malikele",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "biere",
+            "blonde",
+            "belgique",
+            "tauro",
+            "jupiler"
+        ],
+        "amino_acids_tags": [],
+        "ingredients_debug": [
+            "Contient du malt d'orge\r\nAlcool 8",
+            ",",
+            null,
+            null,
+            null,
+            "3 % Vol."
+        ],
+        "languages_codes": {
+            "fr": 5
+        },
+        "labels_lc": "fr",
+        "packaging": "Bouteille",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.400.jpg",
+        "popularity_key": 1,
+        "last_image_dates_tags": [
+            "2012-03-28",
+            "2012-03",
+            "2012"
+        ],
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [
+            "en:ingredients-unknown-score-above-0",
+            "en:ingredients-100-percent-unknown",
+            "en:alcoholic-beverages-category-without-alcohol-value"
+        ],
+        "misc_tags": [
+            "en:nutriscore-not-computed",
+            "en:nutriscore-not-applicable",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "countries_debug_tags": [],
+        "nutrition_data_per": "100g",
+        "ecoscore_score": 47,
+        "photographers_tags": [
+            "malikele"
+        ],
+        "last_modified_t": 1346453678,
+        "ingredients": [
+            {
+                "percent_max": 100,
+                "id": "fr:Alcool 8,3 % Vol",
+                "text": "Alcool 8.3% Vol",
+                "percent_estimate": 100,
+                "percent_min": 100
+            }
+        ],
+        "stores": "",
+        "countries": "Belgique",
+        "cities_tags": [],
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "other_nutritional_substances_tags": [],
+        "brands": "Jupiler",
+        "categories": "Boissons, Boissons alcoolisées, Bières, Bières blondes",
+        "ingredients_text_with_allergens": "Contient du malt d'orge\r\nAlcool 8,3 % Vol.",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+        "nutrient_levels_tags": [],
+        "known_ingredients_n": 0,
+        "minerals_prev_tags": [],
+        "ingredients_text": "Contient du malt d'orge\r\nAlcool 8,3 % Vol.",
+        "product_name": "Bière Tauro",
+        "origins": "Belgique",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Contient du malt d'orge\r\nAlcool 8,3 % Vol.",
+        "categories_lc": "fr",
+        "allergens": "",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/ingredients_fr.7.100.jpg",
+        "photographers": [
+            "manu1400"
+        ],
+        "ecoscore_data": {
+            "grade_be": "b",
+            "status": "known",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 13,
+                    "transportation_value_es": 3,
+                    "transportation_value_be": 15,
+                    "transportation_value_ch": 11,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:belgium",
+                            "percent": 100
+                        }
+                    ],
+                    "transportation_score_be": 100,
+                    "epi_score": 74,
+                    "transportation_score_ch": 71,
+                    "epi_value": 2,
+                    "transportation_score_ie": 51,
+                    "value_nl": 16,
+                    "value_ie": 10,
+                    "value_fr": 15,
+                    "transportation_value_de": 11,
+                    "value_be": 17,
+                    "value_es": 5,
+                    "transportation_score_it": 45,
+                    "transportation_value_ie": 8,
+                    "transportation_score_de": 76,
+                    "transportation_score_fr": 85,
+                    "origins_from_origins_field": [
+                        "en:belgium"
+                    ],
+                    "transportation_value_lu": 13,
+                    "transportation_value_nl": 14,
+                    "value_ch": 13,
+                    "transportation_score_es": 21,
+                    "value_de": 13,
+                    "transportation_value_it": 7,
+                    "transportation_score_lu": 89,
+                    "value_it": 9,
+                    "value_lu": 15,
+                    "transportation_score_nl": 92
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 0,
+                    "packagings": [
+                        {
+                            "shape": "en:bottle",
+                            "material": "en:unknown",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "warning": "unspecified_material",
+                    "score": 0
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "b",
+            "score": 47,
+            "grade_de": "b",
+            "missing_data_warning": 1,
+            "grade_nl": "b",
+            "score_be": 64,
+            "agribalyse": {
+                "co2_transportation": "0.268586",
+                "ef_distribution": "0.0088128735",
+                "name_fr": "Bière \"coeur de marché\" (4-5° alcool)",
+                "score": 57,
+                "agribalyse_food_code": "5001",
+                "ef_agriculture": "0.0084453762",
+                "ef_consumption": "0.0024293397",
+                "name_en": "Beer, regular (4-5° alcohol)",
+                "co2_total": "1.0944464",
+                "ef_packaging": "0.051649676000000005",
+                "ef_processing": "0.031844848999999995",
+                "is_beverage": 1,
+                "dqr": "2.84",
+                "co2_processing": "0.25081748",
+                "code": "5001",
+                "co2_consumption": "0.0047993021",
+                "co2_distribution": "0.028932423",
+                "ef_total": "0.12383059000000002",
+                "co2_agriculture": "0.044404353",
+                "ef_transportation": "0.02064847",
+                "co2_packaging": "0.49690685"
+            },
+            "grade_it": "c",
+            "score_nl": 63,
+            "score_ch": 60,
+            "missing": {
+                "packagings": 1,
+                "labels": 1
+            },
+            "grade_ie": "c",
+            "score_fr": 62,
+            "score_de": 60,
+            "score_lu": 62,
+            "score_ie": 57,
+            "score_it": 56,
+            "score_es": 52,
+            "grade_lu": "b",
+            "grade": "c",
+            "grade_ch": "b",
+            "grade_es": "c"
+        },
+        "selected_images": {
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/541/022/819/6693/ingredients_fr.7.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/541/022/819/6693/ingredients_fr.7.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/541/022/819/6693/ingredients_fr.7.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.200.jpg"
+                }
+            }
+        },
+        "rev": 16,
+        "origins_old": "Belgique",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "manu1400",
+        "additives_prev_original_tags": [],
+        "ingredients_tags": [
+            "fr:alcool-8",
+            "fr:3-vol"
+        ],
+        "labels_prev_tags": [],
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:beverages",
+            "en:alcoholic-beverages",
+            "en:beers",
+            "en:lagers"
+        ],
+        "ecoscore_grade": "c",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "labels_prev_hierarchy": [],
+        "ingredients_percent_analysis": 1,
+        "languages": {
+            "en:french": 5
+        },
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-5001",
+            "agribalyse-food-code-known",
+            "agribalyse-proxy-food-code-5000",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-5001",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-5001"
+        ],
+        "purchase_places": "",
+        "no_nutrition_data": null,
+        "allergens_from_user": "(fr) ",
+        "checkers": [],
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/ingredients_fr.7.400.jpg",
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:ingredients-unknown-score-above-0",
+            "en:ingredients-100-percent-unknown",
+            "en:alcoholic-beverages-category-without-alcohol-value"
+        ],
+        "additives_old_tags": [],
+        "ingredients_from_palm_oil_n": 0,
+        "ecoscore_tags": [
+            "c"
+        ],
+        "labels_hierarchy": [],
+        "origins_hierarchy": [
+            "en:belgium"
+        ],
+        "complete": 0,
+        "pnns_groups_2": "Alcoholic beverages",
+        "nutrition_score_beverage": 1,
+        "new_additives_n": 0,
+        "product_quantity": 330,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.100.jpg",
+        "ingredients_text_debug": "Contient du malt d'orge\r\nAlcool 8,3 % Vol.",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.400.jpg",
+        "_id": "5410228196693",
+        "countries_tags": [
+            "en:belgium"
+        ],
+        "ingredients_hierarchy": [
+            "fr:Alcool 8",
+            "fr:3 % Vol"
+        ],
+        "not_names_tags": [
+            "",
+            "stabilisant"
+        ],
+        "stores_tags": [],
+        "additives_original_tags": [],
+        "compared_to_category": "en:lagers",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "correctors": [],
+        "ingredients_n_tags": [
+            "1",
+            "1-10"
+        ],
+        "nutrition_score_debug": "no nutriscore for category en:alcoholic-beverages",
+        "additives_old_n": 0,
+        "packagings": [
+            {
+                "shape": "en:bottle"
+            }
+        ],
+        "brands_tags": [
+            "jupiler"
+        ],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "data_quality_errors_tags": [],
+        "quantity": "33 cl",
+        "ingredients_ids_debug": [
+            "contient-du-malt-d-orge-alcool-8",
+            "3-vol"
+        ],
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "ingredients_original_tags": [
+            "fr:Alcool 8,3 % Vol"
+        ],
+        "unknown_ingredients_n": "2",
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "emb_codes": "",
+        "max_imgid": "3",
+        "editors": [
+            "manu1400",
+            "malikele"
+        ],
+        "image_small_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/front_fr.13.200.jpg",
+        "generic_name_fr": "Bière",
+        "nutriments": {
+            "alcohol": 8.3,
+            "alcohol_100g": 8.3,
+            "alcohol_serving": 8.3,
+            "alcohol_unit": "% vol",
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0
+        },
+        "purchase_places_tags": [],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/541/022/819/6693/ingredients_fr.7.200.jpg"
+    },
+    "status_verbose": "product found"
+}

@@ -1,0 +1,823 @@
+{
+    "status": 1,
+    "code": "22007377",
+    "product": {
+        "lc": "en",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "categories_tags": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:cereals-and-potatoes",
+            "en:seeds",
+            "en:cereals-and-their-products",
+            "en:cereal-grains",
+            "en:rices",
+            "en:asian-foods"
+        ],
+        "traces_hierarchy": [],
+        "allergens_hierarchy": [],
+        "origins_tags": [
+            "en:thailand"
+        ],
+        "generic_name": "",
+        "languages_hierarchy": [
+            "en:english"
+        ],
+        "last_image_t": 1463725186,
+        "additives_n": 0,
+        "pnns_groups_2_tags": [
+            "cereals",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "ingredients_text_with_allergens_en": "jasmine Rice",
+        "correctors_tags": [
+            "foodorigins"
+        ],
+        "sortkey": 1463886036,
+        "categories_old": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Seeds, Cereals and their products, Cereal grains, Rices, Asian Foods",
+        "categories_properties": {
+            "agribalyse_proxy_food_code:en": "9101"
+        },
+        "completeness": 0.9,
+        "traces_from_user": "(en) ",
+        "labels_tags": [
+            "en:gluten-free",
+            "en:no-preservatives"
+        ],
+        "nutrition_grades_tags": [
+            "b"
+        ],
+        "informers_tags": [
+            "foodorigins"
+        ],
+        "lang": "en",
+        "vitamins_tags": [],
+        "origins_lc": "en",
+        "interface_version_modified": "20120622",
+        "additives_tags": [],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/22007377/nutrition_en.15.400.jpg",
+        "generic_name_en": "",
+        "unknown_nutrients_tags": [],
+        "countries_hierarchy": [
+            "en:australia"
+        ],
+        "nova_group_debug": "",
+        "traces_tags": [],
+        "packaging_tags": [
+            "plastic"
+        ],
+        "nova_groups": "1",
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.100.jpg",
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:vegan",
+            "en:vegetarian"
+        ],
+        "nutrient_levels": {
+            "sugars": "low",
+            "salt": "low",
+            "fat": "low",
+            "saturated-fat": "low"
+        },
+        "nova_group_tags": [
+            "not-applicable"
+        ],
+        "nutriscore_data": {
+            "proteins": 2,
+            "negative_points": 1,
+            "sugars_points": 0,
+            "sodium_value": 5.1,
+            "score": 0,
+            "positive_points": 1,
+            "saturated_fat_value": 0.1,
+            "is_water": 0,
+            "proteins_points": 1,
+            "saturated_fat_points": 0,
+            "saturated_fat_ratio": 100,
+            "proteins_value": 2,
+            "saturated_fat_ratio_points": 10,
+            "fiber_points": 0,
+            "grade": "b",
+            "is_cheese": 0,
+            "energy": 419,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+            "fiber": 0,
+            "energy_points": 1,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 0,
+            "is_fat": 0,
+            "energy_value": 419,
+            "is_beverage": 0,
+            "fiber_value": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+            "saturated_fat_ratio_value": 100,
+            "sugars_value": 1,
+            "saturated_fat": 0.1,
+            "sodium": 5.08,
+            "sugars": 1
+        },
+        "created_t": 1424068037,
+        "nova_group": 1,
+        "amino_acids_prev_tags": [],
+        "nutrition_grade_fr": "b",
+        "nucleotides_tags": [],
+        "images": {
+            "nutrition_en": {
+                "rev": "15",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 391,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 98,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 670,
+                        "w": 685
+                    },
+                    "200": {
+                        "h": 196,
+                        "w": 200
+                    }
+                },
+                "normalize": "true",
+                "geometry": "685x670-196-289",
+                "imgid": "3"
+            },
+            "front_en": {
+                "rev": "13",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 299
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    },
+                    "full": {
+                        "h": 1450,
+                        "w": 1085
+                    }
+                },
+                "normalize": "true",
+                "geometry": "1085x1450-11-356",
+                "imgid": "2"
+            },
+            "ingredients_en": {
+                "rev": "14",
+                "white_magic": "false",
+                "normalize": "true",
+                "sizes": {
+                    "400": {
+                        "h": 154,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 38,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 77,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 275,
+                        "w": 715
+                    }
+                },
+                "geometry": "715x275-196-1307",
+                "imgid": "2"
+            },
+            "1": {
+                "uploaded_t": 1424068165,
+                "uploader": "foodorigins",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            },
+            "front": {
+                "rev": "9",
+                "white_magic": "false",
+                "geometry": "990x1370-71-435",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 289
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 72
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 145
+                    },
+                    "full": {
+                        "h": 1370,
+                        "w": 990
+                    }
+                },
+                "normalize": "true",
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": "1463725174",
+                "uploader": "foodorigins",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": "1463725185",
+                "uploader": "foodorigins",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            }
+        },
+        "ingredients_n": 1,
+        "editors_tags": [
+            "foodorigins"
+        ],
+        "allergens_tags": [],
+        "countries_lc": "en",
+        "update_key": "key_1618065313",
+        "nucleotides_prev_tags": [],
+        "completed_t": 1463886036,
+        "nova_groups_tags": [
+            "en:1-unprocessed-or-minimally-processed-foods"
+        ],
+        "code": "22007377",
+        "manufacturing_places": "Thailand",
+        "codes_tags": [
+            "code-8",
+            "22007377",
+            "2200737x",
+            "220073xx",
+            "22007xxx",
+            "2200xxxx",
+            "220xxxxx",
+            "22xxxxxx",
+            "2xxxxxxx"
+        ],
+        "labels": "Gluten-free, No preservatives",
+        "last_modified_by": "foodorigins",
+        "last_edit_dates_tags": [
+            "2016-05-22",
+            "2016-05",
+            "2016"
+        ],
+        "entry_dates_tags": [
+            "2015-02-16",
+            "2015-02",
+            "2015"
+        ],
+        "creator": "foodorigins",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "grain",
+            "thailand",
+            "no",
+            "imperial",
+            "seed",
+            "preservative",
+            "aldi",
+            "beverage",
+            "gluten-free",
+            "rice",
+            "plant-based",
+            "food",
+            "their",
+            "asian",
+            "potatoe",
+            "product",
+            "cereal",
+            "and",
+            "jasmine"
+        ],
+        "amino_acids_tags": [],
+        "link": "",
+        "ingredients_debug": [
+            "jasmine Rice"
+        ],
+        "languages_codes": {
+            "en": 5
+        },
+        "labels_lc": "en",
+        "packaging": "Plastic",
+        "ingredients_text_en": "jasmine Rice",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.400.jpg",
+        "popularity_key": 0,
+        "last_image_dates_tags": [
+            "2016-05-20",
+            "2016-05",
+            "2016"
+        ],
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.200.jpg",
+        "expiration_date": "04/April/2017",
+        "data_quality_warnings_tags": [
+            "en:nutrition-value-under-0-1-g-salt",
+            "en:nutrition-value-very-low-for-category-energy",
+            "en:nutrition-value-very-low-for-category-carbohydrates",
+            "en:nutrition-value-very-low-for-category-proteins"
+        ],
+        "misc_tags": [
+            "en:nutrition-no-fiber",
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+            "en:nutriscore-computed",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "states_tags": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "debug_param_sorted_langs": [
+            "en"
+        ],
+        "ecoscore_score": 64,
+        "photographers_tags": [
+            "foodorigins"
+        ],
+        "last_modified_t": 1463886036,
+        "ingredients": [
+            {
+                "percent_max": 100,
+                "id": "en:thai-rice",
+                "text": "jasmine Rice",
+                "percent_estimate": 100,
+                "percent_min": 100,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            }
+        ],
+        "nutriscore_grade": "b",
+        "stores": "Aldi",
+        "countries": "Australia",
+        "cities_tags": [],
+        "other_nutritional_substances_tags": [],
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "brands": "Imperial Grain,Aldi",
+        "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Seeds, Cereals and their products, Cereal grains, Rices, Asian Foods",
+        "ingredients_text_with_allergens": "jasmine Rice",
+        "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+        "nutrition_grades": "b",
+        "nutrient_levels_tags": [
+            "en:fat-in-low-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-low-quantity",
+            "en:salt-in-low-quantity"
+        ],
+        "known_ingredients_n": 2,
+        "minerals_prev_tags": [],
+        "ingredients_text": "jasmine Rice",
+        "product_name": "Imperial Grain Jasmine Rice",
+        "origins": "Thailand",
+        "languages_tags": [
+            "en:english",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "categories_lc": "en",
+        "serving_quantity": 70,
+        "allergens": "",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/22007377/ingredients_en.14.100.jpg",
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "b",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_es": 4,
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 2,
+                    "transportation_value_ch": 1,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:thailand",
+                            "percent": 100
+                        }
+                    ],
+                    "transportation_score_be": 12,
+                    "epi_score": 0,
+                    "transportation_score_ch": 9,
+                    "epi_value": -5,
+                    "transportation_score_ie": 0,
+                    "value_nl": -3,
+                    "value_ie": -5,
+                    "transportation_value_de": 2,
+                    "value_fr": -5,
+                    "value_be": -3,
+                    "value_es": -1,
+                    "transportation_score_it": 16,
+                    "transportation_value_ie": 0,
+                    "transportation_score_de": 12,
+                    "transportation_score_fr": 0,
+                    "origins_from_origins_field": [
+                        "en:thailand"
+                    ],
+                    "transportation_value_lu": 0,
+                    "transportation_value_nl": 2,
+                    "value_ch": -4,
+                    "transportation_score_es": 25,
+                    "value_de": -3,
+                    "transportation_value_it": 2,
+                    "transportation_score_lu": 3,
+                    "value_it": -3,
+                    "value_lu": -5,
+                    "transportation_score_nl": 12
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:unknown",
+                            "material": "en:plastic",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": "0"
+                        }
+                    ],
+                    "warning": "unspecified_shape",
+                    "score": 0
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "c",
+            "score": 64,
+            "grade_de": "b",
+            "missing_data_warning": 1,
+            "grade_nl": "b",
+            "score_be": 61,
+            "agribalyse": {
+                "co2_transportation": "0.34443618",
+                "ef_distribution": "0.011252758",
+                "name_fr": "Riz blanc étuvé, cru",
+                "score": 74,
+                "ef_consumption": "0",
+                "ef_agriculture": "0.24879545",
+                "name_en": "Rice, parboiled, raw",
+                "ef_packaging": "0.019987624",
+                "co2_total": "2.1617032",
+                "ef_processing": "0",
+                "is_beverage": 0,
+                "code": "9101",
+                "dqr": "3.61",
+                "co2_processing": "0",
+                "agribalyse_proxy_food_code": "9101",
+                "co2_consumption": "0",
+                "ef_total": "0.31474413",
+                "co2_distribution": "0.030159429",
+                "co2_agriculture": "1.5176977",
+                "ef_transportation": "0.034708291",
+                "co2_packaging": "0.26940995"
+            },
+            "grade_it": "b",
+            "score_nl": 61,
+            "grade_ie": "c",
+            "missing": {
+                "packagings": 1,
+                "labels": 1
+            },
+            "score_ch": 60,
+            "score_de": 61,
+            "score_fr": 59,
+            "score_ie": 59,
+            "score_lu": 59,
+            "score_it": 61,
+            "score_es": 63,
+            "grade_es": "b",
+            "grade_ch": "b",
+            "grade": "b",
+            "grade_lu": "c"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/nutrition_en.15.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/nutrition_en.15.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/nutrition_en.15.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/ingredients_en.14.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/ingredients_en.14.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/ingredients_en.14.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.200.jpg"
+                }
+            }
+        },
+        "rev": 16,
+        "origins_old": "Thailand",
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "foodorigins",
+        "additives_prev_original_tags": [],
+        "ingredients_tags": [
+            "en:thai-rice",
+            "en:rice"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/22007377/nutrition_en.15.100.jpg",
+        "labels_prev_tags": [
+            "en:gluten-free",
+            "en:no-preservatives"
+        ],
+        "product_name_en": "Imperial Grain Jasmine Rice",
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:cereals-and-potatoes",
+            "en:seeds",
+            "en:cereals-and-their-products",
+            "en:cereal-grains",
+            "en:rices",
+            "en:Asian Foods"
+        ],
+        "ecoscore_grade": "b",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "labels_prev_hierarchy": [
+            "en:gluten-free",
+            "en:no-preservatives"
+        ],
+        "nutrition_data": "on",
+        "ingredients_percent_analysis": 1,
+        "languages": {
+            "en:english": 5
+        },
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-9101",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-unknown",
+            "agribalyse-known",
+            "agribalyse-9101"
+        ],
+        "purchase_places": "Sydney,NSw,Australia",
+        "id": "22007377",
+        "no_nutrition_data": null,
+        "pnns_groups_1": "Cereals and potatoes",
+        "allergens_from_user": "(en) ",
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/22007377/ingredients_en.14.400.jpg",
+        "nutrition_score_warning_no_fiber": 1,
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:nutrition-value-under-0-1-g-salt",
+            "en:nutrition-value-very-low-for-category-energy",
+            "en:nutrition-value-very-low-for-category-carbohydrates",
+            "en:nutrition-value-very-low-for-category-proteins"
+        ],
+        "additives_old_tags": [],
+        "ingredients_from_palm_oil_n": 0,
+        "ecoscore_tags": [
+            "b"
+        ],
+        "labels_hierarchy": [
+            "en:gluten-free",
+            "en:no-preservatives"
+        ],
+        "origins_hierarchy": [
+            "en:thailand"
+        ],
+        "complete": 1,
+        "pnns_groups_2": "Cereals",
+        "nutrition_score_beverage": 0,
+        "product_quantity": 1000,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.100.jpg",
+        "ingredients_text_debug": "jasmine Rice",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.400.jpg",
+        "_id": "22007377",
+        "countries_tags": [
+            "en:australia"
+        ],
+        "ingredients_hierarchy": [
+            "en:thai-rice",
+            "en:rice"
+        ],
+        "serving_size": "70g uncooked rice - 245g cooked rice",
+        "stores_tags": [
+            "aldi"
+        ],
+        "additives_original_tags": [],
+        "nutriscore_score": 0,
+        "compared_to_category": "en:rices",
+        "states_hierarchy": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "1",
+            "1-10"
+        ],
+        "pnns_groups_1_tags": [
+            "cereals-and-potatoes",
+            "known"
+        ],
+        "additives_old_n": 0,
+        "packagings": [
+            {
+                "material": "en:plastic"
+            }
+        ],
+        "brands_tags": [
+            "imperial-grain",
+            "aldi"
+        ],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "data_quality_errors_tags": [],
+        "quantity": "1kg",
+        "ingredients_ids_debug": [
+            "jasmine-rice"
+        ],
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+        "ingredients_original_tags": [
+            "en:thai-rice"
+        ],
+        "unknown_ingredients_n": 0,
+        "manufacturing_places_tags": [
+            "thailand"
+        ],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "emb_codes": "",
+        "max_imgid": "3",
+        "editors": [
+            "foodorigins"
+        ],
+        "nutriscore_score_opposite": 0,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/22007377/front_en.13.200.jpg",
+        "nutriments": {
+            "salt_serving": 0.00889,
+            "proteins": 2,
+            "energy_100g": 419,
+            "carbohydrates_unit": "g",
+            "saturated-fat_serving": 0.07,
+            "energy-kj_100g": 419,
+            "sodium_100g": 0.00508,
+            "sugars_100g": 1,
+            "proteins_serving": 1.4,
+            "sodium_value": 5.08,
+            "nova-group_serving": 1,
+            "salt_100g": 0.0127,
+            "energy_unit": "kJ",
+            "nutrition-score-fr_100g": 0,
+            "energy-kj_serving": 293,
+            "salt_unit": "mg",
+            "proteins_unit": "g",
+            "carbohydrates_value": 22.4,
+            "saturated-fat_modifier": ">",
+            "sugars_unit": "g",
+            "sugars_serving": 0.7,
+            "energy-kj_unit": "kJ",
+            "fat_unit": "g",
+            "salt": 0.0127,
+            "salt_value": 12.7,
+            "proteins_value": 2,
+            "saturated-fat_100g": 0.1,
+            "fat_serving": 0.07,
+            "saturated-fat": 0.1,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+            "fat_value": 0.1,
+            "nova-group": 1,
+            "energy": 419,
+            "saturated-fat_value": 0.1,
+            "sodium_modifier": ">",
+            "sugars_modifier": ">",
+            "nova-group_100g": 1,
+            "fat_100g": 0.1,
+            "energy_serving": 293,
+            "saturated-fat_unit": "g",
+            "energy_value": 419,
+            "sodium_serving": 0.00356,
+            "energy-kj_value": 419,
+            "energy-kj": 419,
+            "sugars_value": 1,
+            "proteins_100g": 2,
+            "salt_modifier": ">",
+            "nutrition-score-fr": 0,
+            "sodium_unit": "mg",
+            "carbohydrates_serving": 15.7,
+            "carbohydrates_100g": 22.4,
+            "sodium": 0.00508,
+            "sugars": 1,
+            "carbohydrates": 22.4,
+            "fat": 0.1
+        },
+        "purchase_places_tags": [
+            "sydney",
+            "nsw",
+            "australia"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/22007377/ingredients_en.14.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/22007377/nutrition_en.15.200.jpg",
+        "additives_tags_n": null
+    },
+    "status_verbose": "product found"
+}

@@ -1,0 +1,1141 @@
+{
+    "status": 1,
+    "code": "9300601768226",
+    "product": {
+        "lc": "en",
+        "traces_from_ingredients": "",
+        "category_properties": {
+            "ciqual_food_name:fr": "Houmous",
+            "ciqual_food_name:en": "Hummus"
+        },
+        "categories_tags": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:spreads",
+            "en:salted-spreads",
+            "en:plant-based-spreads",
+            "en:hummus"
+        ],
+        "traces_hierarchy": [
+            "en:nuts"
+        ],
+        "allergens_hierarchy": [
+            "en:sesame-seeds"
+        ],
+        "origins_tags": [
+            "en:australia"
+        ],
+        "generic_name": "",
+        "languages_hierarchy": [
+            "en:english"
+        ],
+        "last_image_t": 1462775940,
+        "additives_n": 2,
+        "emb_codes_20141016": "",
+        "allergens_lc": "en",
+        "pnns_groups_2_tags": [
+            "salty-and-fatty-products",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "foodorigins",
+            "moon-rabbit"
+        ],
+        "ingredients_text_with_allergens_en": "Cooked Chickpeas (72%), Canola Oil, Tahini (8%), (<span class=\"allergen\">Sesame Seeds</span>), Garlic, Salt, Extra Virgin Olive Oil, Lemon Juice Concentrate, Vinegar, Acidity Regulator (330), Thickener (415). CONTAINS <span class=\"allergen\">SESAME</span>",
+        "sortkey": 1574619108,
+        "categories_old": "Plant-based foods and beverages, Plant-based foods, Spreads, Salted spreads, Plant-based spreads, Hummus",
+        "completeness": 0.9,
+        "categories_properties": {
+            "ciqual_food_code:en": "25621",
+            "agribalyse_food_code:en": "25621"
+        },
+        "traces_from_user": "(en) en:nuts",
+        "labels_tags": [
+            "en:gluten-free",
+            "en:australian-made",
+            "en:gf"
+        ],
+        "nutrition_grades_tags": [
+            "a"
+        ],
+        "informers_tags": [
+            "foodorigins"
+        ],
+        "vitamins_tags": [],
+        "lang": "en",
+        "downgraded": "non_recyclable_and_non_biodegradable_materials",
+        "origins_lc": "en",
+        "interface_version_modified": "20190830",
+        "additives_tags": [
+            "en:e330",
+            "en:e415"
+        ],
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/nutrition_en.11.400.jpg",
+        "unknown_nutrients_tags": [],
+        "generic_name_en": "",
+        "countries_hierarchy": [
+            "en:australia"
+        ],
+        "nova_group_debug": " -- ingredients/en:salt : 3 -- ingredients/en:thickener : 4",
+        "obsolete_since_date": "",
+        "traces_tags": [
+            "en:nuts"
+        ],
+        "packaging_tags": [
+            "plastic",
+            "cardboard"
+        ],
+        "nova_groups": "4",
+        "allergens_from_ingredients": "Sesame Seeds, SESAME",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.100.jpg",
+        "ingredients_analysis_tags": [
+            "en:palm-oil-content-unknown",
+            "en:vegan-status-unknown",
+            "en:vegetarian-status-unknown"
+        ],
+        "nutrient_levels": {
+            "salt": "moderate",
+            "sugars": "low",
+            "saturated-fat": "moderate",
+            "fat": "moderate"
+        },
+        "nutriscore_data": {
+            "proteins": 6.8,
+            "negative_points": 5,
+            "sugars_points": 0,
+            "score": -4,
+            "sodium_value": 375.9,
+            "positive_points": 9,
+            "is_water": 0,
+            "saturated_fat_value": 1.6,
+            "proteins_points": 4,
+            "saturated_fat_points": 1,
+            "saturated_fat_ratio": 8.55614973262032,
+            "proteins_value": 6.8,
+            "saturated_fat_ratio_points": 0,
+            "fiber_points": 5,
+            "grade": "a",
+            "is_cheese": 0,
+            "energy": 266,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 8,
+            "fiber": 5.5,
+            "energy_points": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 4,
+            "is_fat": 0,
+            "energy_value": 266,
+            "is_beverage": 0,
+            "fiber_value": 5.5,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 8,
+            "saturated_fat_ratio_value": 8.6,
+            "sugars_value": 0.4,
+            "saturated_fat": 1.6,
+            "sodium": 375.92,
+            "sugars": 0.4
+        },
+        "created_t": 1462775905,
+        "amino_acids_prev_tags": [],
+        "nova_group": 4,
+        "nutrition_grade_fr": "a",
+        "nucleotides_tags": [],
+        "images": {
+            "front_en": {
+                "rev": "8",
+                "white_magic": "false",
+                "geometry": "1125x1085-394-27",
+                "normalize": "true",
+                "sizes": {
+                    "400": {
+                        "h": 386,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 96,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1085,
+                        "w": 1125
+                    },
+                    "200": {
+                        "h": 193,
+                        "w": 200
+                    }
+                },
+                "imgid": "2"
+            },
+            "nutrition": {
+                "rev": "11",
+                "white_magic": "false",
+                "normalize": "true",
+                "sizes": {
+                    "400": {
+                        "h": 396,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 99,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 198,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 915,
+                        "w": 925
+                    }
+                },
+                "geometry": "925x915-146-401",
+                "imgid": "3"
+            },
+            "ingredients": {
+                "rev": "10",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 141,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 35,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 71,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 380,
+                        "w": 1075
+                    }
+                },
+                "normalize": "true",
+                "geometry": "1075x380-46-621",
+                "imgid": "4"
+            },
+            "3": {
+                "uploaded_t": "1462775923",
+                "uploader": "foodorigins",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            },
+            "nutrition_en": {
+                "rev": "11",
+                "white_magic": "false",
+                "normalize": "true",
+                "sizes": {
+                    "400": {
+                        "h": 396,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 99,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 198,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 915,
+                        "w": 925
+                    }
+                },
+                "geometry": "925x915-146-401",
+                "imgid": "3"
+            },
+            "ingredients_en": {
+                "rev": "10",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 141,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 35,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 71,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 380,
+                        "w": 1075
+                    }
+                },
+                "normalize": "true",
+                "geometry": "1075x380-46-621",
+                "imgid": "4"
+            },
+            "1": {
+                "uploaded_t": "1462775905",
+                "uploader": "foodorigins",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": "1462775939",
+                "uploader": "foodorigins",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "full": {
+                        "h": 2000,
+                        "w": 1125
+                    }
+                }
+            },
+            "front": {
+                "rev": "8",
+                "white_magic": "false",
+                "geometry": "1125x1085-394-27",
+                "normalize": "true",
+                "sizes": {
+                    "400": {
+                        "h": 386,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 96,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1085,
+                        "w": 1125
+                    },
+                    "200": {
+                        "h": 193,
+                        "w": 200
+                    }
+                },
+                "imgid": "2"
+            },
+            "2": {
+                "uploaded_t": "1462775914",
+                "uploader": "foodorigins",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                }
+            }
+        },
+        "ingredients_n": 13,
+        "editors_tags": [
+            "foodorigins",
+            "moon-rabbit"
+        ],
+        "countries_lc": "en",
+        "allergens_tags": [
+            "en:sesame-seeds"
+        ],
+        "traces_lc": "en",
+        "update_key": "key_1618065313",
+        "nucleotides_prev_tags": [],
+        "completed_t": 1462848468,
+        "environment_impact_level_tags": [],
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "manufacturing_places": "Australia",
+        "code": "9300601768226",
+        "codes_tags": [
+            "code-13",
+            "9300601768xxx",
+            "930060176xxxx",
+            "93006017xxxxx",
+            "9300601xxxxxx",
+            "930060xxxxxxx",
+            "93006xxxxxxxx",
+            "9300xxxxxxxxx",
+            "930xxxxxxxxxx",
+            "93xxxxxxxxxxx",
+            "9xxxxxxxxxxxx"
+        ],
+        "labels": "Gluten-free,Australian made,GF",
+        "last_modified_by": "moon-rabbit",
+        "last_edit_dates_tags": [
+            "2019-11-24",
+            "2019-11",
+            "2019"
+        ],
+        "entry_dates_tags": [
+            "2016-05-09",
+            "2016-05",
+            "2016"
+        ],
+        "creator": "foodorigins",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "australian",
+            "made",
+            "gf",
+            "dip",
+            "cole",
+            "houmou",
+            "hommu",
+            "australia",
+            "mini",
+            "gluten-free"
+        ],
+        "link": "http://shop.coles.com.au/online/national/coles-mini-dips-hommus",
+        "ingredients_debug": [
+            "Cooked Chickpeas ",
+            "(",
+            "(",
+            null,
+            null,
+            "72%)",
+            ",",
+            null,
+            null,
+            null,
+            " Canola Oil",
+            ",",
+            null,
+            null,
+            null,
+            " Tahini ",
+            "(",
+            "(",
+            null,
+            null,
+            "8%)",
+            ",",
+            null,
+            null,
+            null,
+            " ",
+            "(",
+            "(",
+            null,
+            null,
+            "Sesame Seeds)",
+            ",",
+            null,
+            null,
+            null,
+            " Garlic",
+            ",",
+            null,
+            null,
+            null,
+            " Salt",
+            ",",
+            null,
+            null,
+            null,
+            " Extra Virgin Olive Oil",
+            ",",
+            null,
+            null,
+            null,
+            " Lemon Juice Concentrate",
+            ",",
+            null,
+            null,
+            null,
+            " Vinegar",
+            ",",
+            null,
+            null,
+            null,
+            " Acidity Regulator ",
+            "(",
+            "(",
+            null,
+            null,
+            "330)",
+            ",",
+            null,
+            null,
+            null,
+            " Thickener ",
+            "(",
+            "(",
+            null,
+            null,
+            "415)",
+            ". ",
+            null,
+            null,
+            null,
+            "CONTAINS SESAME "
+        ],
+        "languages_codes": {
+            "en": 5
+        },
+        "labels_lc": "en",
+        "packaging": "Plastic,Cardboard",
+        "ingredients_text_en": "Cooked Chickpeas (72%), Canola Oil, Tahini (8%), (Sesame Seeds), Garlic, Salt, Extra Virgin Olive Oil, Lemon Juice Concentrate, Vinegar, Acidity Regulator (330), Thickener (415). CONTAINS SESAME",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.400.jpg",
+        "last_image_dates_tags": [
+            "2016-05-09",
+            "2016-05",
+            "2016"
+        ],
+        "popularity_key": 0,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.200.jpg",
+        "expiration_date": "09/May/16",
+        "data_quality_warnings_tags": [],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "states_tags": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "ecoscore_score": 81,
+        "debug_param_sorted_langs": [
+            "en"
+        ],
+        "photographers_tags": [
+            "foodorigins"
+        ],
+        "last_modified_t": 1574619108,
+        "ingredients": [
+            {
+                "percent_estimate": "72",
+                "percent_min": "72",
+                "percent": "72",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "72",
+                "id": "en:cooked-chickpeas",
+                "text": "Cooked Chickpeas"
+            },
+            {
+                "percent_estimate": 18,
+                "percent_min": "8",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": 28,
+                "id": "en:canola-oil",
+                "text": "Canola Oil"
+            },
+            {
+                "percent_estimate": "8",
+                "percent_min": "8",
+                "percent": "8",
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": "8",
+                "id": "en:tahini",
+                "text": "Tahini"
+            },
+            {
+                "percent_max": "8",
+                "id": "en:garlic",
+                "percent_estimate": 1,
+                "percent_min": 0,
+                "text": "Garlic",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 6.66666666666667,
+                "id": "en:salt",
+                "percent_estimate": 0.5,
+                "percent_min": 0,
+                "text": "Salt",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_min": 0,
+                "percent_estimate": 0.25,
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": 5,
+                "id": "en:extra-virgin-olive-oil",
+                "text": "Extra Virgin Olive Oil"
+            },
+            {
+                "percent_max": 4,
+                "id": "en:lemon-juice-concentrate",
+                "text": "Lemon Juice Concentrate",
+                "percent_estimate": 0.125,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 3.33333333333333,
+                "id": "en:vinegar",
+                "text": "Vinegar",
+                "percent_estimate": 0.0625,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 2.85714285714286,
+                "id": "en:acidity-regulator",
+                "text": "Acidity Regulator",
+                "percent_estimate": 0.03125,
+                "percent_min": 0
+            },
+            {
+                "percent_max": 2.5,
+                "id": "en:thickener",
+                "percent_min": 0,
+                "percent_estimate": 0.03125,
+                "text": "Thickener"
+            }
+        ],
+        "nutriscore_grade": "a",
+        "countries": "Australia",
+        "stores": "Coles",
+        "cities_tags": [],
+        "other_nutritional_substances_tags": [],
+        "ciqual_food_name_tags": [
+            "hummus"
+        ],
+        "brands": "Coles",
+        "obsolete": "",
+        "categories": "Plant-based foods and beverages, Plant-based foods, Spreads, Salted spreads, Plant-based spreads, Hummus",
+        "ingredients_text_with_allergens": "Cooked Chickpeas (72%), Canola Oil, Tahini (8%), (<span class=\"allergen\">Sesame Seeds</span>), Garlic, Salt, Extra Virgin Olive Oil, Lemon Juice Concentrate, Vinegar, Acidity Regulator (330), Thickener (415). CONTAINS <span class=\"allergen\">SESAME</span>",
+        "environment_impact_level": "",
+        "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+        "nutrition_grades": "a",
+        "nutrient_levels_tags": [
+            "en:fat-in-moderate-quantity",
+            "en:saturated-fat-in-moderate-quantity",
+            "en:sugars-in-low-quantity",
+            "en:salt-in-moderate-quantity"
+        ],
+        "known_ingredients_n": 27,
+        "minerals_prev_tags": [],
+        "ingredients_text": "Cooked Chickpeas (72%), Canola Oil, Tahini (8%), (Sesame Seeds), Garlic, Salt, Extra Virgin Olive Oil, Lemon Juice Concentrate, Vinegar, Acidity Regulator (330), Thickener (415). CONTAINS SESAME",
+        "product_name": "Hommus Mini Dips",
+        "origins": "Australia",
+        "languages_tags": [
+            "en:english",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "allergens": "en:sesame-seeds",
+        "serving_quantity": 60,
+        "categories_lc": "en",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/ingredients_en.10.100.jpg",
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "b",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:card",
+                            "material": "en:cardboard",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": "92"
+                        },
+                        {
+                            "shape": "en:unknown",
+                            "material": "en:plastic",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": 1,
+                            "ecoscore_material_score": "0"
+                        }
+                    ],
+                    "score": -8,
+                    "warning": "unspecified_shape"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_es": 0,
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:australia",
+                            "percent": 100
+                        }
+                    ],
+                    "transportation_score_be": 0,
+                    "epi_score": 79,
+                    "transportation_score_ch": 0,
+                    "epi_value": 3,
+                    "transportation_score_ie": 0,
+                    "value_nl": 3,
+                    "value_ie": 3,
+                    "transportation_value_de": 0,
+                    "value_fr": 3,
+                    "value_be": 3,
+                    "value_es": 3,
+                    "transportation_score_it": 0,
+                    "transportation_value_ie": 0,
+                    "transportation_score_de": 0,
+                    "transportation_score_fr": 0,
+                    "origins_from_origins_field": [
+                        "en:australia"
+                    ],
+                    "transportation_value_lu": 0,
+                    "transportation_value_nl": 0,
+                    "value_ch": 3,
+                    "transportation_score_es": 0,
+                    "value_de": 3,
+                    "transportation_value_it": 0,
+                    "transportation_score_lu": 0,
+                    "value_it": 3,
+                    "value_lu": 3,
+                    "transportation_score_nl": 0
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "b",
+            "score": 81,
+            "grade_de": "b",
+            "missing_data_warning": 1,
+            "grade_nl": "b",
+            "score_be": 84,
+            "agribalyse": {
+                "co2_transportation": "0.28181731",
+                "ef_distribution": "0.0089786658",
+                "name_fr": "Houmous",
+                "score": 91,
+                "agribalyse_food_code": "25621",
+                "ef_agriculture": "0.093986069",
+                "ef_consumption": "0.0024293397",
+                "name_en": "Hummus",
+                "co2_total": "0.9679808",
+                "ef_packaging": "0.020453713999999998",
+                "ef_processing": "0.034307027000000004",
+                "is_beverage": 0,
+                "dqr": "2.95",
+                "co2_processing": "0.15726908",
+                "code": "25621",
+                "co2_consumption": "0.0047993021",
+                "co2_distribution": "0.030685111",
+                "ef_total": "0.18435258999999998",
+                "co2_agriculture": "0.30474851",
+                "ef_transportation": "0.024196791999999998",
+                "co2_packaging": "0.18864842"
+            },
+            "grade_it": "b",
+            "score_nl": 84,
+            "missing": {
+                "packagings": 1,
+                "labels": 1
+            },
+            "grade_ie": "b",
+            "score_ch": 84,
+            "score_de": 84,
+            "score_fr": 84,
+            "score_ie": 84,
+            "score_lu": 84,
+            "score_it": 84,
+            "score_es": 84,
+            "grade_es": "b",
+            "grade_ch": "b",
+            "grade_lu": "b",
+            "grade": "b"
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/nutrition_en.11.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/nutrition_en.11.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/nutrition_en.11.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/ingredients_en.10.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/ingredients_en.10.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/ingredients_en.10.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.400.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.100.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.200.jpg"
+                }
+            }
+        },
+        "origins_old": "Australia",
+        "rev": 13,
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "moon-rabbit",
+        "additives_prev_original_tags": [
+            "en:e330",
+            "en:e415"
+        ],
+        "ingredients_tags": [
+            "en:cooked-chickpeas",
+            "en:legume",
+            "en:chickpea",
+            "en:canola-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:tahini",
+            "en:seed",
+            "en:sesame",
+            "en:sesame-paste",
+            "en:garlic",
+            "en:vegetable",
+            "en:root-vegetable",
+            "en:salt",
+            "en:extra-virgin-olive-oil",
+            "en:vegetable-oil",
+            "en:olive-oil",
+            "en:virgin-olive-oil",
+            "en:lemon-juice-concentrate",
+            "en:fruit",
+            "en:citrus-fruit",
+            "en:lemon",
+            "en:vinegar",
+            "en:acidity-regulator",
+            "en:thickener",
+            "en:sesame-seeds",
+            "en:330",
+            "en:415"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/nutrition_en.11.100.jpg",
+        "product_name_en": "Hommus Mini Dips",
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:plant-based-foods-and-beverages",
+            "en:plant-based-foods",
+            "en:spreads",
+            "en:salted-spreads",
+            "en:plant-based-spreads",
+            "en:hummus"
+        ],
+        "ecoscore_grade": "b",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "languages": {
+            "en:english": 5
+        },
+        "nutrition_data": "on",
+        "ingredients_percent_analysis": 1,
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-25621",
+            "agribalyse-food-code-known",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-25621",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-25621"
+        ],
+        "purchase_places": "Lisarow,NSW,Australia",
+        "id": "9300601768226",
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Salty snacks",
+        "allergens_from_user": "(en) en:sesame-seeds",
+        "nutrition_data_prepared": "",
+        "additives_debug_tags": [],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/ingredients_en.10.400.jpg",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "additives_old_tags": [],
+        "labels_hierarchy": [
+            "en:gluten-free",
+            "en:australian-made",
+            "en:GF"
+        ],
+        "ecoscore_tags": [
+            "b"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "origins_hierarchy": [
+            "en:australia"
+        ],
+        "complete": 1,
+        "nutrition_score_beverage": 0,
+        "pnns_groups_2": "Salty and fatty products",
+        "product_quantity": 180,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.100.jpg",
+        "ingredients_text_debug": "Cooked Chickpeas (72%), Canola Oil, Tahini (8%), (Sesame Seeds), Garlic, Salt, Extra Virgin Olive Oil, Lemon Juice Concentrate, Vinegar, Acidity Regulator (330), Thickener (415). CONTAINS SESAME ",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.400.jpg",
+        "_id": "9300601768226",
+        "countries_tags": [
+            "en:australia"
+        ],
+        "serving_size": "60g",
+        "ingredients_hierarchy": [
+            "en:cooked-chickpeas",
+            "en:legume",
+            "en:chickpea",
+            "en:canola-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:tahini",
+            "en:seed",
+            "en:sesame",
+            "en:sesame-paste",
+            "en:garlic",
+            "en:vegetable",
+            "en:root-vegetable",
+            "en:salt",
+            "en:extra-virgin-olive-oil",
+            "en:vegetable-oil",
+            "en:olive-oil",
+            "en:virgin-olive-oil",
+            "en:lemon-juice-concentrate",
+            "en:fruit",
+            "en:citrus-fruit",
+            "en:lemon",
+            "en:vinegar",
+            "en:acidity-regulator",
+            "en:thickener",
+            "en:sesame-seeds",
+            "en:330",
+            "en:415"
+        ],
+        "stores_tags": [
+            "coles"
+        ],
+        "additives_original_tags": [
+            "en:e330",
+            "en:e415"
+        ],
+        "nutriscore_score": -4,
+        "compared_to_category": "en:hummus",
+        "states_hierarchy": [
+            "en:to-be-checked",
+            "en:complete",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-validated",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "13",
+            "11-20"
+        ],
+        "pnns_groups_1_tags": [
+            "salty-snacks",
+            "known"
+        ],
+        "additives_old_n": 0,
+        "packagings": [
+            {
+                "shape": "en:card",
+                "material": "en:cardboard"
+            },
+            {
+                "material": "en:plastic"
+            }
+        ],
+        "data_quality_errors_tags": [],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "brands_tags": [
+            "coles"
+        ],
+        "quantity": "180g (3x60g)",
+        "ingredients_ids_debug": [
+            "cooked-chickpeas",
+            "72",
+            "canola-oil",
+            "tahini",
+            "8",
+            "sesame-seeds",
+            "garlic",
+            "salt",
+            "extra-virgin-olive-oil",
+            "lemon-juice-concentrate",
+            "vinegar",
+            "acidity-regulator",
+            "330",
+            "thickener",
+            "415",
+            "contains-sesame"
+        ],
+        "vitamins_prev_tags": [],
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 8,
+        "traces": "en:nuts",
+        "ingredients_original_tags": [
+            "en:cooked-chickpeas",
+            "en:canola-oil",
+            "en:tahini",
+            "en:garlic",
+            "en:salt",
+            "en:extra-virgin-olive-oil",
+            "en:lemon-juice-concentrate",
+            "en:vinegar",
+            "en:acidity-regulator",
+            "en:thickener",
+            "en:sesame-seeds",
+            "en:330",
+            "en:415"
+        ],
+        "unknown_ingredients_n": 2,
+        "manufacturing_places_tags": [
+            "australia"
+        ],
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "emb_codes": "",
+        "max_imgid": "4",
+        "nutriscore_score_opposite": 4,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/front_en.8.200.jpg",
+        "nutriments": {
+            "salt_serving": 0.564,
+            "proteins": 6.8,
+            "energy_100g": 266,
+            "carbohydrates_unit": "g",
+            "saturated-fat_serving": 0.96,
+            "energy-kj_100g": 266,
+            "sodium_100g": 0.37592,
+            "sugars_100g": 0.4,
+            "sodium_value": 375.92,
+            "proteins_serving": 4.08,
+            "salt_100g": 0.9398,
+            "nova-group_serving": 4,
+            "energy_unit": "kJ",
+            "nutrition-score-fr_100g": -4,
+            "energy-kj_serving": 160,
+            "salt_unit": "mg",
+            "proteins_unit": "g",
+            "carbohydrates_value": 15.3,
+            "sugars_unit": "g",
+            "sugars_serving": 0.24,
+            "energy-kj_unit": "kJ",
+            "fat_unit": "g",
+            "salt": 0.9398,
+            "salt_value": 939.8,
+            "fiber_serving": 3.3,
+            "proteins_value": 6.8,
+            "saturated-fat_100g": 1.6,
+            "fat_serving": 11.2,
+            "fiber_100g": 5.5,
+            "saturated-fat": 1.6,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 8,
+            "fat_value": 18.7,
+            "nova-group": 4,
+            "energy": 266,
+            "fiber": 5.5,
+            "saturated-fat_value": 1.6,
+            "nova-group_100g": 4,
+            "fat_100g": 18.7,
+            "energy_serving": 160,
+            "saturated-fat_unit": "g",
+            "energy_value": 266,
+            "sodium_serving": 0.226,
+            "energy-kj_value": 266,
+            "fiber_value": 5.5,
+            "fiber_unit": "g",
+            "energy-kj": 266,
+            "proteins_100g": 6.8,
+            "sugars_value": 0.4,
+            "nutrition-score-fr": -4,
+            "sodium_unit": "mg",
+            "carbohydrates_serving": 9.18,
+            "carbohydrates_100g": 15.3,
+            "sodium": 0.37592,
+            "sugars": 0.4,
+            "carbohydrates": 15.3,
+            "fat": 18.7
+        },
+        "purchase_places_tags": [
+            "lisarow",
+            "nsw",
+            "australia"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/ingredients_en.10.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/930/060/176/8226/nutrition_en.11.200.jpg"
+    },
+    "status_verbose": "product found"
+}

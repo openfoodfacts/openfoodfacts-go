@@ -1,0 +1,570 @@
+{
+    "status": 1,
+    "code": "5601077161035",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {
+            "ciqual_food_name:fr": "Vin doux",
+            "ciqual_food_name:en": "Wine, white, sweet"
+        },
+        "categories_tags": [
+            "en:beverages",
+            "en:alcoholic-beverages",
+            "en:wines",
+            "en:fortified-wines",
+            "en:sweet-wines",
+            "en:fortified-wines-such-as-natural-sweet-wines",
+            "en:wines-from-portugal",
+            "fr:porto"
+        ],
+        "traces_hierarchy": [
+            "en:sulphur-dioxide-and-sulphites"
+        ],
+        "informers": [
+            "manu1400"
+        ],
+        "allergens_hierarchy": [],
+        "generic_name": "Porto",
+        "product_name_fr": "Special reserve porto",
+        "origins_tags": [
+            "en:portugal"
+        ],
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1333919151,
+        "emb_codes_20141016": "",
+        "pnns_groups_2_tags": [
+            "alcoholic-beverages",
+            "known"
+        ],
+        "emb_codes_tags": [],
+        "correctors_tags": [
+            "malikele",
+            "manu1400"
+        ],
+        "sortkey": 1355588807,
+        "categories_old": "Boissons, Boissons alcoolisées, Vins, Vins mutés, Vins doux, Vins mutés de type vin doux naturel, Vins portugais, Porto",
+        "completeness": 0.666666666666667,
+        "categories_properties": {
+            "ciqual_food_code:en": "1006",
+            "agribalyse_food_code:en": "1006"
+        },
+        "labels_tags": [],
+        "traces_from_user": "(fr) en:sulphur-dioxide-and-sulphites",
+        "informers_tags": [
+            "malikele",
+            "manu1400"
+        ],
+        "nutrition_grades_tags": [
+            "not-applicable"
+        ],
+        "vitamins_tags": [],
+        "lang": "fr",
+        "origins_lc": "fr",
+        "interface_version_modified": "20120622",
+        "additives_tags": [],
+        "unknown_nutrients_tags": [],
+        "countries_hierarchy": [
+            "en:portugal"
+        ],
+        "nova_group_debug": "no nova group when the product does not have ingredients",
+        "traces_tags": [
+            "en:sulphur-dioxide-and-sulphites"
+        ],
+        "packaging_tags": [
+            "bouteille"
+        ],
+        "allergens_from_ingredients": "",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.100.jpg",
+        "nutrient_levels": {},
+        "nova_group_tags": [
+            "not-applicable"
+        ],
+        "created_t": 1333918502,
+        "amino_acids_prev_tags": [],
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "",
+        "images": {
+            "1": {
+                "uploaded_t": 1333918502,
+                "uploader": "malikele",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "front_fr": {
+                "rev": "6",
+                "white_magic": "checked",
+                "geometry": "465x1710-570-95",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 109
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 27
+                    },
+                    "full": {
+                        "h": 1710,
+                        "w": 465
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 54
+                    }
+                },
+                "imgid": "2"
+            },
+            "front": {
+                "rev": "6",
+                "white_magic": "checked",
+                "geometry": "465x1710-570-95",
+                "normalize": "checked",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 109
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 27
+                    },
+                    "full": {
+                        "h": 1710,
+                        "w": 465
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 54
+                    }
+                },
+                "imgid": "2"
+            },
+            "2": {
+                "uploaded_t": 1333918523,
+                "uploader": "malikele",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": 1333919151,
+                "uploader": "malikele",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            }
+        },
+        "editors_tags": [
+            "manu1400",
+            "malikele"
+        ],
+        "countries_lc": "fr",
+        "allergens_tags": [],
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "code": "5601077161035",
+        "codes_tags": [
+            "code-13",
+            "5601077161035",
+            "560107716103x",
+            "56010771610xx",
+            "5601077161xxx",
+            "560107716xxxx",
+            "56010771xxxxx",
+            "5601077xxxxxx",
+            "560107xxxxxxx",
+            "56010xxxxxxxx",
+            "5601xxxxxxxxx",
+            "560xxxxxxxxxx",
+            "56xxxxxxxxxxx",
+            "5xxxxxxxxxxxx"
+        ],
+        "last_modified_by": "manu1400",
+        "emb_code": "",
+        "labels": "",
+        "entry_dates_tags": [
+            "2012-04-08",
+            "2012-04",
+            "2012"
+        ],
+        "last_edit_dates_tags": [
+            "2012-12-15",
+            "2012-12",
+            "2012"
+        ],
+        "creator": "malikele",
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "_keywords": [
+            "porto",
+            "special",
+            "reserve",
+            "portugal",
+            "calem",
+            "boisson",
+            "alcoolisee"
+        ],
+        "ingredients_debug": [],
+        "labels_lc": "fr",
+        "languages_codes": {
+            "fr": 3
+        },
+        "packaging": "Bouteille",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.400.jpg",
+        "last_image_dates_tags": [
+            "2012-04-08",
+            "2012-04",
+            "2012"
+        ],
+        "popularity_key": 0,
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.200.jpg",
+        "expiration_date": "",
+        "data_quality_warnings_tags": [
+            "en:alcoholic-beverages-category-without-alcohol-value"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutriscore-not-computed",
+            "en:nutriscore-not-applicable",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed"
+        ],
+        "countries_debug_tags": [],
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "malikele"
+        ],
+        "ecoscore_score": 35,
+        "last_modified_t": 1355588807,
+        "ingredients": [],
+        "countries": "Portugal",
+        "stores": "",
+        "other_nutritional_substances_tags": [],
+        "ciqual_food_name_tags": [
+            "wine-white-sweet"
+        ],
+        "cities_tags": [],
+        "brands": "Calem",
+        "categories": "Boissons, Boissons alcoolisées, Vins, Vins mutés, Vins doux, Vins mutés de type vin doux naturel, Vins portugais, Porto",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+        "ingredients_text_with_allergens": "",
+        "nutrient_levels_tags": [],
+        "minerals_prev_tags": [],
+        "product_name": "Special reserve porto",
+        "ingredients_text": "",
+        "origins": "Portugal",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "",
+        "allergens": "",
+        "categories_lc": "fr",
+        "photographers": [
+            "manu1400"
+        ],
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "c",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 0,
+                    "packagings": [
+                        {
+                            "shape": "en:bottle",
+                            "material": "en:unknown",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": 0
+                        }
+                    ],
+                    "warning": "unspecified_material",
+                    "score": 0
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_es": 10,
+                    "transportation_value_fr": 7,
+                    "transportation_value_be": 11,
+                    "transportation_value_ch": 8,
+                    "transportation_score_be": 71,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:portugal",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_score": 57,
+                    "epi_value": 1,
+                    "transportation_score_ch": 53,
+                    "transportation_score_ie": 60,
+                    "value_nl": 12,
+                    "value_ie": 10,
+                    "transportation_value_de": 11,
+                    "value_fr": 8,
+                    "value_be": 12,
+                    "value_es": 11,
+                    "transportation_value_ie": 9,
+                    "transportation_score_it": 60,
+                    "transportation_score_de": 71,
+                    "origins_from_origins_field": [
+                        "en:portugal"
+                    ],
+                    "transportation_score_fr": 46,
+                    "transportation_value_nl": 11,
+                    "transportation_value_lu": 9,
+                    "value_ch": 9,
+                    "transportation_score_es": 69,
+                    "transportation_value_it": 9,
+                    "value_de": 12,
+                    "value_it": 10,
+                    "transportation_score_lu": 62,
+                    "value_lu": 10,
+                    "transportation_score_nl": 71
+                },
+                "threatened_species": {
+                    "warning": "ingredients_missing"
+                }
+            },
+            "grade_fr": "c",
+            "score": 35,
+            "grade_de": "c",
+            "missing_data_warning": 1,
+            "grade_nl": "c",
+            "score_be": 47,
+            "agribalyse": {
+                "co2_transportation": "0.19473145",
+                "ef_distribution": "0.004428340199999999",
+                "name_fr": "Vin doux",
+                "agribalyse_food_code": "1006",
+                "score": 45,
+                "ef_consumption": "0.0024293397",
+                "ef_agriculture": "0.087003491",
+                "name_en": "Wine, white, sweet",
+                "ef_packaging": "0.051649676000000005",
+                "co2_total": "1.0162479",
+                "ef_processing": "0.01220053",
+                "is_beverage": 1,
+                "code": "1006",
+                "co2_processing": "0.035796377",
+                "dqr": "3.01",
+                "co2_consumption": "0.0047993021",
+                "ef_total": "0.17296703",
+                "co2_distribution": "0.012389304",
+                "co2_agriculture": "0.27162412",
+                "ef_transportation": "0.015250933",
+                "co2_packaging": "0.49690685"
+            },
+            "grade_it": "c",
+            "score_nl": 47,
+            "grade_ie": "c",
+            "missing": {
+                "packagings": 1,
+                "ingredients": 1,
+                "labels": 1
+            },
+            "score_ch": 44,
+            "score_de": 47,
+            "score_fr": 43,
+            "score_ie": 45,
+            "score_lu": 45,
+            "score_it": 45,
+            "score_es": 46,
+            "grade_ch": "c",
+            "grade_es": "c",
+            "grade_lu": "c",
+            "grade": "d"
+        },
+        "selected_images": {
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.200.jpg"
+                }
+            }
+        },
+        "origins_old": "Portugal",
+        "rev": 10,
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "manu1400",
+        "additives_prev_original_tags": [],
+        "ingredients_tags": [],
+        "labels_prev_tags": [],
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:beverages",
+            "en:alcoholic-beverages",
+            "en:wines",
+            "en:fortified-wines",
+            "en:sweet-wines",
+            "en:fortified-wines-such-as-natural-sweet-wines",
+            "en:wines-from-portugal",
+            "fr:porto"
+        ],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "d",
+        "labels_prev_hierarchy": [],
+        "languages": {
+            "en:french": 3
+        },
+        "ingredients_percent_analysis": 1,
+        "purchase_places": "",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-1006",
+            "agribalyse-food-code-known",
+            "agribalyse-proxy-food-code-unknown",
+            "ciqual-food-code-1006",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-1006"
+        ],
+        "no_nutrition_data": null,
+        "checkers": [],
+        "allergens_from_user": "(fr) ",
+        "additives_debug_tags": [],
+        "data_quality_tags": [
+            "en:ingredients-percent-analysis-ok",
+            "en:alcoholic-beverages-category-without-alcohol-value"
+        ],
+        "additives_old_tags": [],
+        "origins_hierarchy": [
+            "en:portugal"
+        ],
+        "labels_hierarchy": [],
+        "ecoscore_tags": [
+            "d"
+        ],
+        "nutrition_score_beverage": 1,
+        "pnns_groups_2": "Alcoholic beverages",
+        "complete": 0,
+        "product_quantity": 750,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.100.jpg",
+        "ingredients_text_debug": "",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.400.jpg",
+        "_id": "5601077161035",
+        "countries_tags": [
+            "en:portugal"
+        ],
+        "ingredients_hierarchy": [],
+        "additives_original_tags": [],
+        "stores_tags": [],
+        "compared_to_category": "fr:porto",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "correctors": [
+            "manu1400"
+        ],
+        "nutrition_score_debug": "no nutriscore for category en:alcoholic-beverages",
+        "packagings": [
+            {
+                "shape": "en:bottle"
+            }
+        ],
+        "quantity": "750 ml",
+        "data_quality_errors_tags": [],
+        "data_quality_info_tags": [
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "brands_tags": [
+            "calem"
+        ],
+        "ingredients_ids_debug": [],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [],
+        "traces": "en:sulphur-dioxide-and-sulphites",
+        "emb_codes_orig": "",
+        "checkers_tags": [],
+        "max_imgid": "3",
+        "emb_codes": "",
+        "editors": [
+            "manu1400",
+            "malikele"
+        ],
+        "image_small_url": "https://static.openfoodfacts.net/images/products/560/107/716/1035/front_fr.6.200.jpg",
+        "generic_name_fr": "Porto",
+        "nutriments": {
+            "alcohol": 20,
+            "alcohol_100g": 20,
+            "alcohol_serving": 20,
+            "alcohol_unit": "% vol"
+        },
+        "purchase_places_tags": []
+    },
+    "status_verbose": "product found"
+}

@@ -1,0 +1,1418 @@
+{
+    "status": 1,
+    "code": "3222473161867",
+    "product": {
+        "lc": "fr",
+        "traces_from_ingredients": "",
+        "category_properties": {},
+        "popularity_tags": [
+            "top-country-fr-scans-2019"
+        ],
+        "categories_tags": [
+            "en:meals",
+            "en:fresh-foods",
+            "en:fresh-meals",
+            "en:prepared-vegetables",
+            "en:starters",
+            "en:cold-starters",
+            "en:vegetables-macedoines"
+        ],
+        "traces_hierarchy": [
+            "en:celery",
+            "en:crustaceans",
+            "en:fish",
+            "en:gluten",
+            "en:milk",
+            "en:molluscs",
+            "en:nuts",
+            "en:sesame-seeds",
+            "en:soybeans"
+        ],
+        "allergens_hierarchy": [
+            "en:eggs",
+            "en:mustard"
+        ],
+        "generic_name": "Macédoine de légumes en sauce",
+        "product_name_fr": "Macédoine de Légumes - mayonnaise",
+        "origins_tags": [],
+        "languages_hierarchy": [
+            "en:french"
+        ],
+        "last_image_t": 1517606796,
+        "emb_codes_20141016": "EMB 22272E,EMB 22389B",
+        "additives_n": 3,
+        "pnns_groups_2_tags": [
+            "one-dish-meals",
+            "known"
+        ],
+        "allergens_lc": "fr",
+        "emb_codes_tags": [
+            "emb-22272e",
+            "emb-22389b"
+        ],
+        "correctors_tags": [
+            "sebleouf",
+            "jacob80",
+            "segundo",
+            "teolemon",
+            "tacite-mass-editor",
+            "yuka.Yi9nbk1mc25oTlV1dHZJdndDM1crZUpvN3M2blVFQ2RldHBNSUE9PQ",
+            "openfoodfacts-contributors",
+            "cyn",
+            "quechoisir"
+        ],
+        "sortkey": 1550239732,
+        "categories_old": "Plats préparés, Frais, Plats préparés frais, Légumes préparés, Entrées, Entrées froides, Macédoines de légumes préparées",
+        "categories_properties": {
+            "agribalyse_proxy_food_code:en": "20051"
+        },
+        "completeness": 0.9875,
+        "labels_tags": [
+            "en:2016-nutrition-labelling-experiment",
+            "en:green-dot",
+            "en:nutriscore-experiment",
+            "fr:eco-emballages"
+        ],
+        "traces_from_user": "(fr) en:celery,en:crustaceans,en:fish,en:gluten,en:milk,en:molluscs,en:nuts,en:sesame-seeds,en:soybeans",
+        "informers_tags": [
+            "sebleouf",
+            "jacob80",
+            "segundo",
+            "openfoodfacts-contributors",
+            "cyn"
+        ],
+        "nutrition_grades_tags": [
+            "a"
+        ],
+        "lang": "fr",
+        "vitamins_tags": [],
+        "origins_lc": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "additives_tags": [
+            "en:e14xx",
+            "en:e412",
+            "en:e415"
+        ],
+        "unique_scans_n": 1,
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/nutrition_fr.36.400.jpg",
+        "unknown_nutrients_tags": [],
+        "nova_group_debug": " -- categories/en:meals : 3 -- additives/en:e412 : 4",
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "traces_tags": [
+            "en:celery",
+            "en:crustaceans",
+            "en:fish",
+            "en:gluten",
+            "en:milk",
+            "en:molluscs",
+            "en:nuts",
+            "en:sesame-seeds",
+            "en:soybeans"
+        ],
+        "nova_groups": "4",
+        "packaging_tags": [
+            "frais",
+            "barquette",
+            "plastique",
+            "sous-atmosphere-protectrice"
+        ],
+        "allergens_from_ingredients": "moutarde, moutarde, jaune d'œuf",
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.100.jpg",
+        "nutrient_levels": {
+            "salt": "moderate",
+            "sugars": "low",
+            "saturated-fat": "low",
+            "fat": "moderate"
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil-content-unknown",
+            "en:non-vegan",
+            "en:vegetarian-status-unknown"
+        ],
+        "created_t": 1388414195,
+        "nutriscore_data": {
+            "proteins": 2.7,
+            "negative_points": 5,
+            "sugars_points": 0,
+            "score": -2,
+            "sodium_value": 404,
+            "positive_points": 7,
+            "saturated_fat_value": 0.5,
+            "is_water": 0,
+            "proteins_points": 1,
+            "saturated_fat_points": 0,
+            "saturated_fat_ratio": 8.33333333333333,
+            "proteins_value": 2.7,
+            "saturated_fat_ratio_points": 0,
+            "fiber_points": 4,
+            "grade": "a",
+            "is_cheese": 0,
+            "energy": 389,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 80,
+            "fiber": 4.5,
+            "energy_points": 1,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 2,
+            "sodium_points": 4,
+            "is_fat": 0,
+            "energy_value": 389,
+            "is_beverage": 0,
+            "fiber_value": 4.5,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 80,
+            "saturated_fat_ratio_value": 8.3,
+            "sugars_value": 1.2,
+            "saturated_fat": 0.5,
+            "sodium": 404,
+            "sugars": 1.2
+        },
+        "nova_group": 4,
+        "amino_acids_prev_tags": [],
+        "nutrition_grade_fr": "a",
+        "scans_n": 2,
+        "nucleotides_tags": [],
+        "ingredients_text_with_allergens_fr": "Macédoine de légumes 80 % (carotte - haricot vert - petits pois - navet - flageolet), eau - huile de colza - <span class=\"allergen\">moutarde</span> (eau - graines de <span class=\"allergen\">moutarde</span> - vinaigre d'alcool - sel) - vinaigre d'alcool - sel - <span class=\"allergen\">jaune d'œuf</span> - amidon transformé de pomme de terre - épaississants : gomme xanthane - gomme guar - sucre.",
+        "images": {
+            "nutrition": {
+                "rev": "18",
+                "white_magic": "false",
+                "geometry": "820x945-44-278",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 347
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 87
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 174
+                    },
+                    "full": {
+                        "h": 945,
+                        "w": 820
+                    }
+                },
+                "normalize": "false",
+                "imgid": "3"
+            },
+            "nutrition_fr": {
+                "y1": null,
+                "y2": null,
+                "rev": "36",
+                "x2": null,
+                "x1": null,
+                "white_magic": "0",
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 334
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 84
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 167
+                    },
+                    "full": {
+                        "h": 1360,
+                        "w": 1136
+                    }
+                },
+                "angle": null,
+                "orientation": "0",
+                "geometry": "0x0-0-0",
+                "normalize": "0",
+                "imgid": "11"
+            },
+            "11": {
+                "uploaded_t": "1517606791",
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 334
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 84
+                    },
+                    "full": {
+                        "h": 1360,
+                        "w": 1136
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": "1442944711",
+                "uploader": "segundo",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "6": {
+                "uploaded_t": "1480343385",
+                "uploader": "teolemon",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2160,
+                        "w": 3840
+                    }
+                }
+            },
+            "9": {
+                "uploaded_t": "1480343385",
+                "uploader": "teolemon",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2160,
+                        "w": 3840
+                    }
+                }
+            },
+            "front": {
+                "rev": "6",
+                "white_magic": null,
+                "geometry": "1545x1395-340-105",
+                "normalize": null,
+                "sizes": {
+                    "400": {
+                        "h": 361,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 90,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 181,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 1395,
+                        "w": 1545
+                    }
+                },
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": 1389369035,
+                "uploader": "sebleouf",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "ingredients": {
+                "rev": "21",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 102,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 25,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 400,
+                        "w": 1575
+                    },
+                    "200": {
+                        "h": 51,
+                        "w": 200
+                    }
+                },
+                "normalize": "false",
+                "geometry": "1575x400-345-754",
+                "imgid": "2"
+            },
+            "front_fr": {
+                "rev": "6",
+                "white_magic": null,
+                "geometry": "1545x1395-340-105",
+                "normalize": null,
+                "sizes": {
+                    "400": {
+                        "h": 361,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 90,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 181,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 1395,
+                        "w": 1545
+                    }
+                },
+                "imgid": "1"
+            },
+            "12": {
+                "uploaded_t": "1517606794",
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 214,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 54,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2390,
+                        "w": 4461
+                    }
+                }
+            },
+            "7": {
+                "uploaded_t": "1480343385",
+                "uploader": "teolemon",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2160,
+                        "w": 3840
+                    }
+                }
+            },
+            "10": {
+                "uploaded_t": "1517606101",
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 222,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1140,
+                        "w": 2050
+                    }
+                }
+            },
+            "1": {
+                "uploaded_t": 1389368988,
+                "uploader": "sebleouf",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": "1442944767",
+                "uploader": "segundo",
+                "sizes": {
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                }
+            },
+            "8": {
+                "uploaded_t": "1480343385",
+                "uploader": "teolemon",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2160,
+                        "w": 3840
+                    }
+                }
+            },
+            "5": {
+                "uploaded_t": "1480343385",
+                "uploader": "teolemon",
+                "sizes": {
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2160,
+                        "w": 3840
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "y1": null,
+                "y2": null,
+                "rev": "38",
+                "x2": null,
+                "white_magic": "0",
+                "x1": null,
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 214,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 54,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 107,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 2390,
+                        "w": 4461
+                    }
+                },
+                "angle": null,
+                "orientation": null,
+                "geometry": "0x0-0-0",
+                "normalize": "0",
+                "imgid": "12"
+            }
+        },
+        "ingredients_n": 21,
+        "editors_tags": [
+            "quechoisir",
+            "sebleouf",
+            "cyn",
+            "tacite-mass-editor",
+            "teolemon",
+            "openfoodfacts-contributors",
+            "segundo",
+            "jacob80",
+            "yuka.Yi9nbk1mc25oTlV1dHZJdndDM1crZUpvN3M2blVFQ2RldHBNSUE9PQ",
+            "kiliweb"
+        ],
+        "countries_lc": "fr",
+        "traces_lc": "fr",
+        "allergens_tags": [
+            "en:eggs",
+            "en:mustard"
+        ],
+        "nucleotides_prev_tags": [],
+        "update_key": "key_1618065313",
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "code": "3222473161867",
+        "manufacturing_places": "Jean Stalaven (Filiale Euralis Coop) - ZI de Bellevue - 22200 Saint-Agathon (Site fermé depuis le 26/10/2012),Jean Stalaven (Filiale Euralis Coop) - ZA du Moulin à Vent - 22120 Yffiniac,Côtes-d'Armor,Bretagne,France",
+        "codes_tags": [
+            "code-13",
+            "3222473161xxx",
+            "322247316xxxx",
+            "32224731xxxxx",
+            "3222473xxxxxx",
+            "322247xxxxxxx",
+            "32224xxxxxxxx",
+            "3222xxxxxxxxx",
+            "322xxxxxxxxxx",
+            "32xxxxxxxxxxx",
+            "3xxxxxxxxxxxx"
+        ],
+        "last_modified_by": "quechoisir",
+        "labels": "Expérimentation Nutriscore, Experimentation Etiquetage Nutritionnel 2016, Point Vert, Eco-Emballages",
+        "entry_dates_tags": [
+            "2013-12-30",
+            "2013-12",
+            "2013"
+        ],
+        "last_edit_dates_tags": [
+            "2021-02-23",
+            "2021-02",
+            "2021"
+        ],
+        "creator": "sebleouf",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "nutrition_data_prepared_per": "100g",
+        "_keywords": [
+            "point",
+            "nutriscore",
+            "legume",
+            "casino",
+            "sauce",
+            "etiquetage",
+            "preparee",
+            "eco-emballage",
+            "froide",
+            "experimentation",
+            "de",
+            "groupe",
+            "plat",
+            "2016",
+            "prepare",
+            "macedoine",
+            "frai",
+            "nutritionnel",
+            "en",
+            "mayonnaise",
+            "entree",
+            "vert"
+        ],
+        "amino_acids_tags": [],
+        "link": "http://www.casinodrive.fr/ecommerce/affichageDetailProduit/WE80205/F-47224-snacking-et-entrees/P-59149-casino-salade-macedoine-de-legumes",
+        "ingredients_debug": [
+            "Macédoine de légumes 80 % ",
+            "(",
+            "(",
+            null,
+            null,
+            "carotte",
+            ",",
+            null,
+            null,
+            null,
+            " haricot vert",
+            ",",
+            null,
+            null,
+            null,
+            " petits pois",
+            ",",
+            null,
+            null,
+            null,
+            " navet",
+            ",",
+            null,
+            null,
+            null,
+            " flageolet)",
+            ",",
+            null,
+            null,
+            null,
+            " eau",
+            ",",
+            null,
+            null,
+            null,
+            " huile de colza",
+            ",",
+            null,
+            null,
+            null,
+            " moutarde ",
+            "(",
+            "(",
+            null,
+            null,
+            "eau",
+            ",",
+            null,
+            null,
+            null,
+            " graines de _moutarde_",
+            ",",
+            null,
+            null,
+            null,
+            " vinaigre d'alcool",
+            ",",
+            null,
+            null,
+            null,
+            " sel",
+            ",",
+            null,
+            null,
+            null,
+            " acide citrique",
+            ",",
+            null,
+            null,
+            null,
+            " disulfite de potassium)",
+            ",",
+            null,
+            null,
+            null,
+            " vinaigre d'alcool",
+            ",",
+            null,
+            null,
+            null,
+            " sel",
+            ",",
+            null,
+            null,
+            null,
+            " jaune d'_œuf_",
+            ",",
+            null,
+            null,
+            null,
+            " gomme xanthane",
+            ",",
+            null,
+            null,
+            null,
+            " gomme guar",
+            ",",
+            null,
+            null,
+            null,
+            " sucre",
+            ",",
+            null,
+            null,
+            null,
+            " amidon transformé de pomme de terre."
+        ],
+        "labels_lc": "fr",
+        "languages_codes": {
+            "fr": 6
+        },
+        "packaging": "Frais,Barquette,Plastique,Sous atmosphère protectrice",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.400.jpg",
+        "popularity_key": 1,
+        "last_image_dates_tags": [
+            "2018-02-02",
+            "2018-02",
+            "2018"
+        ],
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.200.jpg",
+        "expiration_date": "28/12/2013",
+        "labels_debug_tags": [
+            "added-en-2016-nutrition-labelling-experiment",
+            "added-en-nutriscore-experiment",
+            "removed-fr-experimentation-etiquetage-nutritionnel-2016",
+            "removed-fr-experimentation-nutriscore"
+        ],
+        "data_quality_warnings_tags": [
+            "en:ecoscore-origins-of-ingredients-origins-are-100-percent-unknown"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-not-computed"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 80,
+        "interface_version_created": "20120622",
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "sebleouf",
+            "segundo",
+            "teolemon",
+            "kiliweb"
+        ],
+        "debug_param_sorted_langs": [
+            "fr"
+        ],
+        "last_modified_t": 1614039059,
+        "ingredients": [
+            {
+                "percent_max": "80",
+                "id": "fr:Macédoine de légumes",
+                "percent": "80",
+                "percent_min": "80",
+                "percent_estimate": "80",
+                "text": "Macédoine de légumes"
+            },
+            {
+                "percent_max": 20,
+                "id": "en:water",
+                "percent_estimate": 11,
+                "percent_min": 2,
+                "text": "eau",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_min": 0,
+                "percent_estimate": 4.5,
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": 18,
+                "id": "en:colza-oil",
+                "text": "huile de colza"
+            },
+            {
+                "percent_estimate": 2.25,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "percent_max": 9,
+                "id": "en:mustard",
+                "text": "moutarde"
+            },
+            {
+                "percent_max": 6,
+                "id": "en:alcohol-vinegar",
+                "text": "vinaigre d'alcool",
+                "percent_min": 0,
+                "percent_estimate": 1.125,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 4.5,
+                "id": "en:salt",
+                "percent_estimate": 0.5625,
+                "percent_min": 0,
+                "text": "sel",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 3.6,
+                "id": "en:egg-yolk",
+                "percent_min": 0,
+                "percent_estimate": 0.28125,
+                "text": "jaune d'œuf",
+                "vegan": "no",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 3,
+                "id": "en:e1404",
+                "percent_estimate": 0.140625,
+                "percent_min": 0,
+                "text": "amidon transformé de pomme de terre",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 2.57142857142857,
+                "id": "en:thickener",
+                "percent_min": 0,
+                "percent_estimate": 0.0703125,
+                "text": "épaississants"
+            },
+            {
+                "percent_max": 2.25,
+                "id": "en:e412",
+                "percent_estimate": 0.03515625,
+                "percent_min": 0,
+                "text": "gomme guar",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 2,
+                "id": "en:sugar",
+                "percent_estimate": 0.03515625,
+                "percent_min": 0,
+                "text": "sucre",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            }
+        ],
+        "nutriscore_grade": "a",
+        "product_name_debug_tags": [],
+        "countries": "France",
+        "stores": "Casino",
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "other_nutritional_substances_tags": [],
+        "cities_tags": [
+            "saint-agathon-cotes-d-armor-france",
+            "yffiniac-cotes-d-armor-france"
+        ],
+        "brands": "Casino,Groupe Casino",
+        "categories": "Plats préparés, Frais, Plats préparés frais, Légumes préparés, Entrées, Entrées froides, en:prepared-vegetables-macedoines",
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+        "ingredients_text_with_allergens": "Macédoine de légumes 80 % (carotte - haricot vert - petits pois - navet - flageolet), eau - huile de colza - <span class=\"allergen\">moutarde</span> (eau - graines de <span class=\"allergen\">moutarde</span> - vinaigre d'alcool - sel) - vinaigre d'alcool - sel - <span class=\"allergen\">jaune d'œuf</span> - amidon transformé de pomme de terre - épaississants : gomme xanthane - gomme guar - sucre.",
+        "nutrition_grades": "a",
+        "nutrient_levels_tags": [
+            "en:fat-in-moderate-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-low-quantity",
+            "en:salt-in-moderate-quantity"
+        ],
+        "known_ingredients_n": 27,
+        "minerals_prev_tags": [],
+        "product_name": "Macédoine de Légumes - mayonnaise",
+        "ingredients_text": "Macédoine de légumes 80 % (carotte - haricot vert - petits pois - navet - flageolet), eau - huile de colza - moutarde (eau - graines de moutarde - vinaigre d'alcool - sel) - vinaigre d'alcool - sel - jaune d'œuf - amidon transformé de pomme de terre - épaississants : gomme xanthane - gomme guar - sucre.",
+        "origins": "",
+        "languages_tags": [
+            "en:french",
+            "en:1"
+        ],
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "Macédoine de légumes 80 % (carotte - haricot vert - petits pois - navet - flageolet), eau - huile de colza - moutarde (eau - graines de moutarde - vinaigre d'alcool - sel) - vinaigre d'alcool - sel - jaune d'œuf - amidon transformé de pomme de terre - épaississants : gomme xanthane - gomme guar - sucre.",
+        "allergens": "en:eggs,en:mustard",
+        "categories_lc": "fr",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/ingredients_fr.38.100.jpg",
+        "ecoscore_data": {
+            "agribalyse": {
+                "warning": "missing_agribalyse_match"
+            },
+            "missing_agribalyse_match_warning": 1,
+            "status": "unknown",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_fr": 0,
+                    "transportation_value_be": 0,
+                    "transportation_score_be": 0,
+                    "epi_score": 0,
+                    "transportation_score_ie": 0,
+                    "value_nl": -5,
+                    "value_es": -5,
+                    "transportation_value_ie": 0,
+                    "transportation_score_fr": 0,
+                    "transportation_value_lu": 0,
+                    "value_ch": -5,
+                    "transportation_score_es": 0,
+                    "value_de": -5,
+                    "value_it": -5,
+                    "transportation_score_lu": 0,
+                    "transportation_value_es": 0,
+                    "transportation_value_ch": 0,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:unknown",
+                            "percent": 100
+                        }
+                    ],
+                    "epi_value": -5,
+                    "transportation_score_ch": 0,
+                    "value_ie": -5,
+                    "transportation_value_de": 0,
+                    "value_fr": -5,
+                    "warning": "origins_are_100_percent_unknown",
+                    "value_be": -5,
+                    "transportation_score_it": 0,
+                    "transportation_score_de": 0,
+                    "origins_from_origins_field": [
+                        "en:unknown"
+                    ],
+                    "transportation_value_nl": 0,
+                    "transportation_value_it": 0,
+                    "transportation_score_nl": 0,
+                    "value_lu": -5
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:tray",
+                            "material": "en:plastic",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": "0"
+                        }
+                    ],
+                    "score": 0
+                },
+                "threatened_species": {}
+            },
+            "missing": {
+                "agb_category": 1,
+                "labels": 1,
+                "origins": 1
+            }
+        },
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/nutrition_fr.36.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/nutrition_fr.36.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/nutrition_fr.36.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/ingredients_fr.38.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/ingredients_fr.38.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/ingredients_fr.38.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.200.jpg"
+                }
+            }
+        },
+        "origins_old": "",
+        "rev": 40,
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "quechoisir",
+        "additives_prev_original_tags": [
+            "en:e330",
+            "en:e224",
+            "en:e415",
+            "en:e412"
+        ],
+        "data_sources_tags": [
+            "app-yuka",
+            "apps"
+        ],
+        "ingredients_tags": [
+            "fr:macedoine-de-legumes",
+            "en:water",
+            "en:colza-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:mustard",
+            "en:spice",
+            "en:alcohol-vinegar",
+            "en:vinegar",
+            "en:salt",
+            "en:egg-yolk",
+            "en:egg",
+            "en:e1404",
+            "en:thickener",
+            "en:e412",
+            "en:sugar",
+            "en:carrot",
+            "en:vegetable",
+            "en:root-vegetable",
+            "en:green-bean",
+            "en:legume",
+            "en:beans",
+            "en:green-peas",
+            "en:turnip",
+            "en:flageolets",
+            "en:mustard-seed",
+            "en:e415"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/nutrition_fr.36.100.jpg",
+        "labels_prev_tags": [
+            "en:green-dot",
+            "fr:eco-emballages",
+            "fr:experimentation-etiquetage-nutritionnel-2016",
+            "fr:experimentation-nutriscore"
+        ],
+        "ingredients_from_palm_oil_tags": [],
+        "categories_hierarchy": [
+            "en:meals",
+            "en:fresh-foods",
+            "en:fresh-meals",
+            "en:prepared-vegetables",
+            "en:starters",
+            "en:cold-starters",
+            "en:vegetables-macedoines"
+        ],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ecoscore_grade": "unknown",
+        "labels_prev_hierarchy": [
+            "en:green-dot",
+            "fr:Eco-Emballages",
+            "fr:Experimentation Etiquetage Nutritionnel 2016",
+            "fr:Expérimentation Nutriscore"
+        ],
+        "languages": {
+            "en:french": 6
+        },
+        "ingredients_percent_analysis": 1,
+        "nutrition_data": "on",
+        "purchase_places": "Lyon,France,Paris",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-20051",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-unknown",
+            "agribalyse-known",
+            "agribalyse-20051"
+        ],
+        "id": "3222473161867",
+        "no_nutrition_data": "",
+        "pnns_groups_1": "Composite foods",
+        "nutrition_data_prepared": "",
+        "allergens_from_user": "(fr) en:eggs,en:mustard",
+        "additives_debug_tags": [
+            "en-e14xx-added"
+        ],
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/ingredients_fr.38.400.jpg",
+        "data_quality_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:ecoscore-origins-of-ingredients-origins-are-100-percent-unknown"
+        ],
+        "additives_old_tags": [
+            "en:e415",
+            "en:e412"
+        ],
+        "origins_hierarchy": [],
+        "labels_hierarchy": [
+            "en:2016-nutrition-labelling-experiment",
+            "en:green-dot",
+            "en:nutriscore-experiment",
+            "fr:Eco-Emballages"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "ecoscore_tags": [
+            "unknown"
+        ],
+        "pnns_groups_2": "One-dish meals",
+        "nutrition_score_beverage": 0,
+        "complete": 0,
+        "product_quantity": "300",
+        "new_additives_n": 4,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.100.jpg",
+        "ingredients_text_debug": "Macédoine de légumes 80 % (carotte, haricot vert, petits pois, navet, flageolet), eau, huile de colza, moutarde (eau, graines de _moutarde_, vinaigre d'alcool, sel, acide citrique, disulfite de potassium), vinaigre d'alcool, sel, jaune d'_œuf_, gomme xanthane, gomme guar, sucre, amidon transformé de pomme de terre.",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.400.jpg",
+        "_id": "3222473161867",
+        "countries_tags": [
+            "en:france"
+        ],
+        "ingredients_hierarchy": [
+            "fr:Macédoine de légumes",
+            "en:water",
+            "en:colza-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:mustard",
+            "en:spice",
+            "en:alcohol-vinegar",
+            "en:vinegar",
+            "en:salt",
+            "en:egg-yolk",
+            "en:egg",
+            "en:e1404",
+            "en:thickener",
+            "en:e412",
+            "en:sugar",
+            "en:carrot",
+            "en:vegetable",
+            "en:root-vegetable",
+            "en:green-bean",
+            "en:legume",
+            "en:beans",
+            "en:green-peas",
+            "en:turnip",
+            "en:flageolets",
+            "en:mustard-seed",
+            "en:e415"
+        ],
+        "additives_original_tags": [
+            "en:e14xx",
+            "en:e415",
+            "en:e412"
+        ],
+        "stores_tags": [
+            "casino"
+        ],
+        "nutriscore_score": -2,
+        "compared_to_category": "en:prepared-vegetables-macedoines",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "21",
+            "21-30"
+        ],
+        "pnns_groups_1_tags": [
+            "composite-foods",
+            "known"
+        ],
+        "additives_old_n": 2,
+        "packagings": [
+            {
+                "shape": "en:tray",
+                "material": "en:plastic"
+            }
+        ],
+        "quantity": "300 g",
+        "data_quality_errors_tags": [],
+        "brands_tags": [
+            "casino",
+            "groupe-casino"
+        ],
+        "data_quality_info_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok"
+        ],
+        "ingredients_ids_debug": [
+            "macedoine-de-legumes-80",
+            "carotte",
+            "haricot-vert",
+            "petits-pois",
+            "navet",
+            "flageolet",
+            "eau",
+            "huile-de-colza",
+            "moutarde",
+            "eau",
+            "graines-de-moutarde",
+            "vinaigre-d-alcool",
+            "sel",
+            "acide-citrique",
+            "disulfite-de-potassium",
+            "vinaigre-d-alcool",
+            "sel",
+            "jaune-d-oeuf",
+            "gomme-xanthane",
+            "gomme-guar",
+            "sucre",
+            "amidon-transforme-de-pomme-de-terre"
+        ],
+        "vitamins_prev_tags": [],
+        "ingredients_original_tags": [
+            "fr:Macédoine de légumes",
+            "en:water",
+            "en:colza-oil",
+            "en:mustard",
+            "en:alcohol-vinegar",
+            "en:salt",
+            "en:egg-yolk",
+            "en:e1404",
+            "en:thickener",
+            "en:e412",
+            "en:sugar",
+            "en:carrot",
+            "en:green-bean",
+            "en:green-peas",
+            "en:turnip",
+            "en:flageolets",
+            "en:water",
+            "en:mustard-seed",
+            "en:alcohol-vinegar",
+            "en:salt",
+            "en:e415"
+        ],
+        "traces": "en:celery,en:crustaceans,en:fish,en:gluten,en:milk,en:molluscs,en:nuts,en:sesame-seeds,en:soybeans",
+        "data_sources": "App - yuka, Apps",
+        "unknown_ingredients_n": 1,
+        "manufacturing_places_tags": [
+            "jean-stalaven-filiale-euralis-coop-zi-de-bellevue-22200-saint-agathon-site-ferme-depuis-le-26-10-2012",
+            "jean-stalaven-filiale-euralis-coop-za-du-moulin-a-vent-22120-yffiniac",
+            "cotes-d-armor",
+            "bretagne",
+            "france"
+        ],
+        "emb_codes_orig": "EMB 22272E,EMB 22389B",
+        "checkers_tags": [],
+        "forest_footprint_data": {
+            "footprint_per_kg": 0.000223125,
+            "ingredients": [
+                {
+                    "type": {
+                        "deforestation_risk": "0.68",
+                        "soy_feed_factor": "0.035",
+                        "name": "Oeufs Importés",
+                        "soy_yield": "0.3"
+                    },
+                    "processing_factor": "1",
+                    "percent_estimate": 0.28125,
+                    "percent": 0.28125,
+                    "tag_type": "ingredients",
+                    "conditions_tags": [],
+                    "matching_tag_id": "en:egg",
+                    "tag_id": "en:egg-yolk",
+                    "footprint_per_kg": 0.000223125
+                }
+            ],
+            "grade": "a"
+        },
+        "max_imgid": "12",
+        "emb_codes": "EMB 22272E,EMB 22389B",
+        "editors": [
+            "segundo",
+            "sebleouf",
+            "jacob80"
+        ],
+        "nutriscore_score_opposite": 2,
+        "image_small_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/front_fr.6.200.jpg",
+        "generic_name_fr": "Macédoine de légumes en sauce",
+        "nutriments": {
+            "proteins": 2.7,
+            "energy_100g": 389,
+            "carbohydrates_unit": "g",
+            "sodium_100g": 0.404,
+            "energy-kcal": 93,
+            "sugars_100g": 1.2,
+            "sodium_value": 0.404,
+            "nova-group_serving": 4,
+            "salt_100g": 1.01,
+            "nutrition-score-fr_100g": -2,
+            "fruits-vegetables-nuts_100g": 80,
+            "energy_unit": "kcal",
+            "salt_unit": "g",
+            "carbohydrates_value": 4.7,
+            "proteins_unit": "g",
+            "sugars_unit": "g",
+            "fat_unit": "g",
+            "salt": 1.01,
+            "fruits-vegetables-nuts_value": 80,
+            "salt_value": 1.01,
+            "fruits-vegetables-nuts_label": "0",
+            "fruits-vegetables-nuts_serving": 80,
+            "proteins_value": 2.7,
+            "saturated-fat_100g": 0.5,
+            "energy-kcal_100g": 93,
+            "fiber_100g": 4.5,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 16,
+            "saturated-fat": 0.5,
+            "fat_value": 6,
+            "nova-group": 4,
+            "energy": 389,
+            "fiber": 4.5,
+            "saturated-fat_value": 0.5,
+            "energy-kcal_value": 93,
+            "nova-group_100g": 4,
+            "fat_100g": 6,
+            "saturated-fat_unit": "g",
+            "fruits-vegetables-nuts": 80,
+            "energy_value": 93,
+            "fiber_value": 4.5,
+            "fiber_unit": "g",
+            "sugars_value": 1.2,
+            "proteins_100g": 2.7,
+            "nutrition-score-fr": -2,
+            "sodium_unit": "g",
+            "carbohydrates_100g": 4.7,
+            "sodium": 0.404,
+            "fruits-vegetables-nuts_unit": "g",
+            "sugars": 1.2,
+            "carbohydrates": 4.7,
+            "fat": 6,
+            "energy-kcal_unit": "kcal"
+        },
+        "purchase_places_tags": [
+            "lyon",
+            "france",
+            "paris"
+        ],
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/ingredients_fr.38.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/322/247/316/1867/nutrition_fr.36.200.jpg"
+    },
+    "status_verbose": "product found"
+}

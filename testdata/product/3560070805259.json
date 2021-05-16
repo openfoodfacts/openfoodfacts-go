@@ -1,0 +1,1630 @@
+{
+    "status": 1,
+    "code": "3560070805259",
+    "product": {
+        "category_properties": {},
+        "customer_service": "Interdis - TSA 91431 - 91343 MASSY Cedex - France",
+        "traces_hierarchy": [],
+        "product_name_fr": "Pancakes",
+        "generic_name": "6 mini-crêpes épaisses sucrées.",
+        "languages_hierarchy": [
+            "en:dutch",
+            "en:french"
+        ],
+        "preparation": "Idéal pour le petit déjeuner ou le goûter. A déguster froid ou réchauffé 1 minute environ au grille-pain ou 10 secondes au micro-ondes à 750 watts. A consommer nature ou nappé par exemple de sirop d'érable ou de chocolat.",
+        "last_image_t": 1616949618,
+        "emb_codes_20141016": "FR 22.093.041 CE",
+        "carbon_footprint_from_known_ingredients_debug": "en:fresh-whole-milk 35% x 1.2 = 42 g - en:whole-fresh-eggs 12% x 2.6 = 31.2 g - ",
+        "producer_fr": "Fabriqué en France par EMB 22093 K pour Interdis",
+        "allergens_lc": "fr",
+        "customer_service_nl": "Carrefour Product info PB 2000 Evere 3 - 1140 BRUSSELS Tél: 0800/9.10.11",
+        "origin_fr": "Ces pancakes sont fabriqués en Bretagne avec du lait breton, de la farine de blé et des oeufs origine France.",
+        "completeness": 1.0875,
+        "categories_properties": {
+            "agribalyse_proxy_food_code:en": "23799"
+        },
+        "labels_tags": [
+            "en:green-dot",
+            "en:made-in-france",
+            "fr:eco-emballages"
+        ],
+        "traces_from_user": "(fr) ",
+        "downgraded": "non_recyclable_and_non_biodegradable_materials",
+        "vitamins_tags": [],
+        "origins_lc": "fr",
+        "customer_service_fr_imported": "Interdis - TSA 91431 - 91343 MASSY Cedex - France",
+        "image_nutrition_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/nutrition_fr.12.400.jpg",
+        "countries_hierarchy": [
+            "en:france"
+        ],
+        "nova_groups": "4",
+        "packaging_tags": [
+            "frais",
+            "barquette",
+            "plastique-01"
+        ],
+        "allergens_from_ingredients": "Lait, blé, oeufs, blé",
+        "nutrient_levels": {
+            "sugars": "high",
+            "salt": "moderate",
+            "fat": "moderate",
+            "saturated-fat": "moderate"
+        },
+        "emb_codes_imported": "FR 22.093.041 EC, EMB 22093K",
+        "nutriscore_data": {
+            "proteins": 6.7,
+            "negative_points": 10,
+            "sugars_points": 3,
+            "sodium_value": 344,
+            "score": 4,
+            "positive_points": 6,
+            "saturated_fat_value": 1.8,
+            "is_water": 0,
+            "proteins_points": 4,
+            "saturated_fat_points": 1,
+            "saturated_fat_ratio": 19.5652173913043,
+            "proteins_value": 6.7,
+            "saturated_fat_ratio_points": 2,
+            "fiber_points": 2,
+            "grade": "c",
+            "is_cheese": 0,
+            "energy": 1193,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+            "fiber": 2.4,
+            "energy_points": 3,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "sodium_points": 3,
+            "is_fat": 0,
+            "energy_value": 1193,
+            "is_beverage": 0,
+            "fiber_value": 2.4,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+            "saturated_fat_ratio_value": 19.6,
+            "sugars_value": 18,
+            "saturated_fat": 1.8,
+            "sodium": 344,
+            "sugars": 18
+        },
+        "origin_nl": "Deze pancakes zijn geproduceerd in Bretagne met Bretonse melk, tarwebloem en eieren uit Frankrijk.",
+        "amino_acids_prev_tags": [],
+        "nutrition_grade_fr": "c",
+        "data_sources_imported": "Producer - Carrefour, Producers",
+        "nucleotides_tags": [],
+        "images": {
+            "nutrition_fr": {
+                "rev": "12",
+                "white_magic": "false",
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 30,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 7,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 15,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 168,
+                        "w": 2270
+                    }
+                },
+                "orientation": "0",
+                "geometry": "0x0-0-0",
+                "normalize": "false",
+                "imgid": "4"
+            },
+            "nutrition": {
+                "rev": "12",
+                "white_magic": "false",
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 30,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 7,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 15,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 168,
+                        "w": 2270
+                    }
+                },
+                "orientation": "0",
+                "geometry": "0x0-0-0",
+                "normalize": "false",
+                "imgid": "4"
+            },
+            "11": {
+                "uploaded_t": 1607379037,
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 90,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 22,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 461,
+                        "w": 2050
+                    }
+                }
+            },
+            "3": {
+                "uploaded_t": 1409334414,
+                "uploader": "jacob80",
+                "sizes": {
+                    "400": {
+                        "h": 51,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 13,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 276,
+                        "w": 2162
+                    }
+                }
+            },
+            "15": {
+                "uploaded_t": 1616949618,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 385,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 96,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2276,
+                        "w": 2365
+                    }
+                }
+            },
+            "6": {
+                "uploaded_t": 1548615383,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 399
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2365,
+                        "w": 2362
+                    }
+                }
+            },
+            "9": {
+                "uploaded_t": 1555324587,
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 110,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 28,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 566,
+                        "w": 2050
+                    }
+                }
+            },
+            "front": {
+                "rev": "7",
+                "white_magic": null,
+                "geometry": "0x0--1--1",
+                "normalize": null,
+                "sizes": {
+                    "400": {
+                        "h": 257,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 64,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 292,
+                        "w": 455
+                    },
+                    "200": {
+                        "h": 128,
+                        "w": 200
+                    }
+                },
+                "imgid": "1"
+            },
+            "2": {
+                "uploaded_t": 1409334408,
+                "uploader": "jacob80",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 395
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 99
+                    },
+                    "full": {
+                        "h": 1455,
+                        "w": 1436
+                    }
+                }
+            },
+            "14": {
+                "uploaded_t": 1616949617,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 400,
+                        "w": 399
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2365,
+                        "w": 2362
+                    }
+                }
+            },
+            "front_fr": {
+                "y1": "-1",
+                "rev": "28",
+                "y2": "-1",
+                "x2": "-1",
+                "x1": "-1",
+                "white_magic": "false",
+                "sizes": {
+                    "400": {
+                        "h": 244,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 61,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 122,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 1441,
+                        "w": 2365
+                    }
+                },
+                "coordinates_image_size": "400",
+                "angle": 0,
+                "normalize": "false",
+                "geometry": "0x0--5--5",
+                "imgid": "12"
+            },
+            "12": {
+                "uploaded_t": 1616949616,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 244,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 61,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1441,
+                        "w": 2365
+                    }
+                }
+            },
+            "ingredients": {
+                "rev": "8",
+                "white_magic": null,
+                "geometry": "0x0--5--5",
+                "sizes": {
+                    "400": {
+                        "h": 51,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 13,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 276,
+                        "w": 2162
+                    },
+                    "200": {
+                        "h": 26,
+                        "w": 200
+                    }
+                },
+                "normalize": null,
+                "imgid": "3"
+            },
+            "7": {
+                "uploaded_t": 1548615384,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 385,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 96,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 2276,
+                        "w": 2365
+                    }
+                }
+            },
+            "10": {
+                "uploaded_t": 1607379035,
+                "uploader": "kiliweb",
+                "sizes": {
+                    "400": {
+                        "h": 257,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 64,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 257,
+                        "w": 400
+                    }
+                }
+            },
+            "13": {
+                "uploaded_t": 1616949617,
+                "uploader": "org-carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 325,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 81,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1919,
+                        "w": 2365
+                    }
+                }
+            },
+            "1": {
+                "uploaded_t": 1409334399,
+                "uploader": "jacob80",
+                "sizes": {
+                    "400": {
+                        "h": 257,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 64,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 292,
+                        "w": 455
+                    }
+                }
+            },
+            "4": {
+                "uploaded_t": 1409334420,
+                "uploader": "jacob80",
+                "sizes": {
+                    "400": {
+                        "h": 30,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 7,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 168,
+                        "w": 2270
+                    }
+                }
+            },
+            "5": {
+                "uploaded_t": 1548615383,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 325,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 81,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1919,
+                        "w": 2365
+                    }
+                }
+            },
+            "8": {
+                "uploaded_t": 1548615384,
+                "uploader": "carrefour",
+                "sizes": {
+                    "400": {
+                        "h": 244,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 61,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 1441,
+                        "w": 2365
+                    }
+                }
+            },
+            "ingredients_fr": {
+                "y1": null,
+                "y2": null,
+                "rev": "22",
+                "x2": null,
+                "white_magic": "0",
+                "x1": null,
+                "ocr": 1,
+                "sizes": {
+                    "400": {
+                        "h": 110,
+                        "w": 400
+                    },
+                    "100": {
+                        "h": 28,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 55,
+                        "w": 200
+                    },
+                    "full": {
+                        "h": 566,
+                        "w": 2050
+                    }
+                },
+                "angle": null,
+                "orientation": "0",
+                "geometry": "0x0-0-0",
+                "normalize": "0",
+                "imgid": "9"
+            }
+        },
+        "countries_lc": "fr",
+        "update_key": "key_1618065313",
+        "nova_groups_tags": [
+            "en:4-ultra-processed-food-and-drink-products"
+        ],
+        "manufacturing_places": "Crêperie Jarnoux SA - Rue de la Saudraie la Poterie - ZI de Lanjouan,22400 Lamballe,Côtes-d'Armor,Bretagne,France",
+        "codes_tags": [
+            "code-13",
+            "3560070805xxx",
+            "356007080xxxx",
+            "35600708xxxxx",
+            "3560070xxxxxx",
+            "356007xxxxxxx",
+            "35600xxxxxxxx",
+            "3560xxxxxxxxx",
+            "356xxxxxxxxxx",
+            "35xxxxxxxxxxx",
+            "3xxxxxxxxxxxx"
+        ],
+        "customer_service_fr": "Interdis - TSA 91431 - 91343 MASSY Cedex - France",
+        "last_modified_by": "hungergames",
+        "entry_dates_tags": [
+            "2014-08-29",
+            "2014-08",
+            "2014"
+        ],
+        "conservation_conditions_nl_imported": "Te gebruiken tot: zie datum op de zijkant. Eens geopend, binnen 48 uur consumeren. Te bewaren tussen 0°C en +4°C. \nVerpakt onder beschermende atmosfeer.",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "_keywords": [
+            "breton",
+            "lamballe",
+            "mini-crepe",
+            "bretagne",
+            "galette",
+            "crepe",
+            "sa",
+            "frai",
+            "cotes-d",
+            "oeuf",
+            "eco-emballage",
+            "green",
+            "petit-dejeuner",
+            "aux",
+            "dot",
+            "lait",
+            "jarnoux",
+            "et",
+            "sucree",
+            "france",
+            "armor",
+            "entier",
+            "carrefour",
+            "creperie",
+            "pancake",
+            "22400",
+            "made-in-france",
+            "epaisse"
+        ],
+        "labels_lc": "en",
+        "packaging": "Frais,Barquette,Plastique 01",
+        "minerals_tags": [],
+        "image_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.400.jpg",
+        "popularity_key": 19900000018,
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "nutrition_data_per": "100g",
+        "photographers_tags": [
+            "jacob80",
+            "carrefour",
+            "kiliweb",
+            "org-carrefour"
+        ],
+        "last_modified_t": 1617205204,
+        "ingredients": [
+            {
+                "percent_estimate": "35",
+                "percent_min": "35",
+                "percent": "35",
+                "vegan": "no",
+                "origins": "en:brittany",
+                "vegetarian": "yes",
+                "percent_max": "35",
+                "id": "en:fresh-whole-milk",
+                "text": "_Lait_ frais entier"
+            },
+            {
+                "percent_max": "35",
+                "id": "en:wheat-flour",
+                "text": "farine de _blé_",
+                "percent_estimate": 23.5,
+                "percent_min": "12",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 29.3333333333333,
+                "id": "en:unrefined-cane-sugar",
+                "text": "sucre roux de canne",
+                "percent_estimate": 20.6666666666667,
+                "percent_min": "12",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent": "12",
+                "percent_estimate": "12",
+                "percent_min": "12",
+                "vegan": "no",
+                "origins": "en:france",
+                "vegetarian": "yes",
+                "percent_max": "12",
+                "id": "en:whole-fresh-eggs",
+                "text": "_oeufs_ entiers frais"
+            },
+            {
+                "percent_estimate": 4.41666666666667,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": "12",
+                "id": "en:colza-oil",
+                "text": "huile de colza"
+            },
+            {
+                "percent_max": 10.25,
+                "id": "en:raising-agent",
+                "percent_min": 0,
+                "percent_estimate": 2.20833333333334,
+                "text": "poudre à lever"
+            },
+            {
+                "percent_max": 8.2,
+                "id": "en:e500i",
+                "percent_min": 0,
+                "percent_estimate": 1.10416666666667,
+                "text": "carbonate de sodium",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 6.83333333333333,
+                "id": "en:wheat-starch",
+                "text": "amidon de _blé_",
+                "percent_estimate": 0.552083333333336,
+                "percent_min": 0,
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_max": 5.85714285714286,
+                "id": "en:salt",
+                "percent_min": 0,
+                "percent_estimate": 0.276041666666671,
+                "text": "sel",
+                "vegan": "yes",
+                "vegetarian": "yes"
+            },
+            {
+                "percent_min": 0,
+                "percent_estimate": 0.276041666666671,
+                "vegan": "yes",
+                "vegetarian": "yes",
+                "from_palm_oil": "no",
+                "percent_max": 5.125,
+                "id": "en:sunflower-oil",
+                "text": "huile de tournesol"
+            }
+        ],
+        "other_nutritional_substances_tags": [],
+        "cities_tags": [
+            "lamballe-cotes-d-armor-france",
+            "lamballe-cotes-d-armor-france"
+        ],
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-completed, en:characteristics-completed, en:origins-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+        "ingredients_text_with_allergens": "<span class=\"allergen\">Lait</span> frais entier (origine Bretagne) 35%, farine de <span class=\"allergen\">blé</span>, sucre roux de canne, <span class=\"allergen\">oeufs</span> entiers frais (origine France) 12%, huile de colza, poudre à lever : diphosphate disodique, carbonate de sodium et amidon de <span class=\"allergen\">blé</span>, sel, huile de tournesol.",
+        "preparation_nl": "Ideaal als ontbijt of vieruurtje. Om koud te eten of verwarmd circa 1 minuut in de broodrooster of 10 seconden in de microgolfoven op 750 watts. Kan puur gegeten worden of eventueel overgoten met ahornsiroop of chocoladesaus.",
+        "nutrient_levels_tags": [
+            "en:fat-in-moderate-quantity",
+            "en:saturated-fat-in-moderate-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-moderate-quantity"
+        ],
+        "nutrition_data_prepared_per_imported": "100g",
+        "minerals_prev_tags": [],
+        "product_name_fr_imported": "Pancakes",
+        "product_name": "Pancakes",
+        "ingredients_text": "_Lait_ frais entier (origine Bretagne) 35%, farine de _blé_, sucre roux de canne, _oeufs_ entiers frais (origine France) 12%, huile de colza, poudre à lever : diphosphate disodique, carbonate de sodium et amidon de _blé_, sel, huile de tournesol.",
+        "languages_tags": [
+            "en:dutch",
+            "en:french",
+            "en:2",
+            "en:multilingual"
+        ],
+        "allergens": "en:eggs,en:milk",
+        "image_ingredients_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/ingredients_fr.22.100.jpg",
+        "origin_nl_imported": "Deze pancakes zijn geproduceerd in Bretagne met Bretonse melk, tarwebloem en eieren uit Frankrijk.",
+        "selected_images": {
+            "nutrition": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/nutrition_fr.12.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/nutrition_fr.12.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/nutrition_fr.12.200.jpg"
+                }
+            },
+            "ingredients": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/ingredients_fr.22.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/ingredients_fr.22.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/ingredients_fr.22.200.jpg"
+                }
+            },
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.200.jpg"
+                }
+            }
+        },
+        "product_name_nl": "Pancakes",
+        "producer_nl_imported": "Geproduceerd in Frankrijk door EMB 22093 K voor Interdis.",
+        "data_sources_tags": [
+            "producer-carrefour",
+            "producers"
+        ],
+        "producer_nl": "Geproduceerd in Frankrijk door EMB 22093 K voor Interdis.",
+        "ingredients_from_palm_oil_tags": [],
+        "carbon_footprint_percent_of_known_ingredients": 47,
+        "categories_hierarchy": [
+            "en:breakfasts",
+            "en:fresh-foods",
+            "en:crepes-and-galettes",
+            "en:crepes",
+            "en:pancakes",
+            "fr:Pancakes aux oeufs frais"
+        ],
+        "quantity_imported": "132 g",
+        "producer_product_id_imported": "6267",
+        "languages": {
+            "en:french": 12,
+            "en:dutch": 9
+        },
+        "purchase_places": "Villers Bocage 80260,France",
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-unknown",
+            "agribalyse-proxy-food-code-23799",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-unknown",
+            "agribalyse-known",
+            "agribalyse-23799"
+        ],
+        "no_nutrition_data": null,
+        "allergens_from_user": "(fr) en:eggs,en:milk",
+        "additives_debug_tags": [
+            "en-e450-added",
+            "en-e500i-added"
+        ],
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "ecoscore_tags": [
+            "b"
+        ],
+        "other_information_fr": "Refermable \nAux oeufs frais\nx 6\nPICTO OPERCULE REFERMABLE",
+        "lc_imported": "fr",
+        "nutrition_score_beverage": 0,
+        "image_front_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.100.jpg",
+        "ingredients_text_debug": "Lait frais entier (origine Bretagne) 35%, farine de blé, sucre roux de canne, oeufs entiers frais (origine France) 12%, huile de colza, poudre à lever :  diphosphate disodique, carbonate de sodium et amidon de blé, sel, huile de tournesol.",
+        "_id": "3560070805259",
+        "countries_tags": [
+            "en:france"
+        ],
+        "ingredients_hierarchy": [
+            "en:fresh-whole-milk",
+            "en:dairy",
+            "en:milk",
+            "en:whole-milk",
+            "en:fresh-milk",
+            "en:wheat-flour",
+            "en:cereal",
+            "en:flour",
+            "en:wheat",
+            "en:cereal-flour",
+            "en:unrefined-cane-sugar",
+            "en:sugar",
+            "en:cane-sugar",
+            "en:unrefined-sugar",
+            "en:whole-fresh-eggs",
+            "en:egg",
+            "en:whole-egg",
+            "en:colza-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:raising-agent",
+            "en:e500i",
+            "en:e500",
+            "en:wheat-starch",
+            "en:starch",
+            "en:salt",
+            "en:sunflower-oil",
+            "en:vegetable-oil",
+            "en:e450i",
+            "en:e450"
+        ],
+        "additives_original_tags": [
+            "en:e450i",
+            "en:e500i"
+        ],
+        "compared_to_category": "en:pancakes",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-completed",
+            "en:origins-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "ingredients_n_tags": [
+            "11",
+            "11-20"
+        ],
+        "pnns_groups_1_tags": [
+            "unknown",
+            "missing-association"
+        ],
+        "allergens_imported": "Œufs, Gluten, Lait",
+        "brands_tags": [
+            "carrefour"
+        ],
+        "data_quality_errors_tags": [],
+        "owners_tags": "org-carrefour",
+        "ingredients_ids_debug": [
+            "lait-frais-entier",
+            "origine-bretagne-35",
+            "farine-de-ble",
+            "sucre-roux-de-canne",
+            "oeufs-entiers-frais",
+            "origine-france-12",
+            "huile-de-colza",
+            "poudre-a-lever",
+            "diphosphate-disodique",
+            "carbonate-de-sodium-et-amidon-de-ble",
+            "sel",
+            "huile-de-tournesol"
+        ],
+        "ingredients_original_tags": [
+            "en:fresh-whole-milk",
+            "en:wheat-flour",
+            "en:unrefined-cane-sugar",
+            "en:whole-fresh-eggs",
+            "en:colza-oil",
+            "en:raising-agent",
+            "en:e500i",
+            "en:wheat-starch",
+            "en:salt",
+            "en:sunflower-oil",
+            "en:e450i"
+        ],
+        "data_sources": "Producer - Carrefour, Producers",
+        "product_name_nl_imported": "Pancakes",
+        "manufacturing_places_tags": [
+            "creperie-jarnoux-sa-rue-de-la-saudraie-la-poterie-zi-de-lanjouan",
+            "22400-lamballe",
+            "cotes-d-armor",
+            "bretagne",
+            "france"
+        ],
+        "ingredients_text_fr_imported": "_Lait_ frais entier (origine Bretagne) 35%, farine de _blé_, sucre roux de canne, _oeufs_ entiers frais (origine France) 12%, huile de colza, poudre à lever : diphosphate disodique, carbonate de sodium et amidon de _blé_, sel, huile de tournesol.",
+        "conservation_conditions_fr_imported": "A consommer jusqu'au : voir la date figurant sur le côté. A consommer dans les 48h après ouverture. A conserver entre 0°C et +4°C. Conditionné sous atmosphère protectrice.",
+        "emb_codes_orig": "FR 22.093.041 EC, EMB 22093K",
+        "forest_footprint_data": {
+            "footprint_per_kg": 0.0105,
+            "ingredients": [
+                {
+                    "processing_factor": "1",
+                    "type": {
+                        "deforestation_risk": "0.75",
+                        "soy_feed_factor": "0.035",
+                        "name": "Oeufs standards",
+                        "soy_yield": "0.3"
+                    },
+                    "conditions_tags": [
+                        [
+                            "origins",
+                            "en:france"
+                        ]
+                    ],
+                    "tag_type": "ingredients",
+                    "percent": "12",
+                    "matching_tag_id": "en:egg",
+                    "tag_id": "en:whole-fresh-eggs",
+                    "footprint_per_kg": 0.0105
+                }
+            ],
+            "grade": "a"
+        },
+        "max_imgid": "15",
+        "emb_codes": "FR 22.093.041 EC, EMB 22093K",
+        "producer_product_id": "6267",
+        "producer_fr_imported": "Fabriqué en France par EMB 22093 K pour Interdis",
+        "image_ingredients_small_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/ingredients_fr.22.200.jpg",
+        "image_nutrition_small_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/nutrition_fr.12.200.jpg",
+        "owner": "org-carrefour",
+        "lc": "fr",
+        "conservation_conditions_nl": "Te gebruiken tot: zie datum op de zijkant. Eens geopend, binnen 48 uur consumeren. Te bewaren tussen 0°C en +4°C. \nVerpakt onder beschermende atmosfeer.",
+        "traces_from_ingredients": "",
+        "preparation_fr": "Idéal pour le petit déjeuner ou le goûter. A déguster froid ou réchauffé 1 minute environ au grille-pain ou 10 secondes au micro-ondes à 750 watts. A consommer nature ou nappé par exemple de sirop d'érable ou de chocolat.",
+        "popularity_tags": [
+            "bottom-25-percent-scans-2019",
+            "top-80-percent-scans-2019",
+            "top-85-percent-scans-2019",
+            "top-90-percent-scans-2019",
+            "top-country-fr-scans-2019",
+            "top-50000-be-scans-2019",
+            "top-100000-be-scans-2019",
+            "top-100000-scans-2020",
+            "at-least-5-scans-2020",
+            "top-75-percent-scans-2020",
+            "top-80-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-100000-fr-scans-2020",
+            "top-country-fr-scans-2020",
+            "at-least-5-fr-scans-2020"
+        ],
+        "conservation_conditions_fr": "A consommer jusqu'au : voir la date figurant sur le côté. A consommer dans les 48h après ouverture. A conserver entre 0°C et +4°C. Conditionné sous atmosphère protectrice.",
+        "categories_tags": [
+            "en:breakfasts",
+            "en:fresh-foods",
+            "en:crepes-and-galettes",
+            "en:crepes",
+            "en:pancakes",
+            "fr:pancakes-aux-oeufs-frais"
+        ],
+        "ingredients_text_with_allergens_nl": "Volle verse <span class=\"allergen\">melk</span> (uit Bretagne) 35%,<span class=\"allergen\"> _tarwe</span>_bloem, ruwe rietsuiker, verse hele <span class=\"allergen\">eieren</span> (uit Frankrijk) 12%, koolzaadolie, rijsmiddelen: dinatriumdifosfaat, natriumcarbonaat en <span class=\"allergen\">_tarwe</span>_zetmeel, zout, zonnebloemolie.",
+        "allergens_hierarchy": [
+            "en:eggs",
+            "en:gluten",
+            "en:milk"
+        ],
+        "categories_imported": "Pancakes",
+        "origins_tags": [
+            "en:france",
+            "en:brittany",
+            "fr:22400-lamballe",
+            "fr:creperie-jarnoux-sa",
+            "fr:cotes-d-armor",
+            "fr:lait-frais-entier-breton"
+        ],
+        "stores_imported": "Carrefour",
+        "additives_n": 2,
+        "pnns_groups_2_tags": [
+            "unknown",
+            "missing-association"
+        ],
+        "emb_codes_tags": [
+            "fr-22-093-041-ec",
+            "emb-22093k"
+        ],
+        "correctors_tags": [
+            "jacob80",
+            "sebleouf",
+            "carrefour",
+            "openfoodfacts-contributors",
+            "org-carrefour",
+            "hungergames"
+        ],
+        "origin_fr_imported": "Ces pancakes sont fabriqués en Bretagne avec du lait breton, de la farine de blé et des oeufs origine France.",
+        "sortkey": 1609504450,
+        "generic_name_nl_imported": "6 dikke, zoete minipannenkoeken.",
+        "categories_old": "Petit-déjeuners, Frais, Crêpes et galettes, Crêpes, Pancakes, Pancakes aux oeufs frais",
+        "nutrition_grades_tags": [
+            "c"
+        ],
+        "informers_tags": [
+            "jacob80",
+            "sebleouf",
+            "carrefour",
+            "openfoodfacts-contributors",
+            "selenee",
+            "org-carrefour"
+        ],
+        "brands_imported": "Carrefour",
+        "lang": "fr",
+        "interface_version_modified": "20150316.jqm2",
+        "additives_tags": [
+            "en:e450",
+            "en:e450i",
+            "en:e500",
+            "en:e500i"
+        ],
+        "unique_scans_n": 6,
+        "stores_debug_tags": [],
+        "unknown_nutrients_tags": [],
+        "nova_group_debug": " -- ingredients/en:salt : 3 -- additives/en:e450 : 4",
+        "traces_tags": [],
+        "generic_name_nl": "6 dikke, zoete minipannenkoeken.",
+        "ingredients_analysis_tags": [
+            "en:palm-oil-free",
+            "en:non-vegan",
+            "en:vegetarian"
+        ],
+        "image_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.100.jpg",
+        "created_t": 1409334382,
+        "nova_group": 4,
+        "scans_n": 7,
+        "ingredients_text_with_allergens_fr": "<span class=\"allergen\">Lait</span> frais entier (origine Bretagne) 35%, farine de <span class=\"allergen\">blé</span>, sucre roux de canne, <span class=\"allergen\">oeufs</span> entiers frais (origine France) 12%, huile de colza, poudre à lever : diphosphate disodique, carbonate de sodium et amidon de <span class=\"allergen\">blé</span>, sel, huile de tournesol.",
+        "owner_fields": {
+            "preparation_nl": 1616937029,
+            "lc": 1616937029,
+            "proteins": 1616937029,
+            "conservation_conditions_nl": 1616937029,
+            "energy-kcal": 1616937029,
+            "preparation_fr": 1616937029,
+            "conservation_conditions_fr": 1616937029,
+            "ingredients_text_fr": 1616937029,
+            "allergens": 1616937029,
+            "product_name_fr": 1616937029,
+            "product_name_nl": 1616937029,
+            "customer_service_fr": 1616937029,
+            "salt": 1616937029,
+            "quantity": 1616937029,
+            "producer_fr": 1616937029,
+            "nutrition_data_prepared_per": 1616937029,
+            "customer_service_nl": 1616937029,
+            "data_sources": 1616937029,
+            "origin_fr": 1616937029,
+            "producer_nl": 1616937029,
+            "saturated-fat": 1616937029,
+            "energy": 1616937029,
+            "fiber": 1616937029,
+            "emb_codes": 1616937029,
+            "lang": 1616937029,
+            "nutrition_data_per": 1616937029,
+            "producer_product_id": 1616937029,
+            "generic_name_fr": 1616937029,
+            "generic_name_nl": 1616937029,
+            "energy-kj": 1616937029,
+            "ingredients_text_nl": 1616937029,
+            "stores": 1616937029,
+            "countries": 1616937029,
+            "brands": 1616937029,
+            "obsolete": 1616937029,
+            "categories": 1616937029,
+            "origin_nl": 1616937029,
+            "sugars": 1616937029,
+            "carbohydrates": 1616937029,
+            "fat": 1616937029
+        },
+        "ingredients_n": 11,
+        "origin": "Ces pancakes sont fabriqués en Bretagne avec du lait breton, de la farine de blé et des oeufs origine France.",
+        "editors_tags": [
+            "carrefour",
+            "openfoodfacts-contributors",
+            "kiliweb",
+            "jacob80",
+            "sebleouf",
+            "hungergames",
+            "org-carrefour",
+            "selenee"
+        ],
+        "allergens_tags": [
+            "en:eggs",
+            "en:gluten",
+            "en:milk"
+        ],
+        "nucleotides_prev_tags": [],
+        "emb_codes_debug_tags": [],
+        "code": "3560070805259",
+        "labels": "Green Dot, fr:Eco-Emballages, en:made-in-france",
+        "last_edit_dates_tags": [
+            "2021-03-31",
+            "2021-03",
+            "2021"
+        ],
+        "creator": "jacob80",
+        "nutrition_data_prepared_per": "100g",
+        "amino_acids_tags": [],
+        "countries_imported": "France",
+        "link": "http://www.creperie-jarnoux.com/",
+        "ingredients_debug": [
+            "Lait frais entier ",
+            "(",
+            "(",
+            null,
+            null,
+            "origine Bretagne) 35%",
+            ",",
+            null,
+            null,
+            null,
+            " farine de blé",
+            ",",
+            null,
+            null,
+            null,
+            " sucre roux de canne",
+            ",",
+            null,
+            null,
+            null,
+            " oeufs entiers frais ",
+            "(",
+            "(",
+            null,
+            null,
+            "origine France) 12%",
+            ",",
+            null,
+            null,
+            null,
+            " huile de colza",
+            ",",
+            null,
+            null,
+            null,
+            " poudre à lever ",
+            ":",
+            ":",
+            null,
+            null,
+            "  diphosphate disodique",
+            ",",
+            null,
+            null,
+            null,
+            " carbonate de sodium et amidon de blé",
+            ",",
+            null,
+            null,
+            null,
+            " sel",
+            ",",
+            null,
+            null,
+            null,
+            " huile de tournesol."
+        ],
+        "languages_codes": {
+            "fr": 12,
+            "nl": 9
+        },
+        "last_image_dates_tags": [
+            "2021-03-28",
+            "2021-03",
+            "2021"
+        ],
+        "expiration_date": "23/08/2014",
+        "image_front_small_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.200.jpg",
+        "data_quality_warnings_tags": [
+            "en:ecoscore-production-system-no-label"
+        ],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-missing-data-warning",
+            "en:ecoscore-computed",
+            "en:forest-footprint-computed",
+            "en:forest-footprint-a"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-completed",
+            "en:characteristics-completed",
+            "en:origins-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-to-be-selected",
+            "en:nutrition-photo-selected",
+            "en:ingredients-photo-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "countries_debug_tags": [],
+        "interface_version_created": "20120622",
+        "ecoscore_score": 76,
+        "other_information_nl": "Hersluitbaar\nMet verse eieren\nx 6\nPICTO OPERCULE REFERMABLE",
+        "nutriscore_grade": "c",
+        "countries": "France",
+        "stores": "Carrefour Market,Banque alimentaire, Carrefour",
+        "ciqual_food_name_tags": [
+            "unknown"
+        ],
+        "brands": "Carrefour",
+        "categories": "Petit-déjeuners, Frais, Crêpes et galettes, Crêpes, Pancakes, Pancakes aux oeufs frais",
+        "nutrition_grades": "c",
+        "known_ingredients_n": 31,
+        "nutrition_data_per_imported": "100g",
+        "origins": "Crêperie Jarnoux SA,22400 Lamballe,Côtes-d'Armor,Bretagne,France,Lait frais entier breton",
+        "data_quality_bugs_tags": [],
+        "ingredients_text_fr": "_Lait_ frais entier (origine Bretagne) 35%, farine de _blé_, sucre roux de canne, _oeufs_ entiers frais (origine France) 12%, huile de colza, poudre à lever : diphosphate disodique, carbonate de sodium et amidon de _blé_, sel, huile de tournesol.",
+        "serving_quantity": "22",
+        "customer_service_nl_imported": "Carrefour Product info PB 2000 Evere 3 - 1140 BRUSSELS Tél: 0800/9.10.11",
+        "categories_lc": "fr",
+        "obsolete_imported": "0",
+        "ecoscore_data": {
+            "status": "known",
+            "grade_be": "b",
+            "adjustments": {
+                "production_system": {
+                    "warning": "no_label"
+                },
+                "packaging": {
+                    "value": -10,
+                    "non_recyclable_and_non_biodegradable_materials": 1,
+                    "packagings": [
+                        {
+                            "shape": "en:tray",
+                            "material": "en:plastic",
+                            "non_recyclable_and_non_biodegradable": "maybe",
+                            "ecoscore_shape_ratio": "1",
+                            "ecoscore_material_score": "0"
+                        }
+                    ],
+                    "score": 0
+                },
+                "origins_of_ingredients": {
+                    "transportation_value_es": 4,
+                    "transportation_value_fr": 10,
+                    "transportation_value_be": 8,
+                    "transportation_value_ch": 7,
+                    "transportation_score_be": 55.25,
+                    "aggregated_origins": [
+                        {
+                            "origin": "en:france",
+                            "percent": 65
+                        },
+                        {
+                            "origin": "en:unknown",
+                            "percent": 35
+                        }
+                    ],
+                    "epi_score": 60.45,
+                    "epi_value": 1,
+                    "transportation_score_ch": 44.85,
+                    "transportation_score_ie": 30.55,
+                    "value_nl": 9,
+                    "value_ie": 6,
+                    "transportation_value_de": 6,
+                    "value_fr": 11,
+                    "value_be": 9,
+                    "value_es": 5,
+                    "transportation_value_ie": 5,
+                    "transportation_score_it": 30.55,
+                    "transportation_score_de": 39.65,
+                    "origins_from_origins_field": [
+                        "en:france"
+                    ],
+                    "transportation_score_fr": 65,
+                    "transportation_value_nl": 8,
+                    "transportation_value_lu": 8,
+                    "value_ch": 8,
+                    "transportation_score_es": 24.05,
+                    "transportation_value_it": 5,
+                    "value_de": 7,
+                    "value_it": 6,
+                    "transportation_score_lu": 53.3,
+                    "transportation_score_nl": 50.05,
+                    "value_lu": 9
+                },
+                "threatened_species": {}
+            },
+            "grade_fr": "b",
+            "score": 76,
+            "grade_de": "b",
+            "missing_data_warning": 1,
+            "grade_nl": "b",
+            "score_be": 85,
+            "agribalyse": {
+                "co2_transportation": "0.12289334",
+                "ef_distribution": "0.0098990521",
+                "name_fr": "Crêpe, nature, préemballée, rayon frais",
+                "score": 86,
+                "ef_agriculture": "0.15860705",
+                "ef_consumption": "0",
+                "name_en": "Crepe, plain, prepacked, refrigerated",
+                "co2_total": "1.7398075",
+                "ef_packaging": "0.021564136",
+                "ef_processing": "0.035113544000000003",
+                "is_beverage": 0,
+                "co2_processing": "0.15494358",
+                "dqr": "2.27",
+                "agribalyse_proxy_food_code": "23799",
+                "code": "23799",
+                "co2_consumption": "0",
+                "co2_distribution": "0.029120657",
+                "ef_total": "0.23473903",
+                "co2_agriculture": "1.14697",
+                "ef_transportation": "0.0095553106",
+                "co2_packaging": "0.28587888"
+            },
+            "grade_it": "b",
+            "score_nl": 85,
+            "grade_ie": "b",
+            "missing": {
+                "labels": 1
+            },
+            "score_ch": 84,
+            "score_de": 83,
+            "score_fr": 87,
+            "score_ie": 82,
+            "score_lu": 85,
+            "score_it": 82,
+            "score_es": 81,
+            "grade_ch": "b",
+            "grade_es": "b",
+            "grade": "b",
+            "grade_lu": "b"
+        },
+        "origins_old": "Crêperie Jarnoux SA,22400 Lamballe,Côtes-d'Armor,Bretagne,France,Lait frais entier breton",
+        "rev": 32,
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "last_editor": "hungergames",
+        "additives_prev_original_tags": [
+            "en:e450i",
+            "en:e500"
+        ],
+        "ingredients_tags": [
+            "en:fresh-whole-milk",
+            "en:dairy",
+            "en:milk",
+            "en:whole-milk",
+            "en:fresh-milk",
+            "en:wheat-flour",
+            "en:cereal",
+            "en:flour",
+            "en:wheat",
+            "en:cereal-flour",
+            "en:unrefined-cane-sugar",
+            "en:sugar",
+            "en:cane-sugar",
+            "en:unrefined-sugar",
+            "en:whole-fresh-eggs",
+            "en:egg",
+            "en:whole-egg",
+            "en:colza-oil",
+            "en:oil-and-fat",
+            "en:vegetable-oil-and-fat",
+            "en:rapeseed-oil",
+            "en:raising-agent",
+            "en:e500i",
+            "en:e500",
+            "en:wheat-starch",
+            "en:starch",
+            "en:salt",
+            "en:sunflower-oil",
+            "en:vegetable-oil",
+            "en:e450i",
+            "en:e450"
+        ],
+        "image_nutrition_thumb_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/nutrition_fr.12.100.jpg",
+        "ecoscore_grade": "b",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "nutrition_data": "on",
+        "ingredients_text_nl_imported": "Volle verse _melk_ (uit Bretagne) 35%, _tarwe_bloem, ruwe rietsuiker, verse hele _eieren_ (uit Frankrijk) 12%, koolzaadolie, rijsmiddelen: dinatriumdifosfaat, natriumcarbonaat en _tarwe_zetmeel, zout, zonnebloemolie.",
+        "id": "3560070805259",
+        "sources": [
+            {
+                "import_t": 1548615382,
+                "id": "carrefour",
+                "fields": [
+                    "product_name_fr",
+                    "product_name_nl",
+                    "generic_name_fr",
+                    "generic_name_nl",
+                    "quantity",
+                    "emb_codes",
+                    "stores",
+                    "other_information_fr",
+                    "other_information_nl",
+                    "conservation_conditions_fr",
+                    "conservation_conditions_nl",
+                    "ingredients_text_fr",
+                    "ingredients_text_nl"
+                ],
+                "url": "https://www.carrefour.fr",
+                "manufacturer": "1",
+                "name": "Carrefour",
+                "images": []
+            },
+            {
+                "import_t": 1549477840,
+                "id": "carrefour",
+                "fields": [
+                    "customer_service_fr",
+                    "customer_service_nl",
+                    "producer_fr",
+                    "producer_nl",
+                    "preparation_fr",
+                    "preparation_nl"
+                ],
+                "url": "https://www.carrefour.fr",
+                "manufacturer": "1",
+                "name": "Carrefour",
+                "images": []
+            },
+            {
+                "import_t": 1616949615,
+                "id": "org-carrefour",
+                "fields": [
+                    "producer_product_id",
+                    "origin_fr",
+                    "origin_nl",
+                    "allergens",
+                    "ingredients_text_fr",
+                    "ingredients_text_nl",
+                    "nutrients.energy_value",
+                    "nutrients.energy-kcal_unit",
+                    "nutrients.energy-kcal_value",
+                    "nutrients.energy-kj_value",
+                    "nutrients.fat_value",
+                    "nutrients.fiber_value",
+                    "nutrients.proteins_value",
+                    "nutrients.salt_value",
+                    "nutrients.saturated-fat_value",
+                    "nutrients.sugars_value"
+                ],
+                "url": null,
+                "manufacturer": 1,
+                "name": "carrefour",
+                "images": []
+            }
+        ],
+        "pnns_groups_1": "unknown",
+        "other_information": "Refermable \nAux oeufs frais\nx 6\nPICTO OPERCULE REFERMABLE",
+        "image_ingredients_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/ingredients_fr.22.400.jpg",
+        "data_quality_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish",
+            "en:ecoscore-production-system-no-label"
+        ],
+        "additives_old_tags": [
+            "en:e450",
+            "en:e500"
+        ],
+        "labels_hierarchy": [
+            "en:green-dot",
+            "en:made-in-france",
+            "fr:Eco-Emballages"
+        ],
+        "ingredients_from_palm_oil_n": 0,
+        "origins_hierarchy": [
+            "en:france",
+            "en:brittany",
+            "fr:22400 Lamballe",
+            "fr:Crêperie Jarnoux SA",
+            "fr:Côtes-d'Armor",
+            "fr:Lait frais entier breton"
+        ],
+        "complete": 0,
+        "pnns_groups_2": "unknown",
+        "new_additives_n": 3,
+        "product_quantity": "132",
+        "image_front_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.400.jpg",
+        "preparation_nl_imported": "Ideaal als ontbijt of vieruurtje. Om koud te eten of verwarmd circa 1 minuut in de broodrooster of 10 seconden in de microgolfoven op 750 watts. Kan puur gegeten worden of eventueel overgoten met ahornsiroop of chocoladesaus.",
+        "producer": "Fabriqué en France par EMB 22093 K pour Interdis",
+        "serving_size": "22g",
+        "stores_tags": [
+            "carrefour-market",
+            "banque-alimentaire",
+            "carrefour"
+        ],
+        "nutriscore_score": 4,
+        "additives_old_n": 2,
+        "packagings": [
+            {
+                "shape": "en:tray",
+                "material": "en:plastic"
+            }
+        ],
+        "preparation_fr_imported": "Idéal pour le petit déjeuner ou le goûter. A déguster froid ou réchauffé 1 minute environ au grille-pain ou 10 secondes au micro-ondes à 750 watts. A consommer nature ou nappé par exemple de sirop d'érable ou de chocolat.",
+        "data_quality_info_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+        ],
+        "quantity": "132 g",
+        "vitamins_prev_tags": [],
+        "traces": "",
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+        "unknown_ingredients_n": 0,
+        "checkers_tags": [],
+        "lang_imported": "fr",
+        "editors": [
+            "jacob80"
+        ],
+        "nutriscore_score_opposite": -4,
+        "generic_name_fr": "6 mini-crêpes épaisses sucrées.",
+        "image_small_url": "https://static.openfoodfacts.net/images/products/356/007/080/5259/front_fr.28.200.jpg",
+        "nutriments": {
+            "carbohydrates_unit": "g",
+            "saturated-fat_serving": 0.396,
+            "energy-kj_100g": 1193,
+            "sugars_100g": 18,
+            "energy-kcal": 284,
+            "proteins_serving": 1.47,
+            "sodium_value": 0.344,
+            "salt_100g": 0.86,
+            "nova-group_serving": 4,
+            "energy_unit": "kJ",
+            "energy-kj_serving": 262,
+            "sugars_unit": "g",
+            "energy-kj_unit": "kJ",
+            "salt": 0.86,
+            "energy-kcal_100g": 284,
+            "fiber_100g": 2.4,
+            "saturated-fat": 1.8,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+            "fat_value": 9.2,
+            "fiber": 2.4,
+            "nova-group_100g": 4,
+            "energy_value": 1193,
+            "carbon-footprint-from-known-ingredients_serving": 16.1,
+            "fiber_value": 2.4,
+            "fiber_unit": "g",
+            "carbohydrates_serving": 9.24,
+            "sodium_unit": "g",
+            "carbohydrates_100g": 42,
+            "fat": 9.2,
+            "energy-kcal_unit": "kcal",
+            "proteins": 6.7,
+            "salt_serving": 0.189,
+            "energy_100g": 1193,
+            "sodium_100g": 0.344,
+            "nutrition-score-fr_100g": 4,
+            "salt_unit": "g",
+            "proteins_unit": "g",
+            "carbohydrates_value": 42,
+            "sugars_serving": 3.96,
+            "fat_unit": "g",
+            "salt_value": 0.86,
+            "fiber_serving": 0.528,
+            "proteins_value": 6.7,
+            "saturated-fat_100g": 1.8,
+            "fat_serving": 2.02,
+            "carbon-footprint-from-known-ingredients_100g": 73.2,
+            "energy": 1193,
+            "nova-group": 4,
+            "saturated-fat_value": 1.8,
+            "energy-kcal_value": 284,
+            "fat_100g": 9.2,
+            "energy_serving": 262,
+            "saturated-fat_unit": "g",
+            "sodium_serving": 0.0757,
+            "energy-kj_value": 1193,
+            "energy-kj": 1193,
+            "carbon-footprint-from-known-ingredients_product": 96.6,
+            "proteins_100g": 6.7,
+            "sugars_value": 18,
+            "nutrition-score-fr": 4,
+            "sodium": 0.344,
+            "sugars": 18,
+            "carbohydrates": 42,
+            "energy-kcal_serving": 62.5
+        },
+        "generic_name_fr_imported": "6 mini-crêpes épaisses sucrées.",
+        "purchase_places_tags": [
+            "villers-bocage-80260",
+            "france"
+        ],
+        "ingredients_text_nl": "Volle verse _melk_ (uit Bretagne) 35%, _tarwe_bloem, ruwe rietsuiker, verse hele _eieren_ (uit Frankrijk) 12%, koolzaadolie, rijsmiddelen: dinatriumdifosfaat, natriumcarbonaat en _tarwe_zetmeel, zout, zonnebloemolie.",
+        "conservation_conditions": "A consommer jusqu'au : voir la date figurant sur le côté. A consommer dans les 48h après ouverture. A conserver entre 0°C et +4°C. Conditionné sous atmosphère protectrice."
+    },
+    "status_verbose": "product found"
+}
