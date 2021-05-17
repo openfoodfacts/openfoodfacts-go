@@ -114,11 +114,9 @@ func (h *Client) Product(code string) (*Product, error) {
 			if b > n {
 				b = n
 			}
-			err = errors.New(
-				fmt.Sprintf("%s at:\n  %s⚠️ %s",
-					string(err.Error()),
-					string(body[a:offs]), string(body[offs:b]),
-				),
+			err = fmt.Errorf("%s at:\n  %s⚠️ %s",
+				string(err.Error()),
+				string(body[a:offs]), string(body[offs:b]),
 			)
 		}
 
