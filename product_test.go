@@ -51,6 +51,7 @@ func TestProduct_Unmarshalling(t *testing.T) {
 		{"testdata/product/0812133010036.json", false, "Unmarshalling_0812133010036"},
 		{"testdata/product/8585002476821.json", false, "Unmarshalling_8585002476821"},
 		{"testdata/product/3560070805259.json", false, "Unmarshalling_3560070805259"},
+		{"testdata/product/7311041026670.json", false, "Unmarshalling_7311041026670"},
 		{"testdata/product/ingredients_n_as_int.json", false, "Unmarshalling_IntIngredientNAsInt"},
 		{"testdata/product/ingredients_n_as_string.json", false, "Unmarshalling_IntIngredientNAsString"},
 	}
