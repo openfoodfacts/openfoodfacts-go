@@ -40,3 +40,7 @@ There are runnable examples in the `examples` subdirectory.
 
 ## Authors
 Ken Allan
+
+## Third party applications
+If you use this SDK, feel free to open a PR to add your application in this list.
+
