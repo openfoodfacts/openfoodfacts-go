@@ -88,9 +88,23 @@ type Product struct {
 	IngredientsTags                             []string       `json:"ingredients_tags"`
 	IngredientsText                             string         `json:"ingredients_text"`
 	IngredientsTextDebug                        string         `json:"ingredients_text_debug"`
+	IngredientsTextAr                           string         `json:"ingredients_text_ar"`
+	IngredientsTextCh                           string         `json:"ingredients_text_ch"`
+	IngredientsTextDe                           string         `json:"ingredients_text_de"`
 	IngredientsTextEn                           string         `json:"ingredients_text_en"`
+	IngredientsTextEs                           string         `json:"ingredients_text_es"`
+	IngredientsTextFr                           string         `json:"ingredients_text_fr"`
+	IngredientsTextIt                           string         `json:"ingredients_text_it"`
+	IngredientsTextNl                           string         `json:"ingredients_text_nl"`
 	IngredientsTextWithAllergens                string         `json:"ingredients_text_with_allergens"`
+	IngredientsTextWithAllergensAr              string         `json:"ingredients_text_with_allergens_ar"`
+	IngredientsTextWithAllergensCh              string         `json:"ingredients_text_with_allergens_ch"`
+	IngredientsTextWithAllergensDe              string         `json:"ingredients_text_with_allergens_de"`
 	IngredientsTextWithAllergensEn              string         `json:"ingredients_text_with_allergens_en"`
+	IngredientsTextWithAllergensEs              string         `json:"ingredients_text_with_allergens_es"`
+	IngredientsTextWithAllergensFr              string         `json:"ingredients_text_with_allergens_fr"`
+	IngredientsTextWithAllergensNl              string         `json:"ingredients_text_with_allergens_nl"`
+	IngredientsTextWithAllergensIt              string         `json:"ingredients_text_with_allergens_it"`
 	IngredientsThatMayBeFromPalmOilNumber       int            `json:"ingredients_that_may_be_from_palm_oil_n"`
 	IngredientsThatMayBeFromPalmOilTags         []interface{}  `json:"ingredients_that_may_be_from_palm_oil_tags"`
 	InterfaceVersionCreated                     string         `json:"interface_version_created"`
@@ -130,7 +144,14 @@ type Product struct {
 	PnnsGroups2                                 string         `json:"pnns_groups_2"`
 	PnnsGroups2Tags                             []string       `json:"pnns_groups_2_tags"`
 	ProductName                                 string         `json:"product_name"`
+	ProductNameAr                               string         `json:"product_name_ar"`
+	ProductNameCh                               string         `json:"product_name_ch"`
+	ProductNameDe                               string         `json:"product_name_de"`
 	ProductNameEn                               string         `json:"product_name_en"`
+	ProductNameEs                               string         `json:"product_name_es"`
+	ProductNameFr                               string         `json:"product_name_fr"`
+	ProductNameIt                               string         `json:"product_name_it"`
+	ProductNameNl                               string         `json:"product_name_nl"`
 	PurchasePlaces                              string         `json:"purchase_places"`
 	PurchasePlacesTags                          []interface{}  `json:"purchase_places_tags"`
 	Quantity                                    string         `json:"quantity"`

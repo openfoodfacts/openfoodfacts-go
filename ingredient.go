@@ -6,10 +6,13 @@ package openfoodfacts
 import "encoding/json"
 
 type Ingredient struct {
-	ID         string      `json:"id"`
-	Rank       int         `json:"rank,omitempty"`
-	Text       string      `json:"text"`
-	Vegan      string      `json:"vegan,omitempty"`
-	Vegetarian string      `json:"vegetarian,omitempty"`
-	Percent    json.Number `json:"percent,omitempty"`
+	ID              string      `json:"id"`
+	Rank            int         `json:"rank,omitempty"`
+	Text            string      `json:"text"`
+	Vegan           string      `json:"vegan,omitempty"`
+	Vegetarian      string      `json:"vegetarian,omitempty"`
+	Percent         json.Number `json:"percent,omitempty"`
+	PercentEstimate json.Number `json:"percent_estimate,omitempty"`
+	PercentMax      json.Number `json:"percent_max,omitempty"`
+	PercentMin      json.Number `json:"percent_min,omitempty"`
 }
