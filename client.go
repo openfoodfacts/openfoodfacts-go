@@ -8,6 +8,7 @@
 package openfoodfacts
 
 import (
+	"context"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -48,16 +49,16 @@ type Client struct {
 // The username and password should be set to your OpenFoodFacts credentials if you need WRITE access, else provide
 // them both as empty strings for anonymous access.
 //
-// Sandbox mode
+// # Sandbox mode
 //
 // If you are testing your application, you should use the test server in order to use the sandbox environment instead
 // of the live servers. See the Sandbox() method for more detail and an example.
 //
-// Timeout
+// # Timeout
 //
 // By default the HTTP client doesn't sets a timeout. See the Timeout(time.Duration) method for more detail.
 //
-// UserAgent
+// # UserAgent
 //
 // Please set a UserAgent HTTP Header with the name of the app/service querying, the version, system and a URL if
 // you have one, so that you are not blocked by mistake
@@ -77,10 +78,10 @@ func NewClient(locale, username, password string) Client {
 //
 // It will return an error on a failed retrieval, if the retrieval is successful but the API result status is not 1,
 // then will return a "ProductRetrievalError" error. This indicates the product is not available.
-func (h *Client) Product(code string) (*Product, error) {
+func (h *Client) Product(ctx context.Context, code string) (*Product, error) {
 	request := h.newRequest("GET", "/api/v0/product/%s.json", code)
 
-	resp, err := h.client.Do(request)
+	resp, err := h.client.Do(request.WithContext(ctx))
 
 	if err != nil {
 		return nil, err

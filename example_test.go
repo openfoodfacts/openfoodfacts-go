@@ -4,6 +4,7 @@
 package openfoodfacts
 
 import (
+	"context"
 	"fmt"
 	"time"
 )
@@ -11,7 +12,7 @@ import (
 // You can use the Client.Product method to retrieve a Product by barcode.
 func ExampleClient_Product() {
 	api := NewClient("world", "", "")
-	product, err := api.Product("5201051001076")
+	product, err := api.Product(context.TODO(), "5201051001076")
 	if err != nil {
 		fmt.Printf("%+v\n", product)
 	}
