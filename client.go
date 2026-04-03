@@ -73,10 +73,10 @@ func NewClient(locale, username, password string) Client {
 	}
 }
 
-// ProductSearch returns a list of products matching the constraints, retrieved from the server.
-// Constructs the API response based on SearchQuery struct. See SearchQuery for more details on the query parameters.
+// QuerySearch returns a list of products matching the constraints, retrieved from the search API.
+// Constructs the API request based on the SearchQuery struct. See SearchQuery for more details on the query parameters.
 //
-// Returns an error on failed retrieval, if the retrieval is successful but the API result status is not 1, then will return a "ProductRetrievalError" error. This indicates the product is not available.
+// Returns an error on failed retrieval.
 func (h *Client) QuerySearch(query SearchQuery) (*SearchResponse, error) {
 	encode := query.ToQueryString()
 	request := h.newRequest("GET","search", "/search?%s", encode)
