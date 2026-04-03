@@ -17,7 +17,7 @@ import (
 )
 
 const defaultUserAgent = "OpenFoodFacts - Go - v0.0 - https://github.com/openfoodfacts/openfoodfacts-go"
-
+const SEARCH_BASE_URL = "https://search.openfoodfacts.org"
 var (
 	// ErrNoProduct is an error returned by Client.Product when the product could not be
 	// retrieved successfully.
@@ -72,6 +72,41 @@ func NewClient(locale, username, password string) Client {
 		userAgent: defaultUserAgent,
 	}
 }
+
+
+
+// ProductSearch returns a list of products matching the constraints, retrieved from the server.
+// Constructs the API response based on SearchQuery struct. See SearchQuery for more details on the query parameters.
+//
+// Returns an error on failed retrieval, if the retrieval is successful but the API result status is not 1, then will return a "ProductRetrievalError" error. This indicates the product is not available.
+func (h *Client) QuerySearch(query SearchQuery) (*SearchResponse, error) {
+	encode := query.ToQueryString()
+	request := h.newRequest("GET", "search?q=%s", encode)
+
+	resp, err := h.client.Do(request)
+
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+
+	body, err := io.ReadAll(resp.Body)
+
+	if err != nil {
+		return nil, err
+	}
+
+	searchResults := &SearchResponse{}
+	err = json.Unmarshal(body, searchResults)
+
+	if (err != nil) {
+		return nil, err
+	}
+
+	return searchResults, nil
+}
+
+
 
 // Product returns a new Product for the given code, retrieved from the server.
 //
