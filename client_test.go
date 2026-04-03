@@ -10,9 +10,10 @@ func TestQuerySearch_PrintsResults(t *testing.T) {
 	api := NewClient("world", "", "")
 
 	query := SearchQuery{
-		Keyword:  "chocolate",
-		Page:     1,
-		PageSize: 5,
+		Keyword:      "Lindt Excellence 70",
+		CategoryTags: []string{"en:dark-chocolates"},
+		Page:         1,
+		PageSize:     5,
 	}
 
 	result, err := api.QuerySearch(query)
@@ -23,6 +24,9 @@ func TestQuerySearch_PrintsResults(t *testing.T) {
 	t.Logf("Count: %d", result.Count)
 	t.Logf("Page: %d", result.Page)
 	t.Logf("Hits: %d", len(result.Hits))
+	for _, hit := range result.Hits {
+		t.Logf("- %s | %s", hit["code"], hit["product_name"])
+	}
 }
 
 func TestClient_newRequest_UserAgent(t *testing.T) {
