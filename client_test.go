@@ -10,10 +10,10 @@ func TestQuerySearch_PrintsResults(t *testing.T) {
 	api := NewClient("world", "", "")
 
 	query := SearchQuery{
-		Keyword:      "Lindt Excellence 70",
-		CategoryTags: []string{"en:dark-chocolates"},
+		Lang:         "en",
+		CategoryTags: []string{"beverages"},
 		Page:         1,
-		PageSize:     5,
+		PageSize:     2,
 	}
 
 	result, err := api.QuerySearch(query)
@@ -22,10 +22,10 @@ func TestQuerySearch_PrintsResults(t *testing.T) {
 	}
 
 	t.Logf("Count: %d", result.Count)
-	t.Logf("Page: %d", result.Page)
-	t.Logf("Hits: %d", len(result.Hits))
+	t.Logf("Hits returned: %d", len(result.Hits))
 	for _, hit := range result.Hits {
-		t.Logf("- %s | %s", hit["code"], hit["product_name"])
+		cats, _ := hit["categories_tags"].([]interface{})
+		t.Logf("- %s | categories: %v", hit["product_name"], cats)
 	}
 }
 
