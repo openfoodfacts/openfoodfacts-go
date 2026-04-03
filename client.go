@@ -11,7 +11,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"io"
+	"io/ioutil"
 	"net/http"
 	"time"
 )
@@ -88,7 +88,7 @@ func (h *Client) QuerySearch(query SearchQuery) (*SearchResponse, error) {
 	}
 	defer resp.Body.Close()
 
-	body, err := io.ReadAll(resp.Body)
+	body, err := ioutil.ReadAll(resp.Body)
 
 	if err != nil {
 		return nil, err
@@ -120,7 +120,7 @@ func (h *Client) Product(code string) (*Product, error) {
 	}
 	defer resp.Body.Close()
 
-	body, err := io.ReadAll(resp.Body)
+	body, err := ioutil.ReadAll(resp.Body)
 
 	if err != nil {
 		return nil, err
