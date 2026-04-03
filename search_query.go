@@ -41,35 +41,35 @@ func (q SearchQuery) ToQueryString() string {
 	}
 
 	for _, tag := range q.CategoryTags {
-		qParts = append(qParts, fmt.Sprintf(`categories_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`categories_tags:%q`, q.prefixTag(tag)))
 	}
 
 	for _, tag := range q.BrandsTags {
-		qParts = append(qParts, fmt.Sprintf(`brands_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`brands_tags:%q`, q.prefixTag(tag)))
 	}
 
 	for _, tag := range q.LabelsTags {
-		qParts = append(qParts, fmt.Sprintf(`labels_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`labels_tags:%q`, q.prefixTag(tag)))
 	}
 
 	for _, tag := range q.CountriesTags {
-		qParts = append(qParts, fmt.Sprintf(`countries_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`countries_tags:%q`, q.prefixTag(tag)))
 	}
 
 	for _, tag := range q.StatesTags {
-		qParts = append(qParts, fmt.Sprintf(`states_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`states_tags:%q`, q.prefixTag(tag)))
 	}
 
 	for _, tag := range q.IngredientsTags {
-		qParts = append(qParts, fmt.Sprintf(`ingredients_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`ingredients_tags:%q`, q.prefixTag(tag)))
 	}
 
 	for _, tag := range q.AllergensTags {
-		qParts = append(qParts, fmt.Sprintf(`allergens_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`allergens_tags:%q`, q.prefixTag(tag)))
 	}
 
 	for _, tag := range q.IngredientsAnalysis {
-		qParts = append(qParts, fmt.Sprintf(`ingredients_analysis_tags:"%s"`, q.prefixTag(tag)))
+		qParts = append(qParts, fmt.Sprintf(`ingredients_analysis_tags:%q`, q.prefixTag(tag)))
 	}
 
 	if len(qParts) > 0 {
