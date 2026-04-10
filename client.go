@@ -73,11 +73,11 @@ func NewClient(locale, username, password string) Client {
 	}
 }
 
-// QuerySearch returns a list of products matching the constraints, retrieved from the search API.
+// SearchProducts returns a list of products matching the constraints, retrieved from the search API.
 // Constructs the API request based on the SearchQuery struct. See SearchQuery for more details on the query parameters.
 //
 // Returns an error on failed retrieval.
-func (h *Client) QuerySearch(query SearchQuery) (*SearchResponse, error) {
+func (h *Client) SearchProducts(query SearchQuery) (*SearchResponse, error) {
 	encode := query.ToQueryString()
 	request := h.newRequest("GET","search", "/search?%s", encode)
 

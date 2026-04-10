@@ -6,7 +6,7 @@ import (
 
 
 
-func TestQuerySearch_PrintsResults(t *testing.T) {
+func TestSearchProducts_PrintsResults(t *testing.T) {
 	api := NewClient("world", "", "")
 
 	query := SearchQuery{
@@ -16,7 +16,7 @@ func TestQuerySearch_PrintsResults(t *testing.T) {
 		PageSize:     2,
 	}
 
-	result, err := api.QuerySearch(query)
+	result, err := api.SearchProducts(query)
 	if err != nil {
 		t.Fatal(err)
 	}
