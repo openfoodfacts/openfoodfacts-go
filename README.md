@@ -14,9 +14,7 @@ This library is copyright © 2019-2025 OpenFoodFacts. All rights reserved. Use o
 
 [Package documentation](https://godoc.org/github.com/openfoodfacts/openfoodfacts-go)
 
-[OpenFoodFacts API details](https://wiki.openfoodfacts.org/Project:API)
-
-[Go API wiki page](https://wiki.openfoodfacts.org/API/Go)
+[OpenFoodFacts API details](https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/)
 
 ## Usage details
 
