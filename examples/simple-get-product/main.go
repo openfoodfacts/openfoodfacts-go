@@ -35,7 +35,7 @@ func init() {
 }
 
 func main() {
-	api := openfoodfacts.NewClient("world", "", "")
+	api := openfoodfacts.NewClient()
 	product, err := api.Product(code)
 	if err == nil {
 		fmt.Printf("%+v\n", product)
