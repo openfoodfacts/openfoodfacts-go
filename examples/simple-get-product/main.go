@@ -29,13 +29,18 @@ var (
 	code string
 )
 
+const (
+	anonymousUsername = ""
+	anonymousPassword = ""
+)
+
 func init() {
 	flag.StringVar(&code, "code", "0737628064502", "Supply the barcode of the item you wish to retrieve")
 	flag.Parse()
 }
 
 func main() {
-	api := openfoodfacts.NewClient("world", "", "")
+	api := openfoodfacts.NewClient("world", anonymousUsername, anonymousPassword)
 	product, err := api.Product(code)
 	if err == nil {
 		fmt.Printf("%+v\n", product)
