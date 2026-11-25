@@ -28,7 +28,7 @@ import (
 )
 
 func main() {
-	api := openfoodfacts.NewClient("world", "", "")
+	api := openfoodfacts.NewClient()
 	product, err := api.Product("0737628064502")
 }
 

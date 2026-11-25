@@ -11,8 +11,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"net/http"
+	"net/url"
 	"time"
 )
 
@@ -29,6 +30,9 @@ var (
 	ErrUnauthorized = errors.New("Action requires user account")
 )
 
+// Option is a functional option type that allows us to configure the Client.
+type Option func(*Client)
+
 // Client is an OpenFoodFacts client.
 // It uses the official API as data source.
 type Client struct {
@@ -36,6 +40,7 @@ type Client struct {
 	username  string
 	password  string
 	live      bool
+	url       url.URL
 	client    *http.Client
 	userAgent string
 }
@@ -62,14 +67,56 @@ type Client struct {
 // Please set a UserAgent HTTP Header with the name of the app/service querying, the version, system and a URL if
 // you have one, so that you are not blocked by mistake
 // (e.g. CoolFoodApp - Go - Version 1.0 - https://coolfoodapp.com)
-func NewClient(locale, username, password string) Client {
-	return Client{
-		locale:    locale,
-		username:  username,
-		password:  password,
-		live:      true,
+func NewClient(opts ...Option) Client {
+	client := Client{
+		locale:    "world",
 		client:    &http.Client{},
+		live:      true,
+		username:  "",
+		password:  "",
 		userAgent: defaultUserAgent,
+	}
+
+	client.Apply(opts...)
+
+	return client
+}
+
+func (c *Client) Apply(opts ...Option) {
+	for _, opt := range opts {
+		opt(c)
+	}
+	c.url = buildURL(c)
+}
+
+func WithLocale(locale string) Option {
+	return func(c *Client) {
+		c.locale = locale
+	}
+}
+
+func WithCredentials(username, password string) Option {
+	return func(c *Client) {
+		c.username = username
+		c.password = password
+	}
+}
+
+func WithSandbox() Option {
+	return func(c *Client) {
+		c.live = false
+	}
+}
+
+func WithTimeout(timeout time.Duration) Option {
+	return func(c *Client) {
+		c.client = &http.Client{Timeout: timeout}
+	}
+}
+
+func WithUserAgent(userAgent string) Option {
+	return func(c *Client) {
+		c.userAgent = userAgent
 	}
 }
 
@@ -87,8 +134,7 @@ func (h *Client) Product(code string) (*Product, error) {
 	}
 	defer resp.Body.Close()
 
-	body, err := ioutil.ReadAll(resp.Body)
-
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
 	}
@@ -130,41 +176,23 @@ func (h *Client) Product(code string) (*Product, error) {
 	return productResult.Product, nil
 }
 
-// Sandbox configures this operator to use the sandbox server at http://world.openfoodfacts.net instead of the live
-// server. This is used for testing purposes instead of operating on the live server.
-func (h *Client) Sandbox() {
-	h.live = false
-}
-
-// Timeout configures the HTTP client timeout. As the net/http specifies a 0 timeout means no timeout.
-func (h *Client) Timeout(timeout time.Duration) {
-	h.client.Timeout = timeout
-}
-
-// UserAgent configures the HTTP User-Agent Header.
-func (h *Client) UserAgent(ua string) {
-	h.userAgent = ua
+func buildURL(c *Client) url.URL {
+	sub, tld := "ssl-api", "org"
+	if !c.live {
+		sub, tld = "world", "net"
+	}
+	if c.locale != "world" {
+		sub = c.locale
+	}
+	return url.URL{Scheme: "https", Host: fmt.Sprintf("%s.openfoodfacts.%s", sub, tld)}
 }
 
 // newRequest is an internal function to setup the request based on the given
 // locale/liveness of the given Client.
 func (h *Client) newRequest(method, format string, args ...interface{}) *http.Request {
-	path := fmt.Sprintf(format, args...)
-	const scheme string = "https"
-	sub := "ssl-api"
-	tld := "org"
-
-	if !h.live {
-		sub = "world"
-		tld = "net"
-	}
-
-	if h.locale != "world" {
-		sub = h.locale
-	}
-
-	url := fmt.Sprintf("%s://%s.openfoodfacts.%s%s", scheme, sub, tld, path)
-	request, err := http.NewRequest(method, url, nil)
+	u := h.url
+	u.Path = fmt.Sprintf(format, args...)
+	request, err := http.NewRequest(method, u.String(), nil)
 	if err != nil {
 		return nil
 	}
